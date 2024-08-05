@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools==75.1.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "snippetbox"
+version = "2.0.0"
+description = "An offline, versioned knowledge base for organizing, reviewing, and sharing code snippets."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "ziad yasser", email = "yziad845@gmail.com" }]
+requires-python = ">=3.10"
+keywords = ["cli", "snippets", "bookmarks", "code", "developer-tools"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Environment :: Console",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==8.3.3", "pytest-cov==5.0.0", "ruff==0.6.9"]
+
+[project.scripts]
+snippetbox = "snippetbox.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+snippetbox = ["py.typed"]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = ["-ra"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "W"]
+ignore = ["E501", "E731"]
