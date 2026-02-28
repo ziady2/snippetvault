@@ -1,0 +1,17 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+12ebaae77f69,tail a file #0,shell,,,tail-a-file-0,,,for i in range(10): print(i)
+ce015c38985a,active users #1,rust,,,active-users-1,,,function foo() { return Math.random(); }
+e2d73c939257,merge two lists #2,yaml,,,merge-two-lists-2,,,for i in range(10): print(i)
+a02ea14d275c,go hello #3,go,,,go-hello-3,,,function foo() { return Math.random(); }
+49a63e7a1e5d,rust hello #4,javascript,,,rust-hello-4,,,SELECT * FROM users WHERE active = TRUE;
+0bfb7be9e5fa,node fs #5,python,,,node-fs-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+a6abcf94c027,rust hello #6,sql,,,rust-hello-6,,,echo 'hello world'
+54c138ad1dc4,grep TODO #7,sql,,,grep-todo-7,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+5e68959d2b06,active users #8,rust,,,active-users-8,,,"use std::io::Read;
+fn main() {}"
+6e7b7f5c2843,rust hello #9,yaml,,,rust-hello-9,,,for i in range(10): print(i)
+72c97b601ce1,tail a file #10,html,,,tail-a-file-10,,,for i in range(10): print(i)
+1b343dace7f3,html stub #11,javascript,,,html-stub-11,,,const fs = require('fs')

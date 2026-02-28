@@ -1,0 +1,12 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+d9f16cf3490c,active users #0,shell,,,active-users-0,,,"version: '3'
+services: {}"
+28570e972db9,compose #1,python,,,compose-1,,,"use std::io::Read;
+fn main() {}"
+ae807e53c803,go hello #2,python,,,go-hello-2,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+28bf3bda6cf2,compose #3,html,,,compose-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+ae3b2c5dc67b,go hello #4,javascript,,,go-hello-4,,,<html><body>x</body></html>

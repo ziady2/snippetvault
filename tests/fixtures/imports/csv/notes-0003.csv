@@ -1,0 +1,12 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+6eef4d4f498a,go hello #0,javascript,,,go-hello-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+d50112ecb784,grep TODO #1,python,,,grep-todo-1,,,function foo() { return Math.random(); }
+ef1b136ea750,compose #2,shell,,,compose-2,,,for i in range(10): print(i)
+d86ee88002bf,grep TODO #3,javascript,,,grep-todo-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+3715016a557f,go hello #4,go,,,go-hello-4,,,function foo() { return Math.random(); }
+98784804124a,go hello #5,html,,,go-hello-5,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

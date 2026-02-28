@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+869722fc4576,tail a file #0,go,,,tail-a-file-0,,,SELECT * FROM users WHERE active = TRUE;
+1ea4dcd636cf,rust hello #1,html,,,rust-hello-1,,,for i in range(10): print(i)
+49a9eddec83c,python loop #2,rust,,,python-loop-2,,,for i in range(10): print(i)
+b9839b22c58f,rust hello #3,rust,,,rust-hello-3,,,"version: '3'
+services: {}"
+e975325d6250,html stub #4,sql,,,html-stub-4,,,"use std::io::Read;
+fn main() {}"
+561460b27811,go hello #5,yaml,,,go-hello-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+221e3f4b60aa,merge two lists #6,go,,,merge-two-lists-6,,,const fs = require('fs')
+16a5c164f3ef,python loop #7,javascript,,,python-loop-7,,,SELECT * FROM users WHERE active = TRUE;
+32ef9a6ba8a2,tail a file #8,python,,,tail-a-file-8,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+1e714a8cd3b6,tail a file #9,python,,,tail-a-file-9,,,"use std::io::Read;
+fn main() {}"
+603bdb756540,tail a file #10,python,,,tail-a-file-10,,,"version: '3'
+services: {}"

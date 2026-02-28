@@ -1,0 +1,9 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+be5afbcf388b,rust hello #0,yaml,,,rust-hello-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+4d244f8cc3a1,rust hello #1,sql,,,rust-hello-1,,,SELECT * FROM users WHERE active = TRUE;
+3c32408b8d75,node fs #2,python,,,node-fs-2,,,<html><body>x</body></html>
+f07638ad1f64,rust hello #3,html,,,rust-hello-3,,,SELECT * FROM users WHERE active = TRUE;
+74cb2eb14e4a,node fs #4,shell,,,node-fs-4,,,"version: '3'
+services: {}"

@@ -1,0 +1,7 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+567136ebc94c,python loop #0,yaml,,,python-loop-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+3ae86cc92548,rust hello #1,python,,,rust-hello-1,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+f8fc47954206,go hello #2,go,,,go-hello-2,,,for i in range(10): print(i)

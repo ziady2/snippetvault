@@ -1,0 +1,13 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+13e9304420cd,merge two lists #0,shell,,,merge-two-lists-0,,,"version: '3'
+services: {}"
+0ea0ac4fbbaf,compose #1,go,,,compose-1,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+369d89b7b210,tail a file #2,shell,,,tail-a-file-2,,,const fs = require('fs')
+0eac3431e1f2,rust hello #3,yaml,,,rust-hello-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+f8a9892d8b88,node fs #4,javascript,,,node-fs-4,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

@@ -1,0 +1,6 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+7e242be1649d,python loop #0,yaml,,,python-loop-0,,,"version: '3'
+services: {}"
+88d48a2a8341,tail a file #1,html,,,tail-a-file-1,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

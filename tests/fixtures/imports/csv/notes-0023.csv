@@ -1,0 +1,8 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+46ca8d7c4f4a,html stub #0,javascript,,,html-stub-0,,,const fs = require('fs')
+a0f67fb0d038,compose #1,html,,,compose-1,,,for i in range(10): print(i)
+37258e57ef38,tail a file #2,yaml,,,tail-a-file-2,,,<html><body>x</body></html>
+c1ee4d1fd5c2,merge two lists #3,html,,,merge-two-lists-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+cc593383f12f,node fs #4,html,,,node-fs-4,,,SELECT * FROM users WHERE active = TRUE;
+7d18fef3293e,html stub #5,python,,,html-stub-5,,,function foo() { return Math.random(); }

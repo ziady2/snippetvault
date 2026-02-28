@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+d5eff008e2ec,node fs #0,python,,,node-fs-0,,,for i in range(10): print(i)
+f44bc840cc71,html stub #1,rust,,,html-stub-1,,,echo 'hello world'
+a8a1fb9c9605,active users #2,yaml,,,active-users-2,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+71a6b69aa7da,merge two lists #3,javascript,,,merge-two-lists-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+9e0b31901d55,node fs #4,go,,,node-fs-4,,,SELECT * FROM users WHERE active = TRUE;
+9e88ecdaf942,active users #5,javascript,,,active-users-5,,,function foo() { return Math.random(); }
+6b4be4259681,html stub #6,rust,,,html-stub-6,,,"version: '3'
+services: {}"
+6a07a3036255,html stub #7,javascript,,,html-stub-7,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+7034dd1c2d3b,go hello #8,shell,,,go-hello-8,,,function foo() { return Math.random(); }
+5e0c3e3ce8eb,go hello #9,javascript,,,go-hello-9,,,echo 'hello world'
+2b672c0b0af1,merge two lists #10,javascript,,,merge-two-lists-10,,,<html><body>x</body></html>

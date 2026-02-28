@@ -1,0 +1,5 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+f161df2c358c,node fs #0,rust,,,node-fs-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+bb1d9d714ed7,grep TODO #1,rust,,,grep-todo-1,,,function foo() { return Math.random(); }

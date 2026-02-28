@@ -1,0 +1,8 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+2fa136944713,python loop #0,html,,,python-loop-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+2b201fe79a21,compose #1,rust,,,compose-1,,,<html><body>x</body></html>
+5eac555fda8e,active users #2,python,,,active-users-2,,,"version: '3'
+services: {}"
+ded9a4452506,node fs #3,rust,,,node-fs-3,,,const fs = require('fs')
