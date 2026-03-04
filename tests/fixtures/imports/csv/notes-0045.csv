@@ -1,0 +1,19 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+15cd776ec453,compose #0,javascript,,,compose-0,,,function foo() { return Math.random(); }
+149d7b67f3fd,grep TODO #1,javascript,,,grep-todo-1,,,"version: '3'
+services: {}"
+8f3b6dd6022d,active users #2,python,,,active-users-2,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+b39a2ffa0e34,active users #3,go,,,active-users-3,,,echo 'hello world'
+54e4ea08a3ef,go hello #4,javascript,,,go-hello-4,,,"version: '3'
+services: {}"
+54377a2a7cae,tail a file #5,rust,,,tail-a-file-5,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+75c13a62ff30,grep TODO #6,javascript,,,grep-todo-6,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+b0a567c12cc7,tail a file #7,python,,,tail-a-file-7,,,const fs = require('fs')
+2a62a17c19d1,tail a file #8,python,,,tail-a-file-8,,,function foo() { return Math.random(); }
+ae5cbc28b822,python loop #9,sql,,,python-loop-9,,,for i in range(10): print(i)
+79e82c627b18,tail a file #10,python,,,tail-a-file-10,,,const fs = require('fs')
+2be670a86178,active users #11,sql,,,active-users-11,,,echo 'hello world'

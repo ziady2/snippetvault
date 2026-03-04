@@ -1,0 +1,8 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+cfd4cf0c53a9,grep TODO #0,sql,,,grep-todo-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+3a7360f89fb0,python loop #1,shell,,,python-loop-1,,,function foo() { return Math.random(); }
+45257931f888,rust hello #2,html,,,rust-hello-2,,,"use std::io::Read;
+fn main() {}"
+10e1fd828076,python loop #3,javascript,,,python-loop-3,,,for i in range(10): print(i)

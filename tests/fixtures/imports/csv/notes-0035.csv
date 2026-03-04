@@ -1,0 +1,19 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+5156972e7625,tail a file #0,sql,,,tail-a-file-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+752d52871db4,tail a file #1,javascript,,,tail-a-file-1,,,<html><body>x</body></html>
+83fdd70adeb8,rust hello #2,go,,,rust-hello-2,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+0f16f7c58fb2,html stub #3,sql,,,html-stub-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+e50fc56c8eb2,rust hello #4,html,,,rust-hello-4,,,function foo() { return Math.random(); }
+4a8e69eae34b,python loop #5,python,,,python-loop-5,,,const fs = require('fs')
+97cd9974456e,python loop #6,rust,,,python-loop-6,,,"version: '3'
+services: {}"
+7e66fc657d30,go hello #7,javascript,,,go-hello-7,,,for i in range(10): print(i)
+ddc6cef5a374,grep TODO #8,html,,,grep-todo-8,,,for i in range(10): print(i)
+f3855857e35e,grep TODO #9,rust,,,grep-todo-9,,,for i in range(10): print(i)
+1676b0a70ae5,tail a file #10,javascript,,,tail-a-file-10,,,echo 'hello world'
+2219751a5a43,node fs #11,yaml,,,node-fs-11,,,function foo() { return Math.random(); }

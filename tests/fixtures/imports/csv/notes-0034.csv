@@ -1,0 +1,10 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+b16ebda932d0,tail a file #0,rust,,,tail-a-file-0,,,<html><body>x</body></html>
+d299b073d390,compose #1,javascript,,,compose-1,,,function foo() { return Math.random(); }
+ddca46340506,go hello #2,shell,,,go-hello-2,,,"use std::io::Read;
+fn main() {}"
+93d444d7566b,merge two lists #3,rust,,,merge-two-lists-3,,,SELECT * FROM users WHERE active = TRUE;
+a41df2aff354,html stub #4,sql,,,html-stub-4,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+4b54f8f0fd0a,python loop #5,rust,,,python-loop-5,,,const fs = require('fs')

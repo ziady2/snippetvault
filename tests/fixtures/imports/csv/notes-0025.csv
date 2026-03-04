@@ -1,0 +1,4 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+bb6609f6e75a,tail a file #0,yaml,,,tail-a-file-0,,,echo 'hello world'
+c3d331c6b2c2,merge two lists #1,shell,,,merge-two-lists-1,,,function foo() { return Math.random(); }
+1b466f3c94dd,go hello #2,go,,,go-hello-2,,,<html><body>x</body></html>

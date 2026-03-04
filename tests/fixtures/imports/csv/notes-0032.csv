@@ -1,0 +1,7 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+6b991823078a,go hello #0,yaml,,,go-hello-0,,,"use std::io::Read;
+fn main() {}"
+786ef1ab1a36,rust hello #1,yaml,,,rust-hello-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+e1684942f394,tail a file #2,shell,,,tail-a-file-2,,,for i in range(10): print(i)
+dd964febd1d8,tail a file #3,html,,,tail-a-file-3,,,for i in range(10): print(i)

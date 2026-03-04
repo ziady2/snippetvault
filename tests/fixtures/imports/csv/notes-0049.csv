@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+7ac29683d667,html stub #0,python,,,html-stub-0,,,"version: '3'
+services: {}"
+7ab42f5e31ab,go hello #1,html,,,go-hello-1,,,"use std::io::Read;
+fn main() {}"
+6536c33a60ad,rust hello #2,yaml,,,rust-hello-2,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+c8fd4d41aa69,tail a file #3,javascript,,,tail-a-file-3,,,function foo() { return Math.random(); }
+09df51336df5,grep TODO #4,sql,,,grep-todo-4,,,function foo() { return Math.random(); }
+7fd5f91336be,rust hello #5,go,,,rust-hello-5,,,echo 'hello world'
+46ae5329ae57,html stub #6,sql,,,html-stub-6,,,for i in range(10): print(i)
+bc262816195c,go hello #7,shell,,,go-hello-7,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+34bc42c4b7a0,merge two lists #8,javascript,,,merge-two-lists-8,,,<html><body>x</body></html>
+2d2c805057b4,html stub #9,shell,,,html-stub-9,,,"version: '3'
+services: {}"
+6c12b3cd5f25,grep TODO #10,javascript,,,grep-todo-10,,,function foo() { return Math.random(); }
+eb0eea02e6d7,html stub #11,yaml,,,html-stub-11,,,function foo() { return Math.random(); }

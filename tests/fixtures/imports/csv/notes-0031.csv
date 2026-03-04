@@ -1,0 +1,20 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+f84b90387809,python loop #0,javascript,,,python-loop-0,,,"version: '3'
+services: {}"
+88509dd1dde1,python loop #1,sql,,,python-loop-1,,,for i in range(10): print(i)
+3ae1f9293585,node fs #2,python,,,node-fs-2,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+8d351df7e6ce,rust hello #3,go,,,rust-hello-3,,,"version: '3'
+services: {}"
+7e98c95a62f3,node fs #4,javascript,,,node-fs-4,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+17700aab6061,python loop #5,sql,,,python-loop-5,,,const fs = require('fs')
+444e8fbcd327,compose #6,python,,,compose-6,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+e391a2fcd330,active users #7,python,,,active-users-7,,,for i in range(10): print(i)
+f33c67acab16,merge two lists #8,rust,,,merge-two-lists-8,,,echo 'hello world'
+6bfa57f1e936,tail a file #9,sql,,,tail-a-file-9,,,SELECT * FROM users WHERE active = TRUE;
+496402ce43a8,node fs #10,python,,,node-fs-10,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

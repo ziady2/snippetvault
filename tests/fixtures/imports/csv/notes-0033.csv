@@ -1,0 +1,13 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+6d32e6385616,go hello #0,javascript,,,go-hello-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+15ca31317b23,active users #1,sql,,,active-users-1,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+10c53ce08626,merge two lists #2,sql,,,merge-two-lists-2,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+35c79ff4e574,merge two lists #3,yaml,,,merge-two-lists-3,,,function foo() { return Math.random(); }
+fde201967e79,html stub #4,go,,,html-stub-4,,,<html><body>x</body></html>
+b6cba9ade4f3,tail a file #5,python,,,tail-a-file-5,,,for i in range(10): print(i)
+42f5ce6b50f6,merge two lists #6,javascript,,,merge-two-lists-6,,,function foo() { return Math.random(); }
+18ffaef86aa8,compose #7,yaml,,,compose-7,,,for i in range(10): print(i)

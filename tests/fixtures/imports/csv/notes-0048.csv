@@ -1,0 +1,11 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+58757e3c6dc4,go hello #0,javascript,,,go-hello-0,,,const fs = require('fs')
+7913b1984dc5,node fs #1,sql,,,node-fs-1,,,function foo() { return Math.random(); }
+015d33fbe9f0,tail a file #2,python,,,tail-a-file-2,,,const fs = require('fs')
+3e8e5a3cfa7c,python loop #3,shell,,,python-loop-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+fade6555ac67,go hello #4,html,,,go-hello-4,,,function foo() { return Math.random(); }
+aeca5a1a9010,compose #5,yaml,,,compose-5,,,"version: '3'
+services: {}"
+67e32ed857e0,html stub #6,shell,,,html-stub-6,,,function foo() { return Math.random(); }
+3b5160c030b2,rust hello #7,rust,,,rust-hello-7,,,<html><body>x</body></html>

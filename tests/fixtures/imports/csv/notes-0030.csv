@@ -1,0 +1,7 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+1c07b5c45ef9,python loop #0,yaml,,,python-loop-0,,,for i in range(10): print(i)
+104915c46fa8,grep TODO #1,rust,,,grep-todo-1,,,const fs = require('fs')
+f52f5bd54eaf,rust hello #2,javascript,,,rust-hello-2,,,<html><body>x</body></html>
+73f7d0825751,html stub #3,rust,,,html-stub-3,,,"use std::io::Read;
+fn main() {}"
+0d23ec5aa118,compose #4,javascript,,,compose-4,,,for i in range(10): print(i)

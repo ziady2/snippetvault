@@ -1,0 +1,22 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+9473670588b1,python loop #0,go,,,python-loop-0,,,SELECT * FROM users WHERE active = TRUE;
+5ad501c19888,python loop #1,javascript,,,python-loop-1,,,for i in range(10): print(i)
+92a9737ce75b,compose #2,shell,,,compose-2,,,echo 'hello world'
+fa4184ec9116,python loop #3,python,,,python-loop-3,,,for i in range(10): print(i)
+3e293d461fff,python loop #4,javascript,,,python-loop-4,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+792119b1cfc1,tail a file #5,rust,,,tail-a-file-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+9484528aff98,tail a file #6,yaml,,,tail-a-file-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+db2712b13565,go hello #7,yaml,,,go-hello-7,,,echo 'hello world'
+bcca68710181,grep TODO #8,html,,,grep-todo-8,,,"version: '3'
+services: {}"
+60a8f2c163aa,grep TODO #9,python,,,grep-todo-9,,,"use std::io::Read;
+fn main() {}"
+804f41214cb6,grep TODO #10,python,,,grep-todo-10,,,SELECT * FROM users WHERE active = TRUE;
+94975fcb4e08,html stub #11,python,,,html-stub-11,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

@@ -1,0 +1,11 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+d78851e301e1,go hello #0,rust,,,go-hello-0,,,SELECT * FROM users WHERE active = TRUE;
+06aba2006c9d,rust hello #1,shell,,,rust-hello-1,,,"version: '3'
+services: {}"
+fa7c3182165c,active users #2,rust,,,active-users-2,,,echo 'hello world'
+19ce25f47cd8,compose #3,rust,,,compose-3,,,echo 'hello world'
+1c6df2a46acb,node fs #4,javascript,,,node-fs-4,,,function foo() { return Math.random(); }
+19fbff6c4af5,go hello #5,html,,,go-hello-5,,,"use std::io::Read;
+fn main() {}"
+eb2d1e9290a6,rust hello #6,yaml,,,rust-hello-6,,,for i in range(10): print(i)
+af1c7a806814,html stub #7,html,,,html-stub-7,,,const fs = require('fs')

@@ -1,0 +1,4 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+0b7e925ae377,go hello #0,python,,,go-hello-0,,,SELECT * FROM users WHERE active = TRUE;
+fab2fd6e82e0,rust hello #1,javascript,,,rust-hello-1,,,function foo() { return Math.random(); }
+89bf968e7468,tail a file #2,html,,,tail-a-file-2,,,echo 'hello world'

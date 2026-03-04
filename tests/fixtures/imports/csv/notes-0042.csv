@@ -1,0 +1,17 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+b0def1d97eef,node fs #0,go,,,node-fs-0,,,function foo() { return Math.random(); }
+5c769ba68a9e,html stub #1,javascript,,,html-stub-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+eac0c1212262,node fs #2,python,,,node-fs-2,,,const fs = require('fs')
+aadbde879c6d,grep TODO #3,python,,,grep-todo-3,,,echo 'hello world'
+a21a1b3ad4df,grep TODO #4,shell,,,grep-todo-4,,,for i in range(10): print(i)
+00ddc992b600,rust hello #5,python,,,rust-hello-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+0b344c6ec85a,tail a file #6,python,,,tail-a-file-6,,,<html><body>x</body></html>
+ae505b02a385,html stub #7,yaml,,,html-stub-7,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+2c68b4e56ee8,active users #8,sql,,,active-users-8,,,const fs = require('fs')
+ad1ccbf0819f,active users #9,javascript,,,active-users-9,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

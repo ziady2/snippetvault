@@ -1,0 +1,16 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+12373d40f0f4,html stub #0,sql,,,html-stub-0,,,"use std::io::Read;
+fn main() {}"
+18f214971c06,merge two lists #1,rust,,,merge-two-lists-1,,,"version: '3'
+services: {}"
+65de5f4ef426,tail a file #2,sql,,,tail-a-file-2,,,"version: '3'
+services: {}"
+29c6c9b5b87c,tail a file #3,sql,,,tail-a-file-3,,,"use std::io::Read;
+fn main() {}"
+53b9ce36b893,python loop #4,yaml,,,python-loop-4,,,"use std::io::Read;
+fn main() {}"
+990a8bf367a4,merge two lists #5,shell,,,merge-two-lists-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+bb92d0d36dad,compose #6,javascript,,,compose-6,,,<html><body>x</body></html>
+9f93ad26b0d9,python loop #7,python,,,python-loop-7,,,function foo() { return Math.random(); }
+21d674e395ef,node fs #8,javascript,,,node-fs-8,,,SELECT * FROM users WHERE active = TRUE;
