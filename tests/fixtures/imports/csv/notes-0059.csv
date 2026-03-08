@@ -1,0 +1,13 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+f19a353771f8,grep TODO #0,go,,,grep-todo-0,,,for i in range(10): print(i)
+ec06125d33c1,active users #1,javascript,,,active-users-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+57724280be06,tail a file #2,rust,,,tail-a-file-2,,,echo 'hello world'
+9b7603f527c8,html stub #3,javascript,,,html-stub-3,,,const fs = require('fs')
+8ec10fdfdf3e,compose #4,rust,,,compose-4,,,<html><body>x</body></html>
+54b7761b5558,tail a file #5,yaml,,,tail-a-file-5,,,const fs = require('fs')
+e7a3ff3cc1fc,merge two lists #6,yaml,,,merge-two-lists-6,,,function foo() { return Math.random(); }
+ea6ef6f3ee53,python loop #7,javascript,,,python-loop-7,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+daed36eda6f6,html stub #8,yaml,,,html-stub-8,,,echo 'hello world'

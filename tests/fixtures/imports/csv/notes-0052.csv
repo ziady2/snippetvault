@@ -1,0 +1,10 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+6517e0755a5f,python loop #0,javascript,,,python-loop-0,,,echo 'hello world'
+119076542e09,python loop #1,shell,,,python-loop-1,,,function foo() { return Math.random(); }
+b7fca30cf49c,tail a file #2,python,,,tail-a-file-2,,,echo 'hello world'
+b88e89247ae1,python loop #3,rust,,,python-loop-3,,,"use std::io::Read;
+fn main() {}"
+37458d468617,merge two lists #4,python,,,merge-two-lists-4,,,SELECT * FROM users WHERE active = TRUE;
+6c7b49999328,node fs #5,python,,,node-fs-5,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

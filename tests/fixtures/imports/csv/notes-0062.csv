@@ -1,0 +1,22 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+663b9db32911,grep TODO #0,javascript,,,grep-todo-0,,,"use std::io::Read;
+fn main() {}"
+c963a85b86c9,node fs #1,python,,,node-fs-1,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+6d82edf9f3f2,merge two lists #2,yaml,,,merge-two-lists-2,,,const fs = require('fs')
+63b796f74beb,tail a file #3,python,,,tail-a-file-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+15aeea6b6c8b,python loop #4,python,,,python-loop-4,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+fee6b8b485c5,node fs #5,python,,,node-fs-5,,,"version: '3'
+services: {}"
+3a7e9396ab99,tail a file #6,python,,,tail-a-file-6,,,echo 'hello world'
+fdd37c4f4c3c,go hello #7,javascript,,,go-hello-7,,,const fs = require('fs')
+35e5f34f4b85,node fs #8,javascript,,,node-fs-8,,,"version: '3'
+services: {}"
+fe6139c8785f,go hello #9,python,,,go-hello-9,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

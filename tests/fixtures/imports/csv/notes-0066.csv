@@ -1,0 +1,12 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+353cce568c1c,rust hello #0,go,,,rust-hello-0,,,<html><body>x</body></html>
+322ccdb07f47,html stub #1,rust,,,html-stub-1,,,echo 'hello world'
+626cc307fc3e,active users #2,go,,,active-users-2,,,"use std::io::Read;
+fn main() {}"
+39a60f6463b0,active users #3,shell,,,active-users-3,,,function foo() { return Math.random(); }
+c8953ff9d50a,merge two lists #4,shell,,,merge-two-lists-4,,,SELECT * FROM users WHERE active = TRUE;
+02875aaa25d4,tail a file #5,sql,,,tail-a-file-5,,,for i in range(10): print(i)
+783add8b4453,rust hello #6,javascript,,,rust-hello-6,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+a83ee93f3303,tail a file #7,javascript,,,tail-a-file-7,,,function foo() { return Math.random(); }
+70ab8aa20b8e,rust hello #8,go,,,rust-hello-8,,,const fs = require('fs')

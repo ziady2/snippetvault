@@ -1,0 +1,7 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+aed7a573831e,node fs #0,javascript,,,node-fs-0,,,echo 'hello world'
+6ed2a9664696,grep TODO #1,go,,,grep-todo-1,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+0da78361ea3f,html stub #2,python,,,html-stub-2,,,function foo() { return Math.random(); }
+217b5bf59ef8,node fs #3,python,,,node-fs-3,,,<html><body>x</body></html>

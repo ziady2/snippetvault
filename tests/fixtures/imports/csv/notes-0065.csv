@@ -1,0 +1,11 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+3bc9c3cfd4be,html stub #0,go,,,html-stub-0,,,"use std::io::Read;
+fn main() {}"
+1d9ae6e1429e,rust hello #1,yaml,,,rust-hello-1,,,echo 'hello world'
+b929374060e6,html stub #2,rust,,,html-stub-2,,,<html><body>x</body></html>
+afc20c6ea8ed,merge two lists #3,python,,,merge-two-lists-3,,,function foo() { return Math.random(); }
+a109fc5b4f5e,tail a file #4,javascript,,,tail-a-file-4,,,"use std::io::Read;
+fn main() {}"
+0d996e030a27,python loop #5,rust,,,python-loop-5,,,const fs = require('fs')
+999435e48b89,python loop #6,html,,,python-loop-6,,,const fs = require('fs')
+3a71f1573131,python loop #7,python,,,python-loop-7,,,<html><body>x</body></html>

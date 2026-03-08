@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+f59769d58529,go hello #0,python,,,go-hello-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+0c12375e1677,go hello #1,html,,,go-hello-1,,,"use std::io::Read;
+fn main() {}"
+729a981ecd30,python loop #2,javascript,,,python-loop-2,,,"version: '3'
+services: {}"
+e96ae308d981,compose #3,sql,,,compose-3,,,"version: '3'
+services: {}"
+ef2193cb0456,go hello #4,go,,,go-hello-4,,,"version: '3'
+services: {}"
+f08b8e2d4bba,go hello #5,sql,,,go-hello-5,,,echo 'hello world'
+617206f9aa2a,python loop #6,sql,,,python-loop-6,,,echo 'hello world'
+947834cccd4c,tail a file #7,rust,,,tail-a-file-7,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+7424cbd540a6,html stub #8,rust,,,html-stub-8,,,function foo() { return Math.random(); }
+caa314cec898,rust hello #9,javascript,,,rust-hello-9,,,<html><body>x</body></html>

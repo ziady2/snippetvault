@@ -1,0 +1,14 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+4441068e940f,compose #0,shell,,,compose-0,,,SELECT * FROM users WHERE active = TRUE;
+1218105ae2c1,rust hello #1,html,,,rust-hello-1,,,const fs = require('fs')
+d443f46fcf97,go hello #2,yaml,,,go-hello-2,,,"version: '3'
+services: {}"
+30df65c71364,rust hello #3,python,,,rust-hello-3,,,<html><body>x</body></html>
+2b655f7e5d11,rust hello #4,python,,,rust-hello-4,,,"use std::io::Read;
+fn main() {}"
+c250c8538dae,go hello #5,sql,,,go-hello-5,,,<html><body>x</body></html>
+4c966a0e36b6,node fs #6,javascript,,,node-fs-6,,,"use std::io::Read;
+fn main() {}"
+b77878074c53,python loop #7,go,,,python-loop-7,,,for i in range(10): print(i)
+a0ab55322115,python loop #8,shell,,,python-loop-8,,,"use std::io::Read;
+fn main() {}"

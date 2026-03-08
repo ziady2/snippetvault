@@ -1,0 +1,17 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+2f22ed911f0b,html stub #0,javascript,,,html-stub-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+1a8b0dee9525,grep TODO #1,shell,,,grep-todo-1,,,"use std::io::Read;
+fn main() {}"
+99409475bfa3,node fs #2,html,,,node-fs-2,,,"version: '3'
+services: {}"
+7208edf53eed,compose #3,html,,,compose-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+3a84ee1a4e7d,compose #4,html,,,compose-4,,,echo 'hello world'
+f045a1e605be,tail a file #5,sql,,,tail-a-file-5,,,"version: '3'
+services: {}"
+0e057cdb191f,python loop #6,go,,,python-loop-6,,,for i in range(10): print(i)
+382b2d63bba5,html stub #7,python,,,html-stub-7,,,"use std::io::Read;
+fn main() {}"
+b88b21bccbf1,html stub #8,shell,,,html-stub-8,,,"version: '3'
+services: {}"
