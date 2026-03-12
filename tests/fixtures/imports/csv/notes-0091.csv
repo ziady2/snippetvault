@@ -1,0 +1,10 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+b61445b42407,html stub #0,yaml,,,html-stub-0,,,function foo() { return Math.random(); }
+120f65581f9f,python loop #1,javascript,,,python-loop-1,,,for i in range(10): print(i)
+ae373449a539,node fs #2,yaml,,,node-fs-2,,,echo 'hello world'
+e3fa6565ccae,python loop #3,shell,,,python-loop-3,,,"use std::io::Read;
+fn main() {}"
+85f4d6fd69d6,tail a file #4,sql,,,tail-a-file-4,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+54a0f9462a6a,rust hello #5,yaml,,,rust-hello-5,,,"use std::io::Read;
+fn main() {}"

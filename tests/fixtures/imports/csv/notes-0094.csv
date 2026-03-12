@@ -1,0 +1,11 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+ae327316f8e2,html stub #0,sql,,,html-stub-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+418f0d1fe625,node fs #1,rust,,,node-fs-1,,,const fs = require('fs')
+ea5cc290d605,rust hello #2,javascript,,,rust-hello-2,,,"version: '3'
+services: {}"
+e95a0b9238a8,rust hello #3,javascript,,,rust-hello-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+f583be8dcddc,html stub #4,javascript,,,html-stub-4,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

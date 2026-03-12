@@ -1,0 +1,22 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+4b58cef99e5c,go hello #0,shell,,,go-hello-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+fd0952f1bb74,grep TODO #1,javascript,,,grep-todo-1,,,echo 'hello world'
+c4db2f0308fc,active users #2,javascript,,,active-users-2,,,function foo() { return Math.random(); }
+9527774496c2,html stub #3,python,,,html-stub-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+728462077be4,compose #4,go,,,compose-4,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+2f7fac9e9d98,go hello #5,python,,,go-hello-5,,,echo 'hello world'
+f9cf1e1ac6ee,html stub #6,html,,,html-stub-6,,,for i in range(10): print(i)
+770f7a407af1,rust hello #7,javascript,,,rust-hello-7,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+a94bf87fed36,tail a file #8,rust,,,tail-a-file-8,,,for i in range(10): print(i)
+a6a124e8dee8,compose #9,go,,,compose-9,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+abdac1ce11a3,merge two lists #10,python,,,merge-two-lists-10,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

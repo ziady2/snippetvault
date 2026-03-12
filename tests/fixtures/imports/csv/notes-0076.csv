@@ -1,0 +1,11 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+cf4bd0013a34,active users #0,go,,,active-users-0,,,const fs = require('fs')
+ef4a8fff944b,active users #1,yaml,,,active-users-1,,,SELECT * FROM users WHERE active = TRUE;
+fae1fec9a558,node fs #2,python,,,node-fs-2,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+eb1327b4f15a,grep TODO #3,shell,,,grep-todo-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+b45820dc1c43,html stub #4,sql,,,html-stub-4,,,const fs = require('fs')
+3a84f3cbc453,rust hello #5,python,,,rust-hello-5,,,SELECT * FROM users WHERE active = TRUE;
+46ab45659fbc,python loop #6,python,,,python-loop-6,,,<html><body>x</body></html>

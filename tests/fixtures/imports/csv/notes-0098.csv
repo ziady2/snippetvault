@@ -1,0 +1,14 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+5f7002cd129c,grep TODO #0,python,,,grep-todo-0,,,for i in range(10): print(i)
+037cc17cfcdb,html stub #1,sql,,,html-stub-1,,,echo 'hello world'
+e95b22d361b3,compose #2,sql,,,compose-2,,,const fs = require('fs')
+822937871c4e,html stub #3,shell,,,html-stub-3,,,echo 'hello world'
+d3eff6d32dd2,go hello #4,sql,,,go-hello-4,,,for i in range(10): print(i)
+5d8b0cc1091b,rust hello #5,javascript,,,rust-hello-5,,,<html><body>x</body></html>
+c0955076da6c,merge two lists #6,go,,,merge-two-lists-6,,,"use std::io::Read;
+fn main() {}"
+693a4798c191,go hello #7,python,,,go-hello-7,,,SELECT * FROM users WHERE active = TRUE;
+5992ee3e14e7,node fs #8,html,,,node-fs-8,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+42876855c68b,active users #9,javascript,,,active-users-9,,,"version: '3'
+services: {}"

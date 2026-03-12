@@ -1,0 +1,9 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+20ab217e2c93,active users #0,javascript,,,active-users-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+4c6de95672ad,python loop #1,javascript,,,python-loop-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+a9f340bc31d3,compose #2,sql,,,compose-2,,,echo 'hello world'
+065b49b4cca6,rust hello #3,sql,,,rust-hello-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+93c4825abd0d,tail a file #4,html,,,tail-a-file-4,,,echo 'hello world'

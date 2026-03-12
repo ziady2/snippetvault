@@ -1,0 +1,5 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+80417bb382ce,node fs #0,javascript,,,node-fs-0,,,const fs = require('fs')
+0c4eae69d703,html stub #1,shell,,,html-stub-1,,,for i in range(10): print(i)
+022d5a61c031,rust hello #2,python,,,rust-hello-2,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"

@@ -1,0 +1,14 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+1b2ed6e78711,python loop #0,yaml,,,python-loop-0,,,"version: '3'
+services: {}"
+344fa611ef90,node fs #1,go,,,node-fs-1,,,for i in range(10): print(i)
+efb13c6f233e,compose #2,javascript,,,compose-2,,,const fs = require('fs')
+4b522a151390,html stub #3,go,,,html-stub-3,,,function foo() { return Math.random(); }
+ced5d646818f,active users #4,go,,,active-users-4,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+081a5bed2e68,rust hello #5,yaml,,,rust-hello-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+22b75cc32592,node fs #6,html,,,node-fs-6,,,SELECT * FROM users WHERE active = TRUE;
+ede2ae668ac3,tail a file #7,go,,,tail-a-file-7,,,"use std::io::Read;
+fn main() {}"
+3bc35d6ffe01,html stub #8,python,,,html-stub-8,,,<html><body>x</body></html>

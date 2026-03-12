@@ -1,0 +1,16 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+a37700c4b775,active users #0,javascript,,,active-users-0,,,for i in range(10): print(i)
+aaddd49d7852,active users #1,javascript,,,active-users-1,,,"version: '3'
+services: {}"
+bf8f110dd929,compose #2,html,,,compose-2,,,const fs = require('fs')
+6b5ded258e58,active users #3,python,,,active-users-3,,,"use std::io::Read;
+fn main() {}"
+74d48a179fe0,rust hello #4,python,,,rust-hello-4,,,SELECT * FROM users WHERE active = TRUE;
+81ba1b6ca70b,python loop #5,python,,,python-loop-5,,,"use std::io::Read;
+fn main() {}"
+b609ebd78813,tail a file #6,javascript,,,tail-a-file-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+a82ea3a355e0,node fs #7,sql,,,node-fs-7,,,const fs = require('fs')
+baa6aac3cdf5,node fs #8,python,,,node-fs-8,,,"use std::io::Read;
+fn main() {}"

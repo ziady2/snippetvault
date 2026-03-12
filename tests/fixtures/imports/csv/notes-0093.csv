@@ -1,0 +1,17 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+55340d6639a1,node fs #0,python,,,node-fs-0,,,SELECT * FROM users WHERE active = TRUE;
+961ef2da120f,active users #1,yaml,,,active-users-1,,,for i in range(10): print(i)
+d2004be48356,html stub #2,shell,,,html-stub-2,,,<html><body>x</body></html>
+4f86686ba660,grep TODO #3,javascript,,,grep-todo-3,,,const fs = require('fs')
+8216b7544623,node fs #4,html,,,node-fs-4,,,"use std::io::Read;
+fn main() {}"
+b0cb01a2b19b,grep TODO #5,yaml,,,grep-todo-5,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+342988e87f38,node fs #6,python,,,node-fs-6,,,for i in range(10): print(i)
+faafbeab9818,compose #7,go,,,compose-7,,,"version: '3'
+services: {}"
+70ea61706361,active users #8,yaml,,,active-users-8,,,"use std::io::Read;
+fn main() {}"
+814f8152c9c6,tail a file #9,javascript,,,tail-a-file-9,,,function foo() { return Math.random(); }
+1d530b7f5095,compose #10,go,,,compose-10,,,function foo() { return Math.random(); }

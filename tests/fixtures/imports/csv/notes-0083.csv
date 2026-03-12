@@ -1,0 +1,10 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+98c59d2288b8,go hello #0,python,,,go-hello-0,,,function foo() { return Math.random(); }
+0e9c13f6d81c,go hello #1,python,,,go-hello-1,,,echo 'hello world'
+87d3aad07ddf,tail a file #2,python,,,tail-a-file-2,,,SELECT * FROM users WHERE active = TRUE;
+bfc06cd01f62,merge two lists #3,javascript,,,merge-two-lists-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+14157cb3ab7e,merge two lists #4,sql,,,merge-two-lists-4,,,"use std::io::Read;
+fn main() {}"
+35f4330d1d5b,rust hello #5,html,,,rust-hello-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"

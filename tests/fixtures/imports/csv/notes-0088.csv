@@ -1,0 +1,16 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+7b86aa9180be,merge two lists #0,sql,,,merge-two-lists-0,,,SELECT * FROM users WHERE active = TRUE;
+d438e9f611f0,merge two lists #1,yaml,,,merge-two-lists-1,,,for i in range(10): print(i)
+c18ed04ffad5,html stub #2,javascript,,,html-stub-2,,,function foo() { return Math.random(); }
+ffad7e7bf4fd,tail a file #3,yaml,,,tail-a-file-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+e4bce4716c61,rust hello #4,html,,,rust-hello-4,,,function foo() { return Math.random(); }
+b267ed8214f9,node fs #5,sql,,,node-fs-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+4fb627e1a47d,html stub #6,go,,,html-stub-6,,,"version: '3'
+services: {}"
+92fa8ab9520b,compose #7,shell,,,compose-7,,,SELECT * FROM users WHERE active = TRUE;
+d81a9ef7bd3a,tail a file #8,python,,,tail-a-file-8,,,"use std::io::Read;
+fn main() {}"
+fd0f21a51def,active users #9,javascript,,,active-users-9,,,const fs = require('fs')
