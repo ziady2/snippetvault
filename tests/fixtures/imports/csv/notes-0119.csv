@@ -1,0 +1,8 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+f4b867deae09,rust hello #0,yaml,,,rust-hello-0,,,<html><body>x</body></html>
+eb71628ded5f,html stub #1,sql,,,html-stub-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+4ee2bfdf58b0,node fs #2,html,,,node-fs-2,,,"use std::io::Read;
+fn main() {}"
+0be5a36a52a5,python loop #3,html,,,python-loop-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"

@@ -1,0 +1,10 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+2672437131b2,go hello #0,rust,,,go-hello-0,,,<html><body>x</body></html>
+a7fca04538ce,html stub #1,yaml,,,html-stub-1,,,for i in range(10): print(i)
+2815e0466a2e,node fs #2,javascript,,,node-fs-2,,,function foo() { return Math.random(); }
+1d3e20c74272,grep TODO #3,python,,,grep-todo-3,,,<html><body>x</body></html>
+71067cd92e2d,go hello #4,python,,,go-hello-4,,,const fs = require('fs')
+a4152be32aee,node fs #5,python,,,node-fs-5,,,for i in range(10): print(i)
+fbacada0ec23,grep TODO #6,html,,,grep-todo-6,,,"use std::io::Read;
+fn main() {}"
+fe07e15040e4,tail a file #7,javascript,,,tail-a-file-7,,,<html><body>x</body></html>

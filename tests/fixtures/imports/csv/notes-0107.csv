@@ -1,0 +1,16 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+c63829254ca5,html stub #0,python,,,html-stub-0,,,SELECT * FROM users WHERE active = TRUE;
+75c006bed077,grep TODO #1,python,,,grep-todo-1,,,"use std::io::Read;
+fn main() {}"
+876d9d328f55,compose #2,python,,,compose-2,,,function foo() { return Math.random(); }
+279545dad0ad,go hello #3,go,,,go-hello-3,,,echo 'hello world'
+e4d18508e9f5,active users #4,sql,,,active-users-4,,,"version: '3'
+services: {}"
+dff4497e6920,rust hello #5,yaml,,,rust-hello-5,,,SELECT * FROM users WHERE active = TRUE;
+319c8a3b5497,compose #6,html,,,compose-6,,,echo 'hello world'
+7a2d485e024b,rust hello #7,sql,,,rust-hello-7,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+0284835488c5,active users #8,shell,,,active-users-8,,,<html><body>x</body></html>
+4fc7e02e4161,tail a file #9,javascript,,,tail-a-file-9,,,"version: '3'
+services: {}"

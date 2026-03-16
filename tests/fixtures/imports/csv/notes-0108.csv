@@ -1,0 +1,10 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+07996712909f,compose #0,go,,,compose-0,,,echo 'hello world'
+e0e87f727ccc,html stub #1,javascript,,,html-stub-1,,,"use std::io::Read;
+fn main() {}"
+27e53dc1e936,active users #2,javascript,,,active-users-2,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+653d30ec9db2,node fs #3,javascript,,,node-fs-3,,,function foo() { return Math.random(); }
+3e8e4e614aef,merge two lists #4,html,,,merge-two-lists-4,,,"version: '3'
+services: {}"

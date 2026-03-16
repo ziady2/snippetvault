@@ -1,0 +1,5 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+cf29a9ed0156,html stub #0,rust,,,html-stub-0,,,for i in range(10): print(i)
+5d63d7752372,compose #1,go,,,compose-1,,,<html><body>x</body></html>
+0ad66e82ab9e,node fs #2,javascript,,,node-fs-2,,,const fs = require('fs')
+f721311f831e,compose #3,javascript,,,compose-3,,,function foo() { return Math.random(); }

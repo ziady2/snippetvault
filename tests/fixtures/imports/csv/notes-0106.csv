@@ -1,0 +1,17 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+7f55d1ee48d2,rust hello #0,yaml,,,rust-hello-0,,,"use std::io::Read;
+fn main() {}"
+bc7a78d96cd7,go hello #1,python,,,go-hello-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+f42dda051f36,tail a file #2,html,,,tail-a-file-2,,,function foo() { return Math.random(); }
+2747e1a2f406,go hello #3,javascript,,,go-hello-3,,,"use std::io::Read;
+fn main() {}"
+49263645ec16,html stub #4,sql,,,html-stub-4,,,"use std::io::Read;
+fn main() {}"
+2f5553cfce2d,grep TODO #5,javascript,,,grep-todo-5,,,const fs = require('fs')
+57e975bac795,python loop #6,go,,,python-loop-6,,,"use std::io::Read;
+fn main() {}"
+a0d85b588525,node fs #7,python,,,node-fs-7,,,for i in range(10): print(i)
+97749a3b9102,python loop #8,go,,,python-loop-8,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

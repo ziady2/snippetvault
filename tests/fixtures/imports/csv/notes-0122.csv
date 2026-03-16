@@ -1,0 +1,9 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+78d25974a7e2,html stub #0,sql,,,html-stub-0,,,SELECT * FROM users WHERE active = TRUE;
+30039494d9bd,rust hello #1,javascript,,,rust-hello-1,,,function foo() { return Math.random(); }
+fd6953c69e88,rust hello #2,yaml,,,rust-hello-2,,,echo 'hello world'
+8ba30a067181,python loop #3,python,,,python-loop-3,,,for i in range(10): print(i)
+2dc0818e8870,html stub #4,go,,,html-stub-4,,,function foo() { return Math.random(); }
+680a936587a7,python loop #5,yaml,,,python-loop-5,,,for i in range(10): print(i)
+14b1f4fbe4dd,tail a file #6,javascript,,,tail-a-file-6,,,const fs = require('fs')
+a24717776f45,active users #7,yaml,,,active-users-7,,,echo 'hello world'

@@ -1,0 +1,13 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+f68e73acfc7c,go hello #0,python,,,go-hello-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+0053da3a60a7,rust hello #1,go,,,rust-hello-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+1ff13701308c,python loop #2,yaml,,,python-loop-2,,,echo 'hello world'
+c915022f5a23,go hello #3,html,,,go-hello-3,,,const fs = require('fs')
+ae70e4068eab,python loop #4,yaml,,,python-loop-4,,,<html><body>x</body></html>
+7becc110c1ce,tail a file #5,go,,,tail-a-file-5,,,SELECT * FROM users WHERE active = TRUE;
+005c86693d2f,merge two lists #6,html,,,merge-two-lists-6,,,"version: '3'
+services: {}"
+7c060e9aae2c,merge two lists #7,javascript,,,merge-two-lists-7,,,const fs = require('fs')
+cb45402a0ae9,go hello #8,go,,,go-hello-8,,,<html><body>x</body></html>

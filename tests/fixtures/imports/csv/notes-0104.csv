@@ -1,0 +1,3 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+1e1d158b76bb,rust hello #0,shell,,,rust-hello-0,,,function foo() { return Math.random(); }
+1bf3401043d4,python loop #1,yaml,,,python-loop-1,,,echo 'hello world'

@@ -1,0 +1,19 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+955299bbe7de,python loop #0,html,,,python-loop-0,,,const fs = require('fs')
+4335f24b993d,compose #1,go,,,compose-1,,,function foo() { return Math.random(); }
+f72498f9e19d,python loop #2,javascript,,,python-loop-2,,,"use std::io::Read;
+fn main() {}"
+d2ceb879d42d,compose #3,html,,,compose-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+ac896fac8975,html stub #4,go,,,html-stub-4,,,const fs = require('fs')
+fed9c2406c3a,merge two lists #5,shell,,,merge-two-lists-5,,,"use std::io::Read;
+fn main() {}"
+7eb7a3d6edcf,compose #6,javascript,,,compose-6,,,<html><body>x</body></html>
+e50c546cfc0e,merge two lists #7,html,,,merge-two-lists-7,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+fd8e9ce1b144,go hello #8,yaml,,,go-hello-8,,,<html><body>x</body></html>
+feaa8883cbc0,go hello #9,sql,,,go-hello-9,,,echo 'hello world'
+96dc7271683d,python loop #10,shell,,,python-loop-10,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
