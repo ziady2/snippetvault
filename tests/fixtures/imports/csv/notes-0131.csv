@@ -1,0 +1,17 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+a2891554b138,tail a file #0,javascript,,,tail-a-file-0,,,<html><body>x</body></html>
+86d4144f305d,tail a file #1,shell,,,tail-a-file-1,,,<html><body>x</body></html>
+652bcae61fdd,go hello #2,html,,,go-hello-2,,,echo 'hello world'
+f554145084e7,grep TODO #3,html,,,grep-todo-3,,,echo 'hello world'
+274e63524aab,python loop #4,javascript,,,python-loop-4,,,const fs = require('fs')
+e29302c46c59,merge two lists #5,javascript,,,merge-two-lists-5,,,echo 'hello world'
+9fbac64e53ad,rust hello #6,yaml,,,rust-hello-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+48562bdfe65d,compose #7,sql,,,compose-7,,,"use std::io::Read;
+fn main() {}"
+a0e818f12430,node fs #8,python,,,node-fs-8,,,const fs = require('fs')
+c024748c755d,tail a file #9,rust,,,tail-a-file-9,,,<html><body>x</body></html>
+caa0dd533c7c,python loop #10,python,,,python-loop-10,,,"version: '3'
+services: {}"
+48157583f57e,grep TODO #11,yaml,,,grep-todo-11,,,echo 'hello world'

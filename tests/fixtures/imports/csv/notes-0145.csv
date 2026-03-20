@@ -1,0 +1,11 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+c7f942a7be0c,compose #0,python,,,compose-0,,,function foo() { return Math.random(); }
+bd4b00020e07,node fs #1,shell,,,node-fs-1,,,echo 'hello world'
+b56d43f7c203,html stub #2,javascript,,,html-stub-2,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+6443a6a43d1d,merge two lists #3,yaml,,,merge-two-lists-3,,,<html><body>x</body></html>
+1cb51724ef1e,python loop #4,shell,,,python-loop-4,,,echo 'hello world'
+fec7c870b6d3,rust hello #5,sql,,,rust-hello-5,,,echo 'hello world'
+d2ddfe76ec75,grep TODO #6,rust,,,grep-todo-6,,,<html><body>x</body></html>
+912fe8d5f867,go hello #7,yaml,,,go-hello-7,,,"version: '3'
+services: {}"

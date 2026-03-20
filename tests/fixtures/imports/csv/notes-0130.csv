@@ -1,0 +1,11 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+3368edaf2379,compose #0,sql,,,compose-0,,,function foo() { return Math.random(); }
+8160f28e1bec,compose #1,yaml,,,compose-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+52e95557cb97,python loop #2,rust,,,python-loop-2,,,echo 'hello world'
+a6b35263bc02,grep TODO #3,shell,,,grep-todo-3,,,function foo() { return Math.random(); }
+2d390ca81d97,tail a file #4,shell,,,tail-a-file-4,,,function foo() { return Math.random(); }
+762b34fd0ff6,active users #5,html,,,active-users-5,,,for i in range(10): print(i)
+b0be3574b3b0,html stub #6,python,,,html-stub-6,,,<html><body>x</body></html>
+6a9d5157427d,html stub #7,rust,,,html-stub-7,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"

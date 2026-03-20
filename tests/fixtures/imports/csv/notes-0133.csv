@@ -1,0 +1,7 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+4c13df64cf32,merge two lists #0,rust,,,merge-two-lists-0,,,function foo() { return Math.random(); }
+1927dd309ca2,node fs #1,rust,,,node-fs-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+7dfa224a143e,html stub #2,python,,,html-stub-2,,,SELECT * FROM users WHERE active = TRUE;
+19daf7a54500,go hello #3,shell,,,go-hello-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"

@@ -1,0 +1,14 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+c5e11495cdec,compose #0,javascript,,,compose-0,,,const fs = require('fs')
+99af53d4b2ef,tail a file #1,html,,,tail-a-file-1,,,<html><body>x</body></html>
+02bf4869af8a,merge two lists #2,python,,,merge-two-lists-2,,,"version: '3'
+services: {}"
+8a90fea8905a,compose #3,python,,,compose-3,,,SELECT * FROM users WHERE active = TRUE;
+ff7e02d223c7,html stub #4,javascript,,,html-stub-4,,,for i in range(10): print(i)
+27f1d68f8737,html stub #5,yaml,,,html-stub-5,,,for i in range(10): print(i)
+6db8a0d97578,go hello #6,python,,,go-hello-6,,,<html><body>x</body></html>
+009c771510ed,compose #7,yaml,,,compose-7,,,for i in range(10): print(i)
+1d11188ef806,python loop #8,python,,,python-loop-8,,,echo 'hello world'
+f70850aa5394,merge two lists #9,html,,,merge-two-lists-9,,,for i in range(10): print(i)
+51179dbd097f,compose #10,python,,,compose-10,,,function foo() { return Math.random(); }
+b01deb9d06a1,merge two lists #11,shell,,,merge-two-lists-11,,,<html><body>x</body></html>

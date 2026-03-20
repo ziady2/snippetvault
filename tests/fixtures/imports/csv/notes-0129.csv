@@ -1,0 +1,11 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+a6b1d94c0df1,python loop #0,go,,,python-loop-0,,,SELECT * FROM users WHERE active = TRUE;
+271ae4c9b07c,go hello #1,html,,,go-hello-1,,,<html><body>x</body></html>
+11008e8e3120,html stub #2,shell,,,html-stub-2,,,function foo() { return Math.random(); }
+eae923125fa7,compose #3,yaml,,,compose-3,,,"use std::io::Read;
+fn main() {}"
+dba27ff1025a,go hello #4,go,,,go-hello-4,,,"version: '3'
+services: {}"
+3c56b8ebc5e6,compose #5,javascript,,,compose-5,,,"version: '3'
+services: {}"
+456668e0fa02,rust hello #6,go,,,rust-hello-6,,,function foo() { return Math.random(); }

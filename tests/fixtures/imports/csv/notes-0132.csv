@@ -1,0 +1,8 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+11738878b70f,grep TODO #0,javascript,,,grep-todo-0,,,const fs = require('fs')
+16532ebbfb74,grep TODO #1,sql,,,grep-todo-1,,,function foo() { return Math.random(); }
+06bcf2ab26f8,grep TODO #2,html,,,grep-todo-2,,,"use std::io::Read;
+fn main() {}"
+632a86f93ccd,grep TODO #3,python,,,grep-todo-3,,,echo 'hello world'
+e1e9f4b98642,node fs #4,go,,,node-fs-4,,,echo 'hello world'
+a3e8117fd733,tail a file #5,html,,,tail-a-file-5,,,function foo() { return Math.random(); }

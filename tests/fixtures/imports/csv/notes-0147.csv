@@ -1,0 +1,5 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+6f8eaed67025,tail a file #0,html,,,tail-a-file-0,,,"use std::io::Read;
+fn main() {}"
+f853a6419e78,rust hello #1,go,,,rust-hello-1,,,"use std::io::Read;
+fn main() {}"

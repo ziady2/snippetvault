@@ -1,0 +1,15 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+d36793b3fd6b,tail a file #0,python,,,tail-a-file-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+4a9dfd5c43af,compose #1,python,,,compose-1,,,"use std::io::Read;
+fn main() {}"
+a93fbd9d6d80,rust hello #2,yaml,,,rust-hello-2,,,function foo() { return Math.random(); }
+e7e5f25cad41,html stub #3,javascript,,,html-stub-3,,,"version: '3'
+services: {}"
+e5e51b726140,grep TODO #4,python,,,grep-todo-4,,,echo 'hello world'
+36a9c6877c61,rust hello #5,sql,,,rust-hello-5,,,"use std::io::Read;
+fn main() {}"
+d00684d7d546,tail a file #6,yaml,,,tail-a-file-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

@@ -1,0 +1,21 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+d7099443f001,go hello #0,rust,,,go-hello-0,,,const fs = require('fs')
+4ae8b03667b0,compose #1,javascript,,,compose-1,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+ebac6c0a3f66,compose #2,python,,,compose-2,,,echo 'hello world'
+0a094779290d,compose #3,rust,,,compose-3,,,"use std::io::Read;
+fn main() {}"
+77a9d9c762f7,grep TODO #4,javascript,,,grep-todo-4,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+ac35f8345d85,merge two lists #5,yaml,,,merge-two-lists-5,,,"version: '3'
+services: {}"
+ed70295375f1,compose #6,shell,,,compose-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+cceba42ad898,grep TODO #7,html,,,grep-todo-7,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+6582942fa8b6,rust hello #8,yaml,,,rust-hello-8,,,const fs = require('fs')
+0e5c67ca888b,python loop #9,javascript,,,python-loop-9,,,"version: '3'
+services: {}"

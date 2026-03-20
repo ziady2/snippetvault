@@ -1,0 +1,9 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+0df26462e3aa,rust hello #0,rust,,,rust-hello-0,,,const fs = require('fs')
+33d321c2e0d0,rust hello #1,javascript,,,rust-hello-1,,,function foo() { return Math.random(); }
+5530cb3984f6,html stub #2,python,,,html-stub-2,,,for i in range(10): print(i)
+bb85c769b7af,merge two lists #3,html,,,merge-two-lists-3,,,echo 'hello world'
+d566690b8d59,merge two lists #4,python,,,merge-two-lists-4,,,SELECT * FROM users WHERE active = TRUE;
+7aaceaf16c47,tail a file #5,html,,,tail-a-file-5,,,SELECT * FROM users WHERE active = TRUE;
+501970cd40a1,active users #6,javascript,,,active-users-6,,,<html><body>x</body></html>
+cb8537fab5a4,merge two lists #7,javascript,,,merge-two-lists-7,,,const fs = require('fs')

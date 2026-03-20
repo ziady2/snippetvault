@@ -1,0 +1,13 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+21cd7f7b8cf3,merge two lists #0,sql,,,merge-two-lists-0,,,const fs = require('fs')
+d6cf93813f17,go hello #1,shell,,,go-hello-1,,,echo 'hello world'
+970144faa982,merge two lists #2,rust,,,merge-two-lists-2,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+9655ef774f39,grep TODO #3,javascript,,,grep-todo-3,,,function foo() { return Math.random(); }
+f923ae5b22da,node fs #4,html,,,node-fs-4,,,SELECT * FROM users WHERE active = TRUE;
+caed15bf9766,compose #5,python,,,compose-5,,,for i in range(10): print(i)
+15a400aa9022,tail a file #6,go,,,tail-a-file-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+b2d931dfcbac,compose #7,shell,,,compose-7,,,for i in range(10): print(i)

@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+5321ab38a090,python loop #0,python,,,python-loop-0,,,"version: '3'
+services: {}"
+e78777475c01,node fs #1,html,,,node-fs-1,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+977fec485859,rust hello #2,javascript,,,rust-hello-2,,,const fs = require('fs')
+f988b6f70ffc,tail a file #3,javascript,,,tail-a-file-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+a23c46a204f6,active users #4,javascript,,,active-users-4,,,"use std::io::Read;
+fn main() {}"
+456955d18be0,grep TODO #5,html,,,grep-todo-5,,,for i in range(10): print(i)
+fb71c521c544,html stub #6,python,,,html-stub-6,,,for i in range(10): print(i)
+148e71f5c255,go hello #7,python,,,go-hello-7,,,<html><body>x</body></html>
+535568e9e697,go hello #8,shell,,,go-hello-8,,,"version: '3'
+services: {}"
+c0f82e6351c2,go hello #9,yaml,,,go-hello-9,,,echo 'hello world'
+50fbb0c9e38c,go hello #10,html,,,go-hello-10,,,const fs = require('fs')

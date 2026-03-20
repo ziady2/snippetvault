@@ -1,0 +1,8 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+5258bb503b75,tail a file #0,rust,,,tail-a-file-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+dc2a41a8dc4d,compose #1,python,,,compose-1,,,function foo() { return Math.random(); }
+5895acfbd30d,go hello #2,python,,,go-hello-2,,,"version: '3'
+services: {}"
+5b7a8aa8882d,tail a file #3,shell,,,tail-a-file-3,,,echo 'hello world'

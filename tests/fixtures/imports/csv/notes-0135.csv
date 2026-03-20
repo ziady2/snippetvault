@@ -1,0 +1,14 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+c439744d68ed,python loop #0,yaml,,,python-loop-0,,,const fs = require('fs')
+d012d63cd78a,node fs #1,python,,,node-fs-1,,,"version: '3'
+services: {}"
+0766a706da36,tail a file #2,go,,,tail-a-file-2,,,SELECT * FROM users WHERE active = TRUE;
+04341330f8b3,active users #3,javascript,,,active-users-3,,,echo 'hello world'
+e4f259e3d697,active users #4,html,,,active-users-4,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+11ceea6f970d,rust hello #5,go,,,rust-hello-5,,,SELECT * FROM users WHERE active = TRUE;
+40d4fe0e260e,grep TODO #6,python,,,grep-todo-6,,,"use std::io::Read;
+fn main() {}"
+1455299e5139,active users #7,javascript,,,active-users-7,,,function foo() { return Math.random(); }
+dd18d588b204,python loop #8,shell,,,python-loop-8,,,<html><body>x</body></html>

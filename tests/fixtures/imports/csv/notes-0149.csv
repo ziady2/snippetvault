@@ -1,0 +1,16 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+a0569654b81d,merge two lists #0,javascript,,,merge-two-lists-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+a6dde5779236,python loop #1,yaml,,,python-loop-1,,,SELECT * FROM users WHERE active = TRUE;
+e550a919904e,rust hello #2,html,,,rust-hello-2,,,echo 'hello world'
+b8890492d14b,html stub #3,go,,,html-stub-3,,,function foo() { return Math.random(); }
+0491c00bb1b6,go hello #4,javascript,,,go-hello-4,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+89d0873b5df9,python loop #5,python,,,python-loop-5,,,<html><body>x</body></html>
+5053ad7be531,compose #6,python,,,compose-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+f45eb5289ce2,node fs #7,python,,,node-fs-7,,,<html><body>x</body></html>
+7cb906fcd96e,node fs #8,javascript,,,node-fs-8,,,"use std::io::Read;
+fn main() {}"
+24bce437657c,rust hello #9,go,,,rust-hello-9,,,const fs = require('fs')
