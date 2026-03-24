@@ -1,0 +1,7 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+7d3e5d46e710,rust hello #0,shell,,,rust-hello-0,,,function foo() { return Math.random(); }
+cf6433e6624a,html stub #1,html,,,html-stub-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+173a2ebd0182,merge two lists #2,python,,,merge-two-lists-2,,,SELECT * FROM users WHERE active = TRUE;
+76a0231cab21,node fs #3,html,,,node-fs-3,,,echo 'hello world'
+79490573dc89,grep TODO #4,html,,,grep-todo-4,,,echo 'hello world'

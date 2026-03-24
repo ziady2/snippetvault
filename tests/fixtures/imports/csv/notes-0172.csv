@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+763eebd89074,tail a file #0,sql,,,tail-a-file-0,,,function foo() { return Math.random(); }
+5d2f517d4088,node fs #1,javascript,,,node-fs-1,,,<html><body>x</body></html>
+af5659503f70,merge two lists #2,html,,,merge-two-lists-2,,,"use std::io::Read;
+fn main() {}"
+d2db475fa42d,python loop #3,python,,,python-loop-3,,,function foo() { return Math.random(); }
+306c5e8bd341,rust hello #4,javascript,,,rust-hello-4,,,const fs = require('fs')
+4f74e9aacc8a,node fs #5,go,,,node-fs-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+74668dde1d8b,python loop #6,javascript,,,python-loop-6,,,const fs = require('fs')
+4121341ce4a5,html stub #7,yaml,,,html-stub-7,,,echo 'hello world'
+7f789169b879,go hello #8,javascript,,,go-hello-8,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+ce6f4aaa2e41,rust hello #9,sql,,,rust-hello-9,,,const fs = require('fs')
+a3019778580d,go hello #10,yaml,,,go-hello-10,,,function foo() { return Math.random(); }
+f685e1cd8646,compose #11,sql,,,compose-11,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"

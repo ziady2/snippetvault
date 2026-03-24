@@ -1,0 +1,17 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+76c488a8828a,active users #0,python,,,active-users-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+0d927bf0df49,python loop #1,rust,,,python-loop-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+df3f429945b2,grep TODO #2,rust,,,grep-todo-2,,,for i in range(10): print(i)
+b6eeea006d8f,grep TODO #3,rust,,,grep-todo-3,,,SELECT * FROM users WHERE active = TRUE;
+8d436f22d6f9,python loop #4,python,,,python-loop-4,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+d0794aca1372,tail a file #5,python,,,tail-a-file-5,,,function foo() { return Math.random(); }
+a44f0de8d476,compose #6,sql,,,compose-6,,,echo 'hello world'
+11b0fef843a5,node fs #7,sql,,,node-fs-7,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+86a23a569e44,compose #8,python,,,compose-8,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+b1ca9a278ed7,go hello #9,shell,,,go-hello-9,,,const fs = require('fs')

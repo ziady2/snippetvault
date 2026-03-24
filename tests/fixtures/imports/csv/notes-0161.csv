@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+1148d6b4c1ca,tail a file #0,javascript,,,tail-a-file-0,,,<html><body>x</body></html>
+71bb82eef85e,grep TODO #1,go,,,grep-todo-1,,,for i in range(10): print(i)
+c9bb3e4e7b58,merge two lists #2,go,,,merge-two-lists-2,,,"use std::io::Read;
+fn main() {}"
+b53fc9d163e8,python loop #3,shell,,,python-loop-3,,,"use std::io::Read;
+fn main() {}"
+6648d5e91172,merge two lists #4,rust,,,merge-two-lists-4,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+0e3d9a1e97e0,compose #5,html,,,compose-5,,,<html><body>x</body></html>
+ff01a8e20d0d,html stub #6,yaml,,,html-stub-6,,,for i in range(10): print(i)
+68ea7274a677,grep TODO #7,yaml,,,grep-todo-7,,,function foo() { return Math.random(); }
+e38dc7675aa3,compose #8,javascript,,,compose-8,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+f14f111e0cc7,compose #9,go,,,compose-9,,,"use std::io::Read;
+fn main() {}"
+e389a0c7f806,merge two lists #10,javascript,,,merge-two-lists-10,,,function foo() { return Math.random(); }

@@ -1,0 +1,17 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+8c92a55505c5,html stub #0,sql,,,html-stub-0,,,SELECT * FROM users WHERE active = TRUE;
+3520f76a1f5a,merge two lists #1,sql,,,merge-two-lists-1,,,for i in range(10): print(i)
+6dbb87f23e4f,rust hello #2,yaml,,,rust-hello-2,,,SELECT * FROM users WHERE active = TRUE;
+ed2260211034,python loop #3,sql,,,python-loop-3,,,echo 'hello world'
+89b15f0798e2,node fs #4,yaml,,,node-fs-4,,,const fs = require('fs')
+bbb13a5e699a,node fs #5,python,,,node-fs-5,,,SELECT * FROM users WHERE active = TRUE;
+800e79dde8c4,python loop #6,html,,,python-loop-6,,,"version: '3'
+services: {}"
+f18152d60ff6,node fs #7,html,,,node-fs-7,,,function foo() { return Math.random(); }
+ec502119d6f9,active users #8,python,,,active-users-8,,,"use std::io::Read;
+fn main() {}"
+9e829d9fc5fc,tail a file #9,go,,,tail-a-file-9,,,"version: '3'
+services: {}"
+19abc0701ef6,html stub #10,yaml,,,html-stub-10,,,const fs = require('fs')
+330e3bfabc67,active users #11,html,,,active-users-11,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"

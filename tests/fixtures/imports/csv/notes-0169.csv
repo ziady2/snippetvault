@@ -1,0 +1,14 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+80f8cd0d20c5,merge two lists #0,yaml,,,merge-two-lists-0,,,function foo() { return Math.random(); }
+0038f1e6e81b,python loop #1,python,,,python-loop-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+f353ee9dfe12,tail a file #2,yaml,,,tail-a-file-2,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+f289e515801d,go hello #3,python,,,go-hello-3,,,"version: '3'
+services: {}"
+a44f15756458,rust hello #4,javascript,,,rust-hello-4,,,const fs = require('fs')
+7cfe49b363bf,tail a file #5,python,,,tail-a-file-5,,,"version: '3'
+services: {}"
+6ad673e01cd2,html stub #6,sql,,,html-stub-6,,,const fs = require('fs')
+1432e41e15d6,rust hello #7,yaml,,,rust-hello-7,,,<html><body>x</body></html>

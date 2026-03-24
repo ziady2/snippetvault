@@ -1,0 +1,6 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+50ff077daba1,python loop #0,html,,,python-loop-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+2bca7772b14f,compose #1,go,,,compose-1,,,echo 'hello world'
+a8ccc5a6429b,compose #2,python,,,compose-2,,,for i in range(10): print(i)

@@ -1,0 +1,21 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+8af2a5557e6e,node fs #0,python,,,node-fs-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+0e1a8919e0a0,python loop #1,go,,,python-loop-1,,,"version: '3'
+services: {}"
+60b6dce927c1,html stub #2,python,,,html-stub-2,,,const fs = require('fs')
+263e00b26c4d,python loop #3,python,,,python-loop-3,,,"version: '3'
+services: {}"
+dc3a88dc9f49,tail a file #4,rust,,,tail-a-file-4,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+f32b28403ced,python loop #5,javascript,,,python-loop-5,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+bae54b73eb4d,tail a file #6,javascript,,,tail-a-file-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+6859eb570094,go hello #7,javascript,,,go-hello-7,,,function foo() { return Math.random(); }
+9f97584c0bb2,tail a file #8,html,,,tail-a-file-8,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"

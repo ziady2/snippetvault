@@ -1,0 +1,23 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+4803214421e9,tail a file #0,html,,,tail-a-file-0,,,const fs = require('fs')
+db275a2c6723,html stub #1,yaml,,,html-stub-1,,,"version: '3'
+services: {}"
+b5c05391e27f,compose #2,rust,,,compose-2,,,<html><body>x</body></html>
+edc9ee5106ea,merge two lists #3,javascript,,,merge-two-lists-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+3386a0483404,compose #4,rust,,,compose-4,,,"use std::io::Read;
+fn main() {}"
+3b5ccdf1251e,node fs #5,javascript,,,node-fs-5,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+fd279632d5b0,tail a file #6,go,,,tail-a-file-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+803bfa3693b4,tail a file #7,javascript,,,tail-a-file-7,,,echo 'hello world'
+f7e8be13f813,html stub #8,javascript,,,html-stub-8,,,"version: '3'
+services: {}"
+7c81c0c8a4fa,rust hello #9,yaml,,,rust-hello-9,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+9b32f1c5410d,tail a file #10,javascript,,,tail-a-file-10,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+7dc1e54002f2,html stub #11,rust,,,html-stub-11,,,for i in range(10): print(i)

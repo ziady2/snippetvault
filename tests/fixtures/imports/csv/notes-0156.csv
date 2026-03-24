@@ -1,0 +1,19 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+3fc7629a11e3,python loop #0,yaml,,,python-loop-0,,,<html><body>x</body></html>
+a41da4e3e232,tail a file #1,rust,,,tail-a-file-1,,,"use std::io::Read;
+fn main() {}"
+bc69de42ed48,tail a file #2,python,,,tail-a-file-2,,,"use std::io::Read;
+fn main() {}"
+08cf15365da1,tail a file #3,javascript,,,tail-a-file-3,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+f2589efb6be1,rust hello #4,python,,,rust-hello-4,,,"version: '3'
+services: {}"
+ff5dfffbeaf2,tail a file #5,go,,,tail-a-file-5,,,for i in range(10): print(i)
+51f5271a1db2,go hello #6,shell,,,go-hello-6,,,SELECT * FROM users WHERE active = TRUE;
+6337936e0aa0,go hello #7,shell,,,go-hello-7,,,<html><body>x</body></html>
+9e74f8d70184,python loop #8,python,,,python-loop-8,,,echo 'hello world'
+dcb4cfb842b8,tail a file #9,rust,,,tail-a-file-9,,,"use std::io::Read;
+fn main() {}"
+acfc7aa544c9,rust hello #10,yaml,,,rust-hello-10,,,"use std::io::Read;
+fn main() {}"
+be37f6af805b,compose #11,python,,,compose-11,,,const fs = require('fs')

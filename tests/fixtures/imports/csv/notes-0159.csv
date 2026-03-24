@@ -1,0 +1,5 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+518f5623dbe4,node fs #0,python,,,node-fs-0,,,function foo() { return Math.random(); }
+7bd1a1ba047c,grep TODO #1,html,,,grep-todo-1,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+7fc4475b2b1d,compose #2,yaml,,,compose-2,,,echo 'hello world'

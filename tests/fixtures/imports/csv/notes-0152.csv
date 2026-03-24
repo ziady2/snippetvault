@@ -1,0 +1,14 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+38a8daf38b54,grep TODO #0,html,,,grep-todo-0,,,"version: '3'
+services: {}"
+866ebbfda38b,compose #1,python,,,compose-1,,,"use std::io::Read;
+fn main() {}"
+49d1c8541ec6,python loop #2,go,,,python-loop-2,,,echo 'hello world'
+5d973b7cdff2,go hello #3,python,,,go-hello-3,,,"version: '3'
+services: {}"
+07009731d6b3,active users #4,python,,,active-users-4,,,for i in range(10): print(i)
+39ad57a79993,tail a file #5,python,,,tail-a-file-5,,,function foo() { return Math.random(); }
+29b12f16c2c7,rust hello #6,sql,,,rust-hello-6,,,"version: '3'
+services: {}"
+f43ee97599bb,html stub #7,go,,,html-stub-7,,,const fs = require('fs')
+74392299e0c7,go hello #8,python,,,go-hello-8,,,echo 'hello world'

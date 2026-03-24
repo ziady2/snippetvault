@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+8c0b954aaeb9,rust hello #0,python,,,rust-hello-0,,,"use std::io::Read;
+fn main() {}"
+bd583f562100,go hello #1,javascript,,,go-hello-1,,,const fs = require('fs')
+453f9f186de0,tail a file #2,shell,,,tail-a-file-2,,,<html><body>x</body></html>
+965d9b6e1182,merge two lists #3,javascript,,,merge-two-lists-3,,,function foo() { return Math.random(); }
+360cffcf392d,html stub #4,javascript,,,html-stub-4,,,function foo() { return Math.random(); }
+8b2a554cecce,compose #5,yaml,,,compose-5,,,for i in range(10): print(i)
+b44e92127b27,tail a file #6,shell,,,tail-a-file-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+5d602eaaf726,tail a file #7,rust,,,tail-a-file-7,,,const fs = require('fs')
+ede1019b3599,html stub #8,yaml,,,html-stub-8,,,"use std::io::Read;
+fn main() {}"
+cde1198a2a9e,node fs #9,rust,,,node-fs-9,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+8eba7d713b4e,compose #10,shell,,,compose-10,,,const fs = require('fs')

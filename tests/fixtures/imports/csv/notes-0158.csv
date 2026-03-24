@@ -1,0 +1,10 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+8689948d27a6,go hello #0,sql,,,go-hello-0,,,const fs = require('fs')
+30d540c267c1,grep TODO #1,go,,,grep-todo-1,,,"use std::io::Read;
+fn main() {}"
+32d31ff3594f,merge two lists #2,python,,,merge-two-lists-2,,,function foo() { return Math.random(); }
+ef0b8b0949ec,rust hello #3,sql,,,rust-hello-3,,,<html><body>x</body></html>
+866b227f61ba,node fs #4,html,,,node-fs-4,,,const fs = require('fs')
+a8d70d3ba387,tail a file #5,go,,,tail-a-file-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+31f6b194fe20,node fs #6,html,,,node-fs-6,,,function foo() { return Math.random(); }

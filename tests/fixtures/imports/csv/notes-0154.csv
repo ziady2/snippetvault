@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+8e16bb8d66ea,go hello #0,python,,,go-hello-0,,,"version: '3'
+services: {}"
+9e7f5b751f81,active users #1,javascript,,,active-users-1,,,function foo() { return Math.random(); }
+b065f7bf7fa4,merge two lists #2,rust,,,merge-two-lists-2,,,"version: '3'
+services: {}"
+146c7e624680,tail a file #3,javascript,,,tail-a-file-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+18636358382e,html stub #4,javascript,,,html-stub-4,,,const fs = require('fs')
+9a24f3d3d2d9,python loop #5,rust,,,python-loop-5,,,SELECT * FROM users WHERE active = TRUE;
+9a0eab5f025b,compose #6,rust,,,compose-6,,,"use std::io::Read;
+fn main() {}"
+0f71574fb246,active users #7,rust,,,active-users-7,,,"version: '3'
+services: {}"
+df14dd8c2d9c,go hello #8,javascript,,,go-hello-8,,,echo 'hello world'
+bf27742a78b1,compose #9,yaml,,,compose-9,,,function foo() { return Math.random(); }
+6ed539ea934b,rust hello #10,javascript,,,rust-hello-10,,,function foo() { return Math.random(); }

@@ -1,0 +1,11 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+d0e99a86d55a,tail a file #0,python,,,tail-a-file-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+3564ee008b7a,grep TODO #1,python,,,grep-todo-1,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+14b6ca2c13de,compose #2,python,,,compose-2,,,"use std::io::Read;
+fn main() {}"
+0b378f7c667b,merge two lists #3,shell,,,merge-two-lists-3,,,const fs = require('fs')
+b7e622b56fda,active users #4,html,,,active-users-4,,,echo 'hello world'

@@ -1,0 +1,18 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+0cf42115ffff,tail a file #0,rust,,,tail-a-file-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+b58dc08d8efe,tail a file #1,shell,,,tail-a-file-1,,,<html><body>x</body></html>
+44f4e6190933,rust hello #2,javascript,,,rust-hello-2,,,for i in range(10): print(i)
+5414f79e4040,python loop #3,html,,,python-loop-3,,,echo 'hello world'
+0ef6387be51a,merge two lists #4,python,,,merge-two-lists-4,,,"version: '3'
+services: {}"
+0496b8a997ae,grep TODO #5,python,,,grep-todo-5,,,<html><body>x</body></html>
+7b3431a6ab9a,active users #6,sql,,,active-users-6,,,"use std::io::Read;
+fn main() {}"
+6897c634fe73,html stub #7,shell,,,html-stub-7,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+eaa7c554e413,compose #8,go,,,compose-8,,,function foo() { return Math.random(); }
+f88b043138c4,tail a file #9,javascript,,,tail-a-file-9,,,"version: '3'
+services: {}"
+01a894c16968,python loop #10,yaml,,,python-loop-10,,,<html><body>x</body></html>
