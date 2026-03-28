@@ -1,0 +1,14 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+d0c10a403d09,active users #0,yaml,,,active-users-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+7e37bbc9bd2e,active users #1,go,,,active-users-1,,,for i in range(10): print(i)
+bbe5f3571197,grep TODO #2,yaml,,,grep-todo-2,,,const fs = require('fs')
+a2e48c780e6f,node fs #3,javascript,,,node-fs-3,,,"use std::io::Read;
+fn main() {}"
+0862477da5af,merge two lists #4,go,,,merge-two-lists-4,,,echo 'hello world'
+0a27c01e1f1e,active users #5,python,,,active-users-5,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+c8ed29695ffa,html stub #6,rust,,,html-stub-6,,,"use std::io::Read;
+fn main() {}"
+249cbfe04ed1,tail a file #7,yaml,,,tail-a-file-7,,,function foo() { return Math.random(); }

@@ -1,0 +1,9 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+1514b8b7372c,go hello #0,javascript,,,go-hello-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+0c6ce74b4b32,python loop #1,sql,,,python-loop-1,,,"version: '3'
+services: {}"
+ad5b2d4ac376,merge two lists #2,javascript,,,merge-two-lists-2,,,const fs = require('fs')
+fb7b7c4bd37d,tail a file #3,javascript,,,tail-a-file-3,,,"use std::io::Read;
+fn main() {}"
+bc8cff708d6b,merge two lists #4,javascript,,,merge-two-lists-4,,,<html><body>x</body></html>

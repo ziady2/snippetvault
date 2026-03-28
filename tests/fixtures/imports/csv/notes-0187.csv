@@ -1,0 +1,12 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+d581ea160611,html stub #0,yaml,,,html-stub-0,,,for i in range(10): print(i)
+d39d3eadc9d4,rust hello #1,shell,,,rust-hello-1,,,<html><body>x</body></html>
+afb3ab8a4048,compose #2,html,,,compose-2,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+f812f8ef3a29,go hello #3,python,,,go-hello-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+d2b871a319b3,rust hello #4,shell,,,rust-hello-4,,,const fs = require('fs')
+568c1c9ef659,rust hello #5,rust,,,rust-hello-5,,,SELECT * FROM users WHERE active = TRUE;
+857cc4302018,active users #6,python,,,active-users-6,,,echo 'hello world'

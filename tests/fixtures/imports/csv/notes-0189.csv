@@ -1,0 +1,5 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+4fd8a033954f,grep TODO #0,go,,,grep-todo-0,,,echo 'hello world'
+7f499f6e897a,tail a file #1,rust,,,tail-a-file-1,,,function foo() { return Math.random(); }
+92f6971370a9,html stub #2,python,,,html-stub-2,,,SELECT * FROM users WHERE active = TRUE;
+84ab899bed9a,tail a file #3,shell,,,tail-a-file-3,,,const fs = require('fs')

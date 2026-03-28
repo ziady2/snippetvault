@@ -1,0 +1,8 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+ac67e181b09c,compose #0,python,,,compose-0,,,echo 'hello world'
+78913e5cf3be,node fs #1,yaml,,,node-fs-1,,,"use std::io::Read;
+fn main() {}"
+83ff3cf32679,grep TODO #2,javascript,,,grep-todo-2,,,for i in range(10): print(i)
+d9e6078a3e03,compose #3,python,,,compose-3,,,const fs = require('fs')
+9bdcb4e69859,html stub #4,go,,,html-stub-4,,,"version: '3'
+services: {}"

@@ -1,0 +1,19 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+e3f7f829e938,html stub #0,javascript,,,html-stub-0,,,"use std::io::Read;
+fn main() {}"
+92fe5275d3a5,merge two lists #1,rust,,,merge-two-lists-1,,,const fs = require('fs')
+77d853af59dd,tail a file #2,go,,,tail-a-file-2,,,for i in range(10): print(i)
+f3989bfc8918,html stub #3,javascript,,,html-stub-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+5a5cbf0716fb,tail a file #4,javascript,,,tail-a-file-4,,,"version: '3'
+services: {}"
+e10092601ab3,node fs #5,python,,,node-fs-5,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+f801cea9f11c,active users #6,javascript,,,active-users-6,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+72a56bb754a2,html stub #7,go,,,html-stub-7,,,const fs = require('fs')
+d660661dab62,grep TODO #8,python,,,grep-todo-8,,,const fs = require('fs')
+04748e7abd4c,compose #9,rust,,,compose-9,,,<html><body>x</body></html>

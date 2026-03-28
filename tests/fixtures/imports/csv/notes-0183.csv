@@ -1,0 +1,15 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+43e3d5a8d29e,rust hello #0,rust,,,rust-hello-0,,,echo 'hello world'
+47bd233a896e,tail a file #1,python,,,tail-a-file-1,,,"version: '3'
+services: {}"
+c4dfdeb36a92,html stub #2,javascript,,,html-stub-2,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+27a598c2130e,node fs #3,sql,,,node-fs-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+cc208c55cf64,tail a file #4,javascript,,,tail-a-file-4,,,echo 'hello world'
+09d8691b56d9,python loop #5,yaml,,,python-loop-5,,,echo 'hello world'
+5495a1a60983,python loop #6,html,,,python-loop-6,,,"use std::io::Read;
+fn main() {}"
+68b4b1c78542,node fs #7,javascript,,,node-fs-7,,,<html><body>x</body></html>

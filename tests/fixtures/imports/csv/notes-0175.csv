@@ -1,0 +1,8 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+15dfa5470dba,python loop #0,sql,,,python-loop-0,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"
+e209b276c4f1,rust hello #1,go,,,rust-hello-1,,,SELECT * FROM users WHERE active = TRUE;
+70c4b0e3b881,rust hello #2,rust,,,rust-hello-2,,,"use std::io::Read;
+fn main() {}"
+c6347394cf6a,grep TODO #3,sql,,,grep-todo-3,,,function foo() { return Math.random(); }
+8e609422b605,python loop #4,rust,,,python-loop-4,,,echo 'hello world'

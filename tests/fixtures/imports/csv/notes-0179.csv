@@ -1,0 +1,6 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+a4f3d30276a7,html stub #0,javascript,,,html-stub-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+1c2386931a22,html stub #1,sql,,,html-stub-1,,,for i in range(10): print(i)
+5fca0811aae5,active users #2,go,,,active-users-2,,,<html><body>x</body></html>

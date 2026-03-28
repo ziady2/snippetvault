@@ -1,0 +1,10 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+33a8e4325241,compose #0,javascript,,,compose-0,,,echo 'hello world'
+74ec51193799,active users #1,python,,,active-users-1,,,for i in range(10): print(i)
+ddb8441dd68c,node fs #2,python,,,node-fs-2,,,"version: '3'
+services: {}"
+a7b90bb49bbb,grep TODO #3,javascript,,,grep-todo-3,,,"version: '3'
+services: {}"
+ab693fe53647,rust hello #4,yaml,,,rust-hello-4,,,for i in range(10): print(i)
+96320f874919,go hello #5,javascript,,,go-hello-5,,,"import asyncio
+async def foo(): await asyncio.sleep(0.1)"

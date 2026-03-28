@@ -1,0 +1,16 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+82302474d064,node fs #0,javascript,,,node-fs-0,,,echo 'hello world'
+24c61abce4a5,go hello #1,javascript,,,go-hello-1,,,"version: '3'
+services: {}"
+7c5682aa4442,merge two lists #2,shell,,,merge-two-lists-2,,,"use std::io::Read;
+fn main() {}"
+64c41d82ee75,node fs #3,javascript,,,node-fs-3,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+156b091f49bb,active users #4,shell,,,active-users-4,,,echo 'hello world'
+df88b3b4ce6c,merge two lists #5,javascript,,,merge-two-lists-5,,,"use std::io::Read;
+fn main() {}"
+f05569b1fb2e,tail a file #6,go,,,tail-a-file-6,,,<html><body>x</body></html>
+c449d2d20000,tail a file #7,javascript,,,tail-a-file-7,,,"version: '3'
+services: {}"
+879f509e973d,merge two lists #8,python,,,merge-two-lists-8,,,for i in range(10): print(i)

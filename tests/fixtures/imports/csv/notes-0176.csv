@@ -1,0 +1,5 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+917de095e39c,node fs #0,javascript,,,node-fs-0,,,"package main
+import ""fmt""
+func main() { fmt.Println(""x"") }"
+46643fb527f8,merge two lists #1,rust,,,merge-two-lists-1,,,for i in range(10): print(i)

@@ -1,0 +1,8 @@
+id,title,language,tags,auto_tags,slug,source,notes,body
+a8f361bc6cae,merge two lists #0,python,,,merge-two-lists-0,,,echo 'hello world'
+d1c2e03893d8,python loop #1,go,,,python-loop-1,,,const fs = require('fs')
+0bbb93a73ee9,python loop #2,go,,,python-loop-2,,,SELECT * FROM users WHERE active = TRUE;
+01d57cccb4d3,html stub #3,go,,,html-stub-3,,,function foo() { return Math.random(); }
+afb7550389a8,html stub #4,rust,,,html-stub-4,,,"use std::io::Read;
+fn main() {}"
+056487bd6ea1,rust hello #5,go,,,rust-hello-5,,,for i in range(10): print(i)
