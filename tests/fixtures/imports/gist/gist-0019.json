@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #19",
+  "html_url": "https://gist.github.com/example/19",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "html stub #0": {
+      "filename": "html stub #0",
+      "language": "Rust",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Yaml",
+      "content": "const fs = require('fs')"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Rust",
+      "content": "version: '3'\nservices: {}"
+    },
+    "go hello #4": {
+      "filename": "go hello #4",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "rust hello #6": {
+      "filename": "rust hello #6",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "node fs #7": {
+      "filename": "node fs #7",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    }
+  }
+}

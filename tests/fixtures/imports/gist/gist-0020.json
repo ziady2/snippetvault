@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #20",
+  "html_url": "https://gist.github.com/example/20",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Yaml",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Shell",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "compose #3": {
+      "filename": "compose #3",
+      "language": "Shell",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

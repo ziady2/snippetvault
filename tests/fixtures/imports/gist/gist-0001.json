@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #1",
+  "html_url": "https://gist.github.com/example/1",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Shell",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    },
+    "tail a file #3": {
+      "filename": "tail a file #3",
+      "language": "Go",
+      "content": "echo 'hello world'"
+    },
+    "go hello #4": {
+      "filename": "go hello #4",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Shell",
+      "content": "const fs = require('fs')"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Go",
+      "content": "echo 'hello world'"
+    },
+    "grep TODO #7": {
+      "filename": "grep TODO #7",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #8": {
+      "filename": "node fs #8",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #9": {
+      "filename": "python loop #9",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "node fs #10": {
+      "filename": "node fs #10",
+      "language": "Sql",
+      "content": "for i in range(10): print(i)"
+    },
+    "merge two lists #11": {
+      "filename": "merge two lists #11",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

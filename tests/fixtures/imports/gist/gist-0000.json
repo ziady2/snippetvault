@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #0",
+  "html_url": "https://gist.github.com/example/0",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Sql",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #2": {
+      "filename": "go hello #2",
+      "language": "Yaml",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #18",
+  "html_url": "https://gist.github.com/example/18",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Rust",
+      "content": "<html><body>x</body></html>"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "compose #3": {
+      "filename": "compose #3",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Yaml",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #7": {
+      "filename": "tail a file #7",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "rust hello #8": {
+      "filename": "rust hello #8",
+      "language": "Rust",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #9": {
+      "filename": "active users #9",
+      "language": "Go",
+      "content": "const fs = require('fs')"
+    },
+    "rust hello #10": {
+      "filename": "rust hello #10",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

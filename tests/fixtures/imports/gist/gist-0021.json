@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #21",
+  "html_url": "https://gist.github.com/example/21",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Shell",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

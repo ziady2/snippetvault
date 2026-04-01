@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #15",
+  "html_url": "https://gist.github.com/example/15",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

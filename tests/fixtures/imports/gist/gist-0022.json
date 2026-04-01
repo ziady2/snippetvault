@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #22",
+  "html_url": "https://gist.github.com/example/22",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "grep TODO #6": {
+      "filename": "grep TODO #6",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "html stub #7": {
+      "filename": "html stub #7",
+      "language": "Yaml",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

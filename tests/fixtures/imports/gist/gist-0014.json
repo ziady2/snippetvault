@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #14",
+  "html_url": "https://gist.github.com/example/14",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Shell",
+      "content": "echo 'hello world'"
+    },
+    "tail a file #3": {
+      "filename": "tail a file #3",
+      "language": "Sql",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #4": {
+      "filename": "python loop #4",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

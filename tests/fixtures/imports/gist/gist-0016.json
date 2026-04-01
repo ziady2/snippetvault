@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #16",
+  "html_url": "https://gist.github.com/example/16",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Go",
+      "content": "const fs = require('fs')"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Sql",
+      "content": "const fs = require('fs')"
+    },
+    "active users #4": {
+      "filename": "active users #4",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #5": {
+      "filename": "python loop #5",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "tail a file #6": {
+      "filename": "tail a file #6",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #7": {
+      "filename": "node fs #7",
+      "language": "Yaml",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #8": {
+      "filename": "go hello #8",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "compose #9": {
+      "filename": "compose #9",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "grep TODO #10": {
+      "filename": "grep TODO #10",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "tail a file #11": {
+      "filename": "tail a file #11",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}

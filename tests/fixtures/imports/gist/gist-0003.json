@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #3",
+  "html_url": "https://gist.github.com/example/3",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "grep TODO #2": {
+      "filename": "grep TODO #2",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "tail a file #3": {
+      "filename": "tail a file #3",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}

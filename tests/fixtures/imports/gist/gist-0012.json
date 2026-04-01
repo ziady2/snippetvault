@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #12",
+  "html_url": "https://gist.github.com/example/12",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #3": {
+      "filename": "node fs #3",
+      "language": "Sql",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #5": {
+      "filename": "merge two lists #5",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "rust hello #6": {
+      "filename": "rust hello #6",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #7": {
+      "filename": "node fs #7",
+      "language": "Sql",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "rust hello #8": {
+      "filename": "rust hello #8",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #9": {
+      "filename": "merge two lists #9",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "tail a file #10": {
+      "filename": "tail a file #10",
+      "language": "Html",
+      "content": "echo 'hello world'"
+    }
+  }
+}

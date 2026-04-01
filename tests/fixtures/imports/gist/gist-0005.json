@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #5",
+  "html_url": "https://gist.github.com/example/5",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "grep TODO #2": {
+      "filename": "grep TODO #2",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    },
+    "html stub #3": {
+      "filename": "html stub #3",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "html stub #4": {
+      "filename": "html stub #4",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #5": {
+      "filename": "grep TODO #5",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "active users #6": {
+      "filename": "active users #6",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "active users #7": {
+      "filename": "active users #7",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #8": {
+      "filename": "tail a file #8",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

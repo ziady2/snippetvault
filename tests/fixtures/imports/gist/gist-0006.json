@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #6",
+  "html_url": "https://gist.github.com/example/6",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Rust",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #5": {
+      "filename": "python loop #5",
+      "language": "Yaml",
+      "content": "<html><body>x</body></html>"
+    },
+    "tail a file #6": {
+      "filename": "tail a file #6",
+      "language": "Shell",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "rust hello #7": {
+      "filename": "rust hello #7",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "description": "corpus gist #2",
+  "html_url": "https://gist.github.com/example/2",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Yaml",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #3": {
+      "filename": "node fs #3",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #4": {
+      "filename": "compose #4",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "rust hello #5": {
+      "filename": "rust hello #5",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    }
+  }
+}

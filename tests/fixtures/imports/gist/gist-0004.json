@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #4",
+  "html_url": "https://gist.github.com/example/4",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "grep TODO #2": {
+      "filename": "grep TODO #2",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "html stub #4": {
+      "filename": "html stub #4",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "go hello #5": {
+      "filename": "go hello #5",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "node fs #6": {
+      "filename": "node fs #6",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}

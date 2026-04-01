@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #10",
+  "html_url": "https://gist.github.com/example/10",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "go hello #0": {
+      "filename": "go hello #0",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #4": {
+      "filename": "active users #4",
+      "language": "Sql",
+      "content": "for i in range(10): print(i)"
+    },
+    "active users #5": {
+      "filename": "active users #5",
+      "language": "Html",
+      "content": "echo 'hello world'"
+    },
+    "python loop #6": {
+      "filename": "python loop #6",
+      "language": "Sql",
+      "content": "const fs = require('fs')"
+    },
+    "html stub #7": {
+      "filename": "html stub #7",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "grep TODO #8": {
+      "filename": "grep TODO #8",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "rust hello #9": {
+      "filename": "rust hello #9",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "rust hello #10": {
+      "filename": "rust hello #10",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}
