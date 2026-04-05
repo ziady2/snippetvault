@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #38",
+  "html_url": "https://gist.github.com/example/38",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Sql",
+      "content": "for i in range(10): print(i)"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Shell",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "html stub #2": {
+      "filename": "html stub #2",
+      "language": "Shell",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "html stub #3": {
+      "filename": "html stub #3",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}

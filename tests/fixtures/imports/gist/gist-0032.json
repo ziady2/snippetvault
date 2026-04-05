@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #32",
+  "html_url": "https://gist.github.com/example/32",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Yaml",
+      "content": "const fs = require('fs')"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

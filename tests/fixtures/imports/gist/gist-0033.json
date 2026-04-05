@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #33",
+  "html_url": "https://gist.github.com/example/33",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Sql",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "python loop #4": {
+      "filename": "python loop #4",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "grep TODO #5": {
+      "filename": "grep TODO #5",
+      "language": "Sql",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "compose #6": {
+      "filename": "compose #6",
+      "language": "Go",
+      "content": "const fs = require('fs')"
+    },
+    "go hello #7": {
+      "filename": "go hello #7",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

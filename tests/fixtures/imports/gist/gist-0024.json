@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #24",
+  "html_url": "https://gist.github.com/example/24",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Rust",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    },
+    "go hello #5": {
+      "filename": "go hello #5",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Html",
+      "content": "echo 'hello world'"
+    },
+    "active users #7": {
+      "filename": "active users #7",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    },
+    "grep TODO #8": {
+      "filename": "grep TODO #8",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

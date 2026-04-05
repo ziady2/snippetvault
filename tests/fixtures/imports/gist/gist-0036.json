@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #36",
+  "html_url": "https://gist.github.com/example/36",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Rust",
+      "content": "echo 'hello world'"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Yaml",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

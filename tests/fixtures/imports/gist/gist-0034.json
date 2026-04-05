@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #34",
+  "html_url": "https://gist.github.com/example/34",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Sql",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Html",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "go hello #2": {
+      "filename": "go hello #2",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Yaml",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "go hello #4": {
+      "filename": "go hello #4",
+      "language": "Rust",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #6": {
+      "filename": "rust hello #6",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "active users #7": {
+      "filename": "active users #7",
+      "language": "Html",
+      "content": "const fs = require('fs')"
+    },
+    "html stub #8": {
+      "filename": "html stub #8",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "rust hello #9": {
+      "filename": "rust hello #9",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #10": {
+      "filename": "tail a file #10",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

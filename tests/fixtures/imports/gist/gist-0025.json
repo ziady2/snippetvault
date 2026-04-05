@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #25",
+  "html_url": "https://gist.github.com/example/25",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #4": {
+      "filename": "active users #4",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #5": {
+      "filename": "python loop #5",
+      "language": "Shell",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "compose #6": {
+      "filename": "compose #6",
+      "language": "Yaml",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #7": {
+      "filename": "node fs #7",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "go hello #8": {
+      "filename": "go hello #8",
+      "language": "Go",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #9": {
+      "filename": "merge two lists #9",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "python loop #10": {
+      "filename": "python loop #10",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #11": {
+      "filename": "merge two lists #11",
+      "language": "Yaml",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #44",
+  "html_url": "https://gist.github.com/example/44",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "html stub #4": {
+      "filename": "html stub #4",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "merge two lists #5": {
+      "filename": "merge two lists #5",
+      "language": "Html",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "compose #6": {
+      "filename": "compose #6",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #7": {
+      "filename": "go hello #7",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "html stub #8": {
+      "filename": "html stub #8",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #40",
+  "html_url": "https://gist.github.com/example/40",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "tail a file #3": {
+      "filename": "tail a file #3",
+      "language": "Go",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "grep TODO #5": {
+      "filename": "grep TODO #5",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "merge two lists #6": {
+      "filename": "merge two lists #6",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "compose #7": {
+      "filename": "compose #7",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "active users #8": {
+      "filename": "active users #8",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "active users #9": {
+      "filename": "active users #9",
+      "language": "Html",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "rust hello #10": {
+      "filename": "rust hello #10",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

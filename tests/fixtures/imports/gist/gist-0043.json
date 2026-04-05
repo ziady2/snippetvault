@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #43",
+  "html_url": "https://gist.github.com/example/43",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Yaml",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "tail a file #5": {
+      "filename": "tail a file #5",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "merge two lists #6": {
+      "filename": "merge two lists #6",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "tail a file #7": {
+      "filename": "tail a file #7",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "merge two lists #8": {
+      "filename": "merge two lists #8",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "merge two lists #9": {
+      "filename": "merge two lists #9",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "active users #10": {
+      "filename": "active users #10",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

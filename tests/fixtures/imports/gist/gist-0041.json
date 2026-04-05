@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #41",
+  "html_url": "https://gist.github.com/example/41",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "grep TODO #2": {
+      "filename": "grep TODO #2",
+      "language": "Rust",
+      "content": "use std::io::Read;\nfn main() {}"
+    }
+  }
+}

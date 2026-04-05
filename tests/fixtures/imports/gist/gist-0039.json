@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #39",
+  "html_url": "https://gist.github.com/example/39",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Sql",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Rust",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "compose #4": {
+      "filename": "compose #4",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    }
+  }
+}

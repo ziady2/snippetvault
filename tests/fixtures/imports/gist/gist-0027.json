@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #27",
+  "html_url": "https://gist.github.com/example/27",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Rust",
+      "content": "echo 'hello world'"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Yaml",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

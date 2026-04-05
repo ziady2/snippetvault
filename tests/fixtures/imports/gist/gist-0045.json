@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #45",
+  "html_url": "https://gist.github.com/example/45",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "grep TODO #2": {
+      "filename": "grep TODO #2",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "compose #3": {
+      "filename": "compose #3",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #5": {
+      "filename": "python loop #5",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #6": {
+      "filename": "node fs #6",
+      "language": "Shell",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "go hello #7": {
+      "filename": "go hello #7",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}

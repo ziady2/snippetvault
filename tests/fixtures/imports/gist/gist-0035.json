@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #35",
+  "html_url": "https://gist.github.com/example/35",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Shell",
+      "content": "const fs = require('fs')"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    },
+    "rust hello #4": {
+      "filename": "rust hello #4",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    },
+    "merge two lists #7": {
+      "filename": "merge two lists #7",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "active users #8": {
+      "filename": "active users #8",
+      "language": "Shell",
+      "content": "for i in range(10): print(i)"
+    },
+    "rust hello #9": {
+      "filename": "rust hello #9",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #10": {
+      "filename": "node fs #10",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #11": {
+      "filename": "compose #11",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

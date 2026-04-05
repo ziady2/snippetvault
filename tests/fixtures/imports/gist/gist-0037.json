@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #37",
+  "html_url": "https://gist.github.com/example/37",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Html",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Rust",
+      "content": "const fs = require('fs')"
+    },
+    "active users #5": {
+      "filename": "active users #5",
+      "language": "Shell",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Shell",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}
