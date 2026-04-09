@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #55",
+  "html_url": "https://gist.github.com/example/55",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #4": {
+      "filename": "active users #4",
+      "language": "Sql",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #5": {
+      "filename": "python loop #5",
+      "language": "Sql",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #6": {
+      "filename": "tail a file #6",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "active users #7": {
+      "filename": "active users #7",
+      "language": "Sql",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #8": {
+      "filename": "node fs #8",
+      "language": "Rust",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "active users #9": {
+      "filename": "active users #9",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #10": {
+      "filename": "node fs #10",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #49",
+  "html_url": "https://gist.github.com/example/49",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "go hello #2": {
+      "filename": "go hello #2",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

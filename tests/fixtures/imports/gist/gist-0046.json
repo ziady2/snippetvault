@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #46",
+  "html_url": "https://gist.github.com/example/46",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Go",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "html stub #3": {
+      "filename": "html stub #3",
+      "language": "Shell",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #4": {
+      "filename": "merge two lists #4",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "rust hello #5": {
+      "filename": "rust hello #5",
+      "language": "Rust",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "rust hello #6": {
+      "filename": "rust hello #6",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #7": {
+      "filename": "node fs #7",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #8": {
+      "filename": "compose #8",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

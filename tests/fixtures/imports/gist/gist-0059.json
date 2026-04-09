@@ -1,0 +1,40 @@
+{
+  "description": "corpus gist #59",
+  "html_url": "https://gist.github.com/example/59",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Html",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Sql",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "active users #4": {
+      "filename": "active users #4",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "tail a file #5": {
+      "filename": "tail a file #5",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

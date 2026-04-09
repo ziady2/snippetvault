@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #68",
+  "html_url": "https://gist.github.com/example/68",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "go hello #0": {
+      "filename": "go hello #0",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Html",
+      "content": "const fs = require('fs')"
+    },
+    "grep TODO #2": {
+      "filename": "grep TODO #2",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #3": {
+      "filename": "tail a file #3",
+      "language": "Shell",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "active users #5": {
+      "filename": "active users #5",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

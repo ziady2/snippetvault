@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #57",
+  "html_url": "https://gist.github.com/example/57",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Yaml",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "python loop #4": {
+      "filename": "python loop #4",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "merge two lists #5": {
+      "filename": "merge two lists #5",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "grep TODO #6": {
+      "filename": "grep TODO #6",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #7": {
+      "filename": "tail a file #7",
+      "language": "Html",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #8": {
+      "filename": "tail a file #8",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

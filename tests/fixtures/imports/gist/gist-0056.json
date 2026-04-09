@@ -1,0 +1,40 @@
+{
+  "description": "corpus gist #56",
+  "html_url": "https://gist.github.com/example/56",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Html",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "html stub #4": {
+      "filename": "html stub #4",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    },
+    "merge two lists #5": {
+      "filename": "merge two lists #5",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #63",
+  "html_url": "https://gist.github.com/example/63",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "tail a file #5": {
+      "filename": "tail a file #5",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Yaml",
+      "content": "const fs = require('fs')"
+    },
+    "go hello #7": {
+      "filename": "go hello #7",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "python loop #8": {
+      "filename": "python loop #8",
+      "language": "Shell",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

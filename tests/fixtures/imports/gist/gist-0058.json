@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #58",
+  "html_url": "https://gist.github.com/example/58",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "node fs #0": {
+      "filename": "node fs #0",
+      "language": "Html",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

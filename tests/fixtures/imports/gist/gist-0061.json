@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #61",
+  "html_url": "https://gist.github.com/example/61",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Yaml",
+      "content": "const fs = require('fs')"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "active users #5": {
+      "filename": "active users #5",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "merge two lists #7": {
+      "filename": "merge two lists #7",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "html stub #8": {
+      "filename": "html stub #8",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "active users #9": {
+      "filename": "active users #9",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "html stub #10": {
+      "filename": "html stub #10",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #52",
+  "html_url": "https://gist.github.com/example/52",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Shell",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Go",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #47",
+  "html_url": "https://gist.github.com/example/47",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #4": {
+      "filename": "python loop #4",
+      "language": "Yaml",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "grep TODO #5": {
+      "filename": "grep TODO #5",
+      "language": "Html",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    },
+    "tail a file #7": {
+      "filename": "tail a file #7",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "compose #8": {
+      "filename": "compose #8",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "active users #9": {
+      "filename": "active users #9",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "merge two lists #10": {
+      "filename": "merge two lists #10",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #11": {
+      "filename": "rust hello #11",
+      "language": "Rust",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

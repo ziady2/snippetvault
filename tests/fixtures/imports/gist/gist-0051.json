@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #51",
+  "html_url": "https://gist.github.com/example/51",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Shell",
+      "content": "const fs = require('fs')"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Go",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}
