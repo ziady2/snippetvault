@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #71",
+  "html_url": "https://gist.github.com/example/71",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Yaml",
+      "content": "for i in range(10): print(i)"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Shell",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #3": {
+      "filename": "node fs #3",
+      "language": "Sql",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #4": {
+      "filename": "compose #4",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "grep TODO #5": {
+      "filename": "grep TODO #5",
+      "language": "Yaml",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #6": {
+      "filename": "tail a file #6",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "merge two lists #7": {
+      "filename": "merge two lists #7",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #8": {
+      "filename": "merge two lists #8",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #9": {
+      "filename": "python loop #9",
+      "language": "Shell",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "rust hello #10": {
+      "filename": "rust hello #10",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

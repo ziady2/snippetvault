@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #74",
+  "html_url": "https://gist.github.com/example/74",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Rust",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Html",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "html stub #4": {
+      "filename": "html stub #4",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "tail a file #5": {
+      "filename": "tail a file #5",
+      "language": "Yaml",
+      "content": "for i in range(10): print(i)"
+    },
+    "python loop #6": {
+      "filename": "python loop #6",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #7": {
+      "filename": "grep TODO #7",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "go hello #8": {
+      "filename": "go hello #8",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "tail a file #9": {
+      "filename": "tail a file #9",
+      "language": "Sql",
+      "content": "const fs = require('fs')"
+    },
+    "go hello #10": {
+      "filename": "go hello #10",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "python loop #11": {
+      "filename": "python loop #11",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "description": "corpus gist #81",
+  "html_url": "https://gist.github.com/example/81",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "grep TODO #2": {
+      "filename": "grep TODO #2",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #3": {
+      "filename": "node fs #3",
+      "language": "Yaml",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #5": {
+      "filename": "rust hello #5",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

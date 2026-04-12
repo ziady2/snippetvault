@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #91",
+  "html_url": "https://gist.github.com/example/91",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}

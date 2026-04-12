@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #75",
+  "html_url": "https://gist.github.com/example/75",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Sql",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Go",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "compose #3": {
+      "filename": "compose #3",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "go hello #5": {
+      "filename": "go hello #5",
+      "language": "Html",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "compose #6": {
+      "filename": "compose #6",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "grep TODO #7": {
+      "filename": "grep TODO #7",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

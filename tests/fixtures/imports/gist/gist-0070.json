@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #70",
+  "html_url": "https://gist.github.com/example/70",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

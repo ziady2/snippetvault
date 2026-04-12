@@ -1,0 +1,60 @@
+{
+  "description": "corpus gist #80",
+  "html_url": "https://gist.github.com/example/80",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Yaml",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Html",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #4": {
+      "filename": "compose #4",
+      "language": "Shell",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "merge two lists #6": {
+      "filename": "merge two lists #6",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "merge two lists #7": {
+      "filename": "merge two lists #7",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #8": {
+      "filename": "node fs #8",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #9": {
+      "filename": "merge two lists #9",
+      "language": "Html",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

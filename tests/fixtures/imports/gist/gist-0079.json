@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #79",
+  "html_url": "https://gist.github.com/example/79",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "html stub #0": {
+      "filename": "html stub #0",
+      "language": "Yaml",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "html stub #4": {
+      "filename": "html stub #4",
+      "language": "Yaml",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "go hello #7": {
+      "filename": "go hello #7",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    }
+  }
+}

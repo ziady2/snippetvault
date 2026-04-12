@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #77",
+  "html_url": "https://gist.github.com/example/77",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Rust",
+      "content": "echo 'hello world'"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #3": {
+      "filename": "rust hello #3",
+      "language": "Sql",
+      "content": "<html><body>x</body></html>"
+    },
+    "rust hello #4": {
+      "filename": "rust hello #4",
+      "language": "Html",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #5": {
+      "filename": "python loop #5",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "html stub #7": {
+      "filename": "html stub #7",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "html stub #8": {
+      "filename": "html stub #8",
+      "language": "Shell",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

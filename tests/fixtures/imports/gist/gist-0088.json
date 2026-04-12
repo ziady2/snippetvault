@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #88",
+  "html_url": "https://gist.github.com/example/88",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #2": {
+      "filename": "go hello #2",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Sql",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Go",
+      "content": "echo 'hello world'"
+    },
+    "tail a file #5": {
+      "filename": "tail a file #5",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Html",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #7": {
+      "filename": "node fs #7",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "tail a file #8": {
+      "filename": "tail a file #8",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    }
+  }
+}

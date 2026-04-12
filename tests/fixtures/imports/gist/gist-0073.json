@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #73",
+  "html_url": "https://gist.github.com/example/73",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    }
+  }
+}

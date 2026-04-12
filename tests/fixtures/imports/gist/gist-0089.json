@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #89",
+  "html_url": "https://gist.github.com/example/89",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Rust",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "go hello #2": {
+      "filename": "go hello #2",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "go hello #4": {
+      "filename": "go hello #4",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "active users #7": {
+      "filename": "active users #7",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    }
+  }
+}

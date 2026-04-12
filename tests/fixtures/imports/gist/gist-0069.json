@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #69",
+  "html_url": "https://gist.github.com/example/69",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Go",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #4": {
+      "filename": "merge two lists #4",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "merge two lists #5": {
+      "filename": "merge two lists #5",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #6": {
+      "filename": "node fs #6",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "active users #7": {
+      "filename": "active users #7",
+      "language": "Yaml",
+      "content": "for i in range(10): print(i)"
+    },
+    "grep TODO #8": {
+      "filename": "grep TODO #8",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #9": {
+      "filename": "merge two lists #9",
+      "language": "Rust",
+      "content": "<html><body>x</body></html>"
+    },
+    "rust hello #10": {
+      "filename": "rust hello #10",
+      "language": "Sql",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #11": {
+      "filename": "merge two lists #11",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "description": "corpus gist #83",
+  "html_url": "https://gist.github.com/example/83",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Sql",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #3": {
+      "filename": "node fs #3",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #4": {
+      "filename": "python loop #4",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #5": {
+      "filename": "active users #5",
+      "language": "Rust",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #6": {
+      "filename": "node fs #6",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "node fs #7": {
+      "filename": "node fs #7",
+      "language": "Html",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "tail a file #8": {
+      "filename": "tail a file #8",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "compose #9": {
+      "filename": "compose #9",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    }
+  }
+}

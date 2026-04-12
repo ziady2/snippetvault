@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #76",
+  "html_url": "https://gist.github.com/example/76",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Go",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

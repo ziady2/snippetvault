@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #90",
+  "html_url": "https://gist.github.com/example/90",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Sql",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Shell",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "html stub #3": {
+      "filename": "html stub #3",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

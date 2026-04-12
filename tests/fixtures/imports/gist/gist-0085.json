@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #85",
+  "html_url": "https://gist.github.com/example/85",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Sql",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "rust hello #4": {
+      "filename": "rust hello #4",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "python loop #5": {
+      "filename": "python loop #5",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "node fs #6": {
+      "filename": "node fs #6",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "html stub #7": {
+      "filename": "html stub #7",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #8": {
+      "filename": "node fs #8",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "rust hello #9": {
+      "filename": "rust hello #9",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "html stub #10": {
+      "filename": "html stub #10",
+      "language": "Shell",
+      "content": "const fs = require('fs')"
+    }
+  }
+}
