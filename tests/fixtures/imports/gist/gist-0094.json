@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #94",
+  "html_url": "https://gist.github.com/example/94",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Shell",
+      "content": "echo 'hello world'"
+    }
+  }
+}

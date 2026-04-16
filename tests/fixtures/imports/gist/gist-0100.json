@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #100",
+  "html_url": "https://gist.github.com/example/100",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Go",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Go",
+      "content": "echo 'hello world'"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Shell",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "merge two lists #4": {
+      "filename": "merge two lists #4",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Yaml",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #7": {
+      "filename": "active users #7",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}

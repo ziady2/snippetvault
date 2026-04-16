@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #112",
+  "html_url": "https://gist.github.com/example/112",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Html",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Rust",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "python loop #4": {
+      "filename": "python loop #4",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #5": {
+      "filename": "go hello #5",
+      "language": "Html",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "compose #6": {
+      "filename": "compose #6",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "html stub #7": {
+      "filename": "html stub #7",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "python loop #8": {
+      "filename": "python loop #8",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

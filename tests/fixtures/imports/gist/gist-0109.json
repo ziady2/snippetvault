@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #109",
+  "html_url": "https://gist.github.com/example/109",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Go",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Go",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "active users #5": {
+      "filename": "active users #5",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #6": {
+      "filename": "node fs #6",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "html stub #7": {
+      "filename": "html stub #7",
+      "language": "Html",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "compose #8": {
+      "filename": "compose #8",
+      "language": "Shell",
+      "content": "echo 'hello world'"
+    },
+    "active users #9": {
+      "filename": "active users #9",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #10": {
+      "filename": "tail a file #10",
+      "language": "Yaml",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #11": {
+      "filename": "merge two lists #11",
+      "language": "Rust",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

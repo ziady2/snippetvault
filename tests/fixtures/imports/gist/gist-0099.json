@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #99",
+  "html_url": "https://gist.github.com/example/99",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Html",
+      "content": "const fs = require('fs')"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "html stub #3": {
+      "filename": "html stub #3",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "python loop #4": {
+      "filename": "python loop #4",
+      "language": "Html",
+      "content": "echo 'hello world'"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Html",
+      "content": "echo 'hello world'"
+    },
+    "tail a file #6": {
+      "filename": "tail a file #6",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #7": {
+      "filename": "compose #7",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}

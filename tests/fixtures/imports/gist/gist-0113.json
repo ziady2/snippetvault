@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #113",
+  "html_url": "https://gist.github.com/example/113",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "go hello #0": {
+      "filename": "go hello #0",
+      "language": "Shell",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Shell",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #4": {
+      "filename": "compose #4",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}

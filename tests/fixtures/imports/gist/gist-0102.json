@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #102",
+  "html_url": "https://gist.github.com/example/102",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Sql",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Html",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Yaml",
+      "content": "const fs = require('fs')"
+    },
+    "compose #4": {
+      "filename": "compose #4",
+      "language": "Shell",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Html",
+      "content": "version: '3'\nservices: {}"
+    },
+    "grep TODO #6": {
+      "filename": "grep TODO #6",
+      "language": "Yaml",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "rust hello #7": {
+      "filename": "rust hello #7",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "python loop #8": {
+      "filename": "python loop #8",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "rust hello #9": {
+      "filename": "rust hello #9",
+      "language": "Sql",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "python loop #10": {
+      "filename": "python loop #10",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "merge two lists #11": {
+      "filename": "merge two lists #11",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    }
+  }
+}

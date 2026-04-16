@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #106",
+  "html_url": "https://gist.github.com/example/106",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "grep TODO #5": {
+      "filename": "grep TODO #5",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}

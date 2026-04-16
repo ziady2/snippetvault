@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #97",
+  "html_url": "https://gist.github.com/example/97",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "rust hello #3": {
+      "filename": "rust hello #3",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #4": {
+      "filename": "merge two lists #4",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

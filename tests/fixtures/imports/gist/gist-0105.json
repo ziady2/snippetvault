@@ -1,0 +1,40 @@
+{
+  "description": "corpus gist #105",
+  "html_url": "https://gist.github.com/example/105",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Sql",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Rust",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #4": {
+      "filename": "merge two lists #4",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "merge two lists #5": {
+      "filename": "merge two lists #5",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

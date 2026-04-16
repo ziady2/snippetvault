@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #101",
+  "html_url": "https://gist.github.com/example/101",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Go",
+      "content": "const fs = require('fs')"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #3": {
+      "filename": "node fs #3",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #5": {
+      "filename": "go hello #5",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #7": {
+      "filename": "python loop #7",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "node fs #8": {
+      "filename": "node fs #8",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #9": {
+      "filename": "compose #9",
+      "language": "Rust",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #10": {
+      "filename": "grep TODO #10",
+      "language": "Rust",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

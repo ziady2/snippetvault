@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #108",
+  "html_url": "https://gist.github.com/example/108",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "go hello #0": {
+      "filename": "go hello #0",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}
