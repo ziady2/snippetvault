@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #116",
+  "html_url": "https://gist.github.com/example/116",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Sql",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #4": {
+      "filename": "active users #4",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

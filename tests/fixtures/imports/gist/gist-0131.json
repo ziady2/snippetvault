@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #131",
+  "html_url": "https://gist.github.com/example/131",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Rust",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "html stub #3": {
+      "filename": "html stub #3",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

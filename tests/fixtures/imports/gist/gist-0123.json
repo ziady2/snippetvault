@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #123",
+  "html_url": "https://gist.github.com/example/123",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "html stub #0": {
+      "filename": "html stub #0",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Sql",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Html",
+      "content": "const fs = require('fs')"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "active users #6": {
+      "filename": "active users #6",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #7": {
+      "filename": "go hello #7",
+      "language": "Yaml",
+      "content": "const fs = require('fs')"
+    },
+    "rust hello #8": {
+      "filename": "rust hello #8",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    }
+  }
+}

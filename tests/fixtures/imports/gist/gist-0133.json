@@ -1,0 +1,40 @@
+{
+  "description": "corpus gist #133",
+  "html_url": "https://gist.github.com/example/133",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Html",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #3": {
+      "filename": "node fs #3",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #5": {
+      "filename": "python loop #5",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #129",
+  "html_url": "https://gist.github.com/example/129",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Sql",
+      "content": "use std::io::Read;\nfn main() {}"
+    }
+  }
+}

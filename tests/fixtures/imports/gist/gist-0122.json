@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #122",
+  "html_url": "https://gist.github.com/example/122",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "html stub #0": {
+      "filename": "html stub #0",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Rust",
+      "content": "echo 'hello world'"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Html",
+      "content": "echo 'hello world'"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #4": {
+      "filename": "merge two lists #4",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "html stub #5": {
+      "filename": "html stub #5",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #6": {
+      "filename": "compose #6",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #7": {
+      "filename": "node fs #7",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

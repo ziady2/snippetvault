@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #127",
+  "html_url": "https://gist.github.com/example/127",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Shell",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Go",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #5": {
+      "filename": "grep TODO #5",
+      "language": "Rust",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "active users #7": {
+      "filename": "active users #7",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "go hello #8": {
+      "filename": "go hello #8",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "html stub #9": {
+      "filename": "html stub #9",
+      "language": "Rust",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #10": {
+      "filename": "tail a file #10",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

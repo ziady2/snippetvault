@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #115",
+  "html_url": "https://gist.github.com/example/115",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #2": {
+      "filename": "go hello #2",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

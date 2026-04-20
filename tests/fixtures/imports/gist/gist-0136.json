@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #136",
+  "html_url": "https://gist.github.com/example/136",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Rust",
+      "content": "const fs = require('fs')"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Go",
+      "content": "echo 'hello world'"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Go",
+      "content": "<html><body>x</body></html>"
+    },
+    "rust hello #4": {
+      "filename": "rust hello #4",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}

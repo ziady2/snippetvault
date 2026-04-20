@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #132",
+  "html_url": "https://gist.github.com/example/132",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Rust",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #3": {
+      "filename": "compose #3",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Sql",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "html stub #5": {
+      "filename": "html stub #5",
+      "language": "Html",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "merge two lists #6": {
+      "filename": "merge two lists #6",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "merge two lists #7": {
+      "filename": "merge two lists #7",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    },
+    "node fs #8": {
+      "filename": "node fs #8",
+      "language": "Sql",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "active users #9": {
+      "filename": "active users #9",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "active users #10": {
+      "filename": "active users #10",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #11": {
+      "filename": "node fs #11",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

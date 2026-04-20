@@ -1,0 +1,40 @@
+{
+  "description": "corpus gist #119",
+  "html_url": "https://gist.github.com/example/119",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "grep TODO #2": {
+      "filename": "grep TODO #2",
+      "language": "Html",
+      "content": "version: '3'\nservices: {}"
+    },
+    "compose #3": {
+      "filename": "compose #3",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "compose #4": {
+      "filename": "compose #4",
+      "language": "Html",
+      "content": "const fs = require('fs')"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Rust",
+      "content": "echo 'hello world'"
+    }
+  }
+}

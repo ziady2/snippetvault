@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #128",
+  "html_url": "https://gist.github.com/example/128",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Sql",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

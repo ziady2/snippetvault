@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #130",
+  "html_url": "https://gist.github.com/example/130",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Sql",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Html",
+      "content": "echo 'hello world'"
+    },
+    "html stub #5": {
+      "filename": "html stub #5",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #6": {
+      "filename": "rust hello #6",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

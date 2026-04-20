@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #120",
+  "html_url": "https://gist.github.com/example/120",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "node fs #0": {
+      "filename": "node fs #0",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Yaml",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #6": {
+      "filename": "merge two lists #6",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "merge two lists #7": {
+      "filename": "merge two lists #7",
+      "language": "Shell",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}

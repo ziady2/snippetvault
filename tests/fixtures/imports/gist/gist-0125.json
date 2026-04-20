@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #125",
+  "html_url": "https://gist.github.com/example/125",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "html stub #0": {
+      "filename": "html stub #0",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Shell",
+      "content": "for i in range(10): print(i)"
+    },
+    "active users #5": {
+      "filename": "active users #5",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

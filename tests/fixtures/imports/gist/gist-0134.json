@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #134",
+  "html_url": "https://gist.github.com/example/134",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "node fs #0": {
+      "filename": "node fs #0",
+      "language": "Rust",
+      "content": "echo 'hello world'"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #3": {
+      "filename": "node fs #3",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #6": {
+      "filename": "tail a file #6",
+      "language": "Yaml",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #7": {
+      "filename": "merge two lists #7",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #8": {
+      "filename": "tail a file #8",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #9": {
+      "filename": "compose #9",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    },
+    "active users #10": {
+      "filename": "active users #10",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "html stub #11": {
+      "filename": "html stub #11",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}
