@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #152",
+  "html_url": "https://gist.github.com/example/152",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Rust",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "go hello #2": {
+      "filename": "go hello #2",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #3": {
+      "filename": "node fs #3",
+      "language": "Go",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #4": {
+      "filename": "python loop #4",
+      "language": "Shell",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Go",
+      "content": "<html><body>x</body></html>"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #7": {
+      "filename": "python loop #7",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "python loop #8": {
+      "filename": "python loop #8",
+      "language": "Sql",
+      "content": "for i in range(10): print(i)"
+    },
+    "rust hello #9": {
+      "filename": "rust hello #9",
+      "language": "Sql",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "merge two lists #10": {
+      "filename": "merge two lists #10",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "rust hello #11": {
+      "filename": "rust hello #11",
+      "language": "Html",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

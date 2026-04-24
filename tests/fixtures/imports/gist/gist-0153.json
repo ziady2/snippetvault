@@ -1,0 +1,40 @@
+{
+  "description": "corpus gist #153",
+  "html_url": "https://gist.github.com/example/153",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Html",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Sql",
+      "content": "const fs = require('fs')"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #3": {
+      "filename": "merge two lists #3",
+      "language": "Yaml",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Sql",
+      "content": "echo 'hello world'"
+    }
+  }
+}

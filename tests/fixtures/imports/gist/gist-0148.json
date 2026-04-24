@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #148",
+  "html_url": "https://gist.github.com/example/148",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Go",
+      "content": "echo 'hello world'"
+    }
+  }
+}

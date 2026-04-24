@@ -1,0 +1,70 @@
+{
+  "description": "corpus gist #138",
+  "html_url": "https://gist.github.com/example/138",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "node fs #0": {
+      "filename": "node fs #0",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #3": {
+      "filename": "compose #3",
+      "language": "Sql",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "python loop #6": {
+      "filename": "python loop #6",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #7": {
+      "filename": "tail a file #7",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #8": {
+      "filename": "merge two lists #8",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #9": {
+      "filename": "grep TODO #9",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #10": {
+      "filename": "active users #10",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "python loop #11": {
+      "filename": "python loop #11",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

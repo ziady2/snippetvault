@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #140",
+  "html_url": "https://gist.github.com/example/140",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Html",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "html stub #2": {
+      "filename": "html stub #2",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}

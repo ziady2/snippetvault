@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #156",
+  "html_url": "https://gist.github.com/example/156",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Javascript",
+      "content": "version: '3'\nservices: {}"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Shell",
+      "content": "const fs = require('fs')"
+    },
+    "html stub #3": {
+      "filename": "html stub #3",
+      "language": "Sql",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

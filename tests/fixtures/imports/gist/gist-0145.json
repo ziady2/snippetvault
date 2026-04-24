@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #145",
+  "html_url": "https://gist.github.com/example/145",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Yaml",
+      "content": "for i in range(10): print(i)"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "merge two lists #4": {
+      "filename": "merge two lists #4",
+      "language": "Go",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #5": {
+      "filename": "tail a file #5",
+      "language": "Html",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "go hello #6": {
+      "filename": "go hello #6",
+      "language": "Rust",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #7": {
+      "filename": "active users #7",
+      "language": "Html",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #8": {
+      "filename": "compose #8",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

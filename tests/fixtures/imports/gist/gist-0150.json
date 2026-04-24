@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #150",
+  "html_url": "https://gist.github.com/example/150",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Yaml",
+      "content": "const fs = require('fs')"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #5": {
+      "filename": "python loop #5",
+      "language": "Shell",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #6": {
+      "filename": "active users #6",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "grep TODO #7": {
+      "filename": "grep TODO #7",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "go hello #8": {
+      "filename": "go hello #8",
+      "language": "Javascript",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #142",
+  "html_url": "https://gist.github.com/example/142",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "node fs #0": {
+      "filename": "node fs #0",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Sql",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #143",
+  "html_url": "https://gist.github.com/example/143",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Go",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

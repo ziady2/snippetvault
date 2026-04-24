@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #157",
+  "html_url": "https://gist.github.com/example/157",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Yaml",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "merge two lists #1": {
+      "filename": "merge two lists #1",
+      "language": "Go",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Rust",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Html",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "grep TODO #6": {
+      "filename": "grep TODO #6",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "merge two lists #7": {
+      "filename": "merge two lists #7",
+      "language": "Rust",
+      "content": "echo 'hello world'"
+    }
+  }
+}

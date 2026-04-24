@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #158",
+  "html_url": "https://gist.github.com/example/158",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Shell",
+      "content": "echo 'hello world'"
+    }
+  }
+}

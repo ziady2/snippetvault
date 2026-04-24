@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #146",
+  "html_url": "https://gist.github.com/example/146",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Shell",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "html stub #2": {
+      "filename": "html stub #2",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}
