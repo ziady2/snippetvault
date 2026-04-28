@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #166",
+  "html_url": "https://gist.github.com/example/166",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Shell",
+      "content": "echo 'hello world'"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Go",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Shell",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}

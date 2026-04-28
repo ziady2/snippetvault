@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #168",
+  "html_url": "https://gist.github.com/example/168",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Go",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "grep TODO #2": {
+      "filename": "grep TODO #2",
+      "language": "Yaml",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "go hello #3": {
+      "filename": "go hello #3",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "tail a file #5": {
+      "filename": "tail a file #5",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "active users #6": {
+      "filename": "active users #6",
+      "language": "Shell",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #7": {
+      "filename": "compose #7",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #8": {
+      "filename": "node fs #8",
+      "language": "Html",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #9": {
+      "filename": "compose #9",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "compose #10": {
+      "filename": "compose #10",
+      "language": "Go",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #167",
+  "html_url": "https://gist.github.com/example/167",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "go hello #0": {
+      "filename": "go hello #0",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Yaml",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "rust hello #3": {
+      "filename": "rust hello #3",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "merge two lists #4": {
+      "filename": "merge two lists #4",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "rust hello #6": {
+      "filename": "rust hello #6",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #183",
+  "html_url": "https://gist.github.com/example/183",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "html stub #0": {
+      "filename": "html stub #0",
+      "language": "Yaml",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #1": {
+      "filename": "tail a file #1",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "python loop #2": {
+      "filename": "python loop #2",
+      "language": "Html",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Shell",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "go hello #4": {
+      "filename": "go hello #4",
+      "language": "Shell",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

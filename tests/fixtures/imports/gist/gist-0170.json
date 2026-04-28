@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #170",
+  "html_url": "https://gist.github.com/example/170",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "active users #3": {
+      "filename": "active users #3",
+      "language": "Rust",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Go",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Html",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #6": {
+      "filename": "node fs #6",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "grep TODO #7": {
+      "filename": "grep TODO #7",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "compose #8": {
+      "filename": "compose #8",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "merge two lists #9": {
+      "filename": "merge two lists #9",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #10": {
+      "filename": "merge two lists #10",
+      "language": "Go",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

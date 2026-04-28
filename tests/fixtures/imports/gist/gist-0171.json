@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #171",
+  "html_url": "https://gist.github.com/example/171",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "rust hello #0": {
+      "filename": "rust hello #0",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #2": {
+      "filename": "tail a file #2",
+      "language": "Html",
+      "content": "<html><body>x</body></html>"
+    },
+    "html stub #3": {
+      "filename": "html stub #3",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "html stub #4": {
+      "filename": "html stub #4",
+      "language": "Sql",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "compose #6": {
+      "filename": "compose #6",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "python loop #7": {
+      "filename": "python loop #7",
+      "language": "Python",
+      "content": "for i in range(10): print(i)"
+    },
+    "rust hello #8": {
+      "filename": "rust hello #8",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

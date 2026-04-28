@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #174",
+  "html_url": "https://gist.github.com/example/174",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Html",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Shell",
+      "content": "echo 'hello world'"
+    },
+    "go hello #2": {
+      "filename": "go hello #2",
+      "language": "Sql",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Rust",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #5": {
+      "filename": "node fs #5",
+      "language": "Rust",
+      "content": "echo 'hello world'"
+    },
+    "grep TODO #6": {
+      "filename": "grep TODO #6",
+      "language": "Yaml",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

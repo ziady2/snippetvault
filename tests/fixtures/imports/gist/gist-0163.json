@@ -1,0 +1,25 @@
+{
+  "description": "corpus gist #163",
+  "html_url": "https://gist.github.com/example/163",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Yaml",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Shell",
+      "content": "for i in range(10): print(i)"
+    }
+  }
+}

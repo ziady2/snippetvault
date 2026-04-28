@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #176",
+  "html_url": "https://gist.github.com/example/176",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Sql",
+      "content": "for i in range(10): print(i)"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Rust",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

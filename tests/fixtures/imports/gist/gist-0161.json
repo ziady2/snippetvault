@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #161",
+  "html_url": "https://gist.github.com/example/161",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "html stub #1": {
+      "filename": "html stub #1",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "tail a file #3": {
+      "filename": "tail a file #3",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}
