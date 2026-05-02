@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #198",
+  "html_url": "https://gist.github.com/example/198",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "html stub #0": {
+      "filename": "html stub #0",
+      "language": "Sql",
+      "content": "for i in range(10): print(i)"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Rust",
+      "content": "version: '3'\nservices: {}"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Rust",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #3": {
+      "filename": "tail a file #3",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "rust hello #5": {
+      "filename": "rust hello #5",
+      "language": "Javascript",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #6": {
+      "filename": "compose #6",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "html stub #7": {
+      "filename": "html stub #7",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "compose #8": {
+      "filename": "compose #8",
+      "language": "Rust",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "compose #9": {
+      "filename": "compose #9",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #10": {
+      "filename": "python loop #10",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    }
+  }
+}

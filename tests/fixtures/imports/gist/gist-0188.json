@@ -1,0 +1,20 @@
+{
+  "description": "corpus gist #188",
+  "html_url": "https://gist.github.com/example/188",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "python loop #0": {
+      "filename": "python loop #0",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "rust hello #1": {
+      "filename": "rust hello #1",
+      "language": "Go",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    }
+  }
+}

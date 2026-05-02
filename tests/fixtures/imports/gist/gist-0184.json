@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #184",
+  "html_url": "https://gist.github.com/example/184",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "node fs #0": {
+      "filename": "node fs #0",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #5": {
+      "filename": "tail a file #5",
+      "language": "Javascript",
+      "content": "const fs = require('fs')"
+    },
+    "active users #6": {
+      "filename": "active users #6",
+      "language": "Html",
+      "content": "function foo() { return Math.random(); }"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "description": "corpus gist #199",
+  "html_url": "https://gist.github.com/example/199",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "active users #0": {
+      "filename": "active users #0",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #1": {
+      "filename": "compose #1",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "rust hello #2": {
+      "filename": "rust hello #2",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "compose #3": {
+      "filename": "compose #3",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "description": "corpus gist #195",
+  "html_url": "https://gist.github.com/example/195",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Shell",
+      "content": "version: '3'\nservices: {}"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Sql",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Python",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "python loop #3": {
+      "filename": "python loop #3",
+      "language": "Shell",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Rust",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "html stub #6": {
+      "filename": "html stub #6",
+      "language": "Javascript",
+      "content": "for i in range(10): print(i)"
+    },
+    "html stub #7": {
+      "filename": "html stub #7",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "compose #8": {
+      "filename": "compose #8",
+      "language": "Yaml",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "grep TODO #9": {
+      "filename": "grep TODO #9",
+      "language": "Html",
+      "content": "version: '3'\nservices: {}"
+    }
+  }
+}

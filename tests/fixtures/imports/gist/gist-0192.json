@@ -1,0 +1,55 @@
+{
+  "description": "corpus gist #192",
+  "html_url": "https://gist.github.com/example/192",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "compose #0": {
+      "filename": "compose #0",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "grep TODO #1": {
+      "filename": "grep TODO #1",
+      "language": "Shell",
+      "content": "echo 'hello world'"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "tail a file #3": {
+      "filename": "tail a file #3",
+      "language": "Rust",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "grep TODO #5": {
+      "filename": "grep TODO #5",
+      "language": "Python",
+      "content": "<html><body>x</body></html>"
+    },
+    "merge two lists #6": {
+      "filename": "merge two lists #6",
+      "language": "Python",
+      "content": "const fs = require('fs')"
+    },
+    "tail a file #7": {
+      "filename": "tail a file #7",
+      "language": "Go",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "html stub #8": {
+      "filename": "html stub #8",
+      "language": "Sql",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

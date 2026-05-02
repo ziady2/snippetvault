@@ -1,0 +1,50 @@
+{
+  "description": "corpus gist #186",
+  "html_url": "https://gist.github.com/example/186",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "tail a file #0": {
+      "filename": "tail a file #0",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "go hello #1": {
+      "filename": "go hello #1",
+      "language": "Python",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #2": {
+      "filename": "node fs #2",
+      "language": "Sql",
+      "content": "const fs = require('fs')"
+    },
+    "html stub #3": {
+      "filename": "html stub #3",
+      "language": "Rust",
+      "content": "version: '3'\nservices: {}"
+    },
+    "grep TODO #4": {
+      "filename": "grep TODO #4",
+      "language": "Sql",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "go hello #5": {
+      "filename": "go hello #5",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "active users #6": {
+      "filename": "active users #6",
+      "language": "Go",
+      "content": "<html><body>x</body></html>"
+    },
+    "tail a file #7": {
+      "filename": "tail a file #7",
+      "language": "Javascript",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    }
+  }
+}

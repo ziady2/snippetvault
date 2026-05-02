@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #189",
+  "html_url": "https://gist.github.com/example/189",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "go hello #0": {
+      "filename": "go hello #0",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "python loop #1": {
+      "filename": "python loop #1",
+      "language": "Rust",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "active users #2": {
+      "filename": "active users #2",
+      "language": "Yaml",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Python",
+      "content": "version: '3'\nservices: {}"
+    },
+    "tail a file #4": {
+      "filename": "tail a file #4",
+      "language": "Yaml",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "tail a file #5": {
+      "filename": "tail a file #5",
+      "language": "Sql",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "compose #6": {
+      "filename": "compose #6",
+      "language": "Go",
+      "content": "for i in range(10): print(i)"
+    },
+    "html stub #7": {
+      "filename": "html stub #7",
+      "language": "Html",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "go hello #8": {
+      "filename": "go hello #8",
+      "language": "Sql",
+      "content": "<html><body>x</body></html>"
+    },
+    "python loop #9": {
+      "filename": "python loop #9",
+      "language": "Python",
+      "content": "echo 'hello world'"
+    },
+    "compose #10": {
+      "filename": "compose #10",
+      "language": "Shell",
+      "content": "<html><body>x</body></html>"
+    }
+  }
+}

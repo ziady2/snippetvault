@@ -1,0 +1,35 @@
+{
+  "description": "corpus gist #187",
+  "html_url": "https://gist.github.com/example/187",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Javascript",
+      "content": "use std::io::Read;\nfn main() {}"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Sql",
+      "content": "version: '3'\nservices: {}"
+    },
+    "compose #2": {
+      "filename": "compose #2",
+      "language": "Javascript",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "rust hello #3": {
+      "filename": "rust hello #3",
+      "language": "Sql",
+      "content": "for i in range(10): print(i)"
+    },
+    "go hello #4": {
+      "filename": "go hello #4",
+      "language": "Sql",
+      "content": "const fs = require('fs')"
+    }
+  }
+}

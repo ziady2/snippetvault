@@ -1,0 +1,65 @@
+{
+  "description": "corpus gist #193",
+  "html_url": "https://gist.github.com/example/193",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "merge two lists #0": {
+      "filename": "merge two lists #0",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "active users #1": {
+      "filename": "active users #1",
+      "language": "Yaml",
+      "content": "for i in range(10): print(i)"
+    },
+    "html stub #2": {
+      "filename": "html stub #2",
+      "language": "Html",
+      "content": "const fs = require('fs')"
+    },
+    "grep TODO #3": {
+      "filename": "grep TODO #3",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "node fs #4": {
+      "filename": "node fs #4",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "html stub #5": {
+      "filename": "html stub #5",
+      "language": "Yaml",
+      "content": "echo 'hello world'"
+    },
+    "python loop #6": {
+      "filename": "python loop #6",
+      "language": "Javascript",
+      "content": "echo 'hello world'"
+    },
+    "compose #7": {
+      "filename": "compose #7",
+      "language": "Python",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "python loop #8": {
+      "filename": "python loop #8",
+      "language": "Rust",
+      "content": "package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"x\") }"
+    },
+    "tail a file #9": {
+      "filename": "tail a file #9",
+      "language": "Shell",
+      "content": "for i in range(10): print(i)"
+    },
+    "compose #10": {
+      "filename": "compose #10",
+      "language": "Rust",
+      "content": "echo 'hello world'"
+    }
+  }
+}

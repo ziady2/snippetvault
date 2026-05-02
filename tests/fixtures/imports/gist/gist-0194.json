@@ -1,0 +1,45 @@
+{
+  "description": "corpus gist #194",
+  "html_url": "https://gist.github.com/example/194",
+  "owner": {
+    "login": "ziad",
+    "html_url": "https://github.com/ziad"
+  },
+  "files": {
+    "grep TODO #0": {
+      "filename": "grep TODO #0",
+      "language": "Javascript",
+      "content": "function foo() { return Math.random(); }"
+    },
+    "node fs #1": {
+      "filename": "node fs #1",
+      "language": "Go",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "merge two lists #2": {
+      "filename": "merge two lists #2",
+      "language": "Python",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "compose #3": {
+      "filename": "compose #3",
+      "language": "Python",
+      "content": "import asyncio\nasync def foo(): await asyncio.sleep(0.1)"
+    },
+    "python loop #4": {
+      "filename": "python loop #4",
+      "language": "Rust",
+      "content": "<html><body>x</body></html>"
+    },
+    "compose #5": {
+      "filename": "compose #5",
+      "language": "Rust",
+      "content": "SELECT * FROM users WHERE active = TRUE;"
+    },
+    "node fs #6": {
+      "filename": "node fs #6",
+      "language": "Shell",
+      "content": "use std::io::Read;\nfn main() {}"
+    }
+  }
+}
