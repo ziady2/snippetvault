@@ -1,0 +1,15 @@
+<snippets>
+  <snippet>
+    <name>node fs #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>node-fs-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #1</name>
+    <scope>source.python</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>merge-two-lists-1</tabTrigger>
+  </snippet>
+</snippets>

@@ -1,0 +1,20 @@
+<snippets>
+  <snippet>
+    <name>compose #0</name>
+    <scope>source.html</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>compose-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #1</name>
+    <scope>source.python</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>html-stub-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #2</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>python-loop-2</tabTrigger>
+  </snippet>
+</snippets>

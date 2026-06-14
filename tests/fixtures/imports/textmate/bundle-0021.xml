@@ -1,0 +1,72 @@
+<snippets>
+  <snippet>
+    <name>active users #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>active-users-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #1</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>python-loop-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #2</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>go-hello-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #3</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>grep-todo-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #4</name>
+    <scope>source.python</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>node-fs-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #5</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>rust-hello-5</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #6</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>python-loop-6</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #7</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>go-hello-7</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #8</name>
+    <scope>source.go</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>merge-two-lists-8</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #9</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>active-users-9</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #10</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>merge-two-lists-10</tabTrigger>
+  </snippet>
+</snippets>

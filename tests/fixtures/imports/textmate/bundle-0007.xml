@@ -1,0 +1,38 @@
+<snippets>
+  <snippet>
+    <name>python loop #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>python-loop-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #1</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>html-stub-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #2</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>python-loop-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #3</name>
+    <scope>source.python</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>node-fs-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #4</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>tail-a-file-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #5</name>
+    <scope>source.go</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>python-loop-5</tabTrigger>
+  </snippet>
+</snippets>

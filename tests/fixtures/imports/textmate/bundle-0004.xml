@@ -1,0 +1,42 @@
+<snippets>
+  <snippet>
+    <name>python loop #0</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>python-loop-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #1</name>
+    <scope>source.go</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>compose-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #2</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>merge-two-lists-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #3</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>html-stub-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #4</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>active-users-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #5</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>python-loop-5</tabTrigger>
+  </snippet>
+</snippets>
