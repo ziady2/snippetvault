@@ -1,0 +1,20 @@
+<snippets>
+  <snippet>
+    <name>tail a file #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>tail-a-file-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #1</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>node-fs-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #2</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>rust-hello-2</tabTrigger>
+  </snippet>
+</snippets>

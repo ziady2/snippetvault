@@ -1,0 +1,17 @@
+<snippets>
+  <snippet>
+    <name>rust hello #0</name>
+    <scope>source.html</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>rust-hello-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #1</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>grep-todo-1</tabTrigger>
+  </snippet>
+</snippets>
