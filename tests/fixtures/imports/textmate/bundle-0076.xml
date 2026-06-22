@@ -1,0 +1,33 @@
+<snippets>
+  <snippet>
+    <name>active users #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>active-users-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #1</name>
+    <scope>source.html</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>go-hello-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #2</name>
+    <scope>source.html</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>active-users-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #3</name>
+    <scope>source.html</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>rust-hello-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #4</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>grep-todo-4</tabTrigger>
+  </snippet>
+</snippets>

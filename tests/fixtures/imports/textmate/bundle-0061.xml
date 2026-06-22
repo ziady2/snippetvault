@@ -1,0 +1,28 @@
+<snippets>
+  <snippet>
+    <name>rust hello #0</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>rust-hello-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #1</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>tail-a-file-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #2</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>rust-hello-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #3</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>grep-todo-3</tabTrigger>
+  </snippet>
+</snippets>

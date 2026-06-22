@@ -1,0 +1,55 @@
+<snippets>
+  <snippet>
+    <name>rust hello #0</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>rust-hello-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #1</name>
+    <scope>source.go</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>go-hello-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #2</name>
+    <scope>source.html</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>compose-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #3</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>rust-hello-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #4</name>
+    <scope>source.python</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>grep-todo-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #5</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>node-fs-5</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #6</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>html-stub-6</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #7</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>tail-a-file-7</tabTrigger>
+  </snippet>
+</snippets>

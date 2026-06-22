@@ -1,0 +1,15 @@
+<snippets>
+  <snippet>
+    <name>tail a file #0</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>tail-a-file-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #1</name>
+    <scope>source.html</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>compose-1</tabTrigger>
+  </snippet>
+</snippets>
