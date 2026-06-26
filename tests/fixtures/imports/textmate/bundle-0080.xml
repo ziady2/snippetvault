@@ -1,0 +1,30 @@
+<snippets>
+  <snippet>
+    <name>rust hello #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>rust-hello-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #1</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>go-hello-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #2</name>
+    <scope>source.python</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>compose-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #3</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>compose-3</tabTrigger>
+  </snippet>
+</snippets>

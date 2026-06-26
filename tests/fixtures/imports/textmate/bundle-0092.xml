@@ -1,0 +1,15 @@
+<snippets>
+  <snippet>
+    <name>python loop #0</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>python-loop-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #1</name>
+    <scope>source.go</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>go-hello-1</tabTrigger>
+  </snippet>
+</snippets>

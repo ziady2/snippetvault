@@ -1,0 +1,17 @@
+<snippets>
+  <snippet>
+    <name>python loop #0</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>python-loop-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #1</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>grep-todo-1</tabTrigger>
+  </snippet>
+</snippets>

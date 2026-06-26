@@ -1,0 +1,16 @@
+<snippets>
+  <snippet>
+    <name>merge two lists #0</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>merge-two-lists-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #1</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>python-loop-1</tabTrigger>
+  </snippet>
+</snippets>
