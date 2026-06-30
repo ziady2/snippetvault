@@ -1,0 +1,44 @@
+<snippets>
+  <snippet>
+    <name>tail a file #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>tail-a-file-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #1</name>
+    <scope>source.python</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>node-fs-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #2</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>active-users-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #3</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>go-hello-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #4</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>rust-hello-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #5</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>compose-5</tabTrigger>
+  </snippet>
+</snippets>

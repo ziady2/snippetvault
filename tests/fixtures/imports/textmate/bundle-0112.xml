@@ -1,0 +1,14 @@
+<snippets>
+  <snippet>
+    <name>grep TODO #0</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>grep-todo-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #1</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>active-users-1</tabTrigger>
+  </snippet>
+</snippets>

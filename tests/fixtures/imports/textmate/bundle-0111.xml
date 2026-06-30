@@ -1,0 +1,16 @@
+<snippets>
+  <snippet>
+    <name>html stub #0</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>html-stub-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #1</name>
+    <scope>source.python</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>node-fs-1</tabTrigger>
+  </snippet>
+</snippets>

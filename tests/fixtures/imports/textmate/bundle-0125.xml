@@ -1,0 +1,49 @@
+<snippets>
+  <snippet>
+    <name>go hello #0</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>go-hello-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #1</name>
+    <scope>source.python</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>go-hello-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #2</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>html-stub-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #3</name>
+    <scope>source.html</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>grep-todo-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #4</name>
+    <scope>source.python</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>grep-todo-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #5</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>node-fs-5</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #6</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>go-hello-6</tabTrigger>
+  </snippet>
+</snippets>

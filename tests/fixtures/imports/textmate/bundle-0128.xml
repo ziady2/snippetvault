@@ -1,0 +1,52 @@
+<snippets>
+  <snippet>
+    <name>rust hello #0</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>rust-hello-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #1</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>grep-todo-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #2</name>
+    <scope>source.go</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>tail-a-file-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #3</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>html-stub-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #4</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>html-stub-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #5</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>html-stub-5</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #6</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>python-loop-6</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #7</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>go-hello-7</tabTrigger>
+  </snippet>
+</snippets>
