@@ -1,0 +1,74 @@
+<snippets>
+  <snippet>
+    <name>node fs #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>node-fs-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #1</name>
+    <scope>source.python</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>compose-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #2</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>grep-todo-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #3</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>merge-two-lists-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #4</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>html-stub-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #5</name>
+    <scope>source.html</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>active-users-5</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #6</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>merge-two-lists-6</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #7</name>
+    <scope>source.python</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>html-stub-7</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #8</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>node-fs-8</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #9</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>python-loop-9</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #10</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>rust-hello-10</tabTrigger>
+  </snippet>
+</snippets>

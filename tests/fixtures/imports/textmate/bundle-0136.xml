@@ -1,0 +1,41 @@
+<snippets>
+  <snippet>
+    <name>grep TODO #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>grep-todo-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #1</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>compose-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #2</name>
+    <scope>source.html</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>html-stub-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #3</name>
+    <scope>source.html</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>grep-todo-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #4</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>html-stub-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #5</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>go-hello-5</tabTrigger>
+  </snippet>
+</snippets>

@@ -1,0 +1,16 @@
+<snippets>
+  <snippet>
+    <name>merge two lists #0</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>merge-two-lists-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #1</name>
+    <scope>source.go</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>node-fs-1</tabTrigger>
+  </snippet>
+</snippets>

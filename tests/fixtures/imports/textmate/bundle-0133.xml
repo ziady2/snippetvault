@@ -1,0 +1,68 @@
+<snippets>
+  <snippet>
+    <name>go hello #0</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>go-hello-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #1</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>tail-a-file-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #2</name>
+    <scope>source.html</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>grep-todo-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #3</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>tail-a-file-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #4</name>
+    <scope>source.python</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>go-hello-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #5</name>
+    <scope>source.html</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>node-fs-5</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #6</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>tail-a-file-6</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #7</name>
+    <scope>source.go</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>go-hello-7</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #8</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>go-hello-8</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #9</name>
+    <scope>source.python</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>active-users-9</tabTrigger>
+  </snippet>
+</snippets>

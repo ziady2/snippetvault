@@ -1,0 +1,59 @@
+<snippets>
+  <snippet>
+    <name>python loop #0</name>
+    <scope>source.html</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>python-loop-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #1</name>
+    <scope>source.html</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>rust-hello-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #2</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>tail-a-file-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #3</name>
+    <scope>source.python</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>compose-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #4</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>compose-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #5</name>
+    <scope>source.python</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>active-users-5</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #6</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>tail-a-file-6</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #7</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>node-fs-7</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #8</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>merge-two-lists-8</tabTrigger>
+  </snippet>
+</snippets>

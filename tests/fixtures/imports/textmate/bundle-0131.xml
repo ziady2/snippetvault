@@ -1,0 +1,53 @@
+<snippets>
+  <snippet>
+    <name>active users #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>active-users-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #1</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>tail-a-file-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #2</name>
+    <scope>source.go</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>compose-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #3</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>active-users-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #4</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>tail-a-file-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #5</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>merge-two-lists-5</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #6</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>tail-a-file-6</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #7</name>
+    <scope>source.python</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>grep-todo-7</tabTrigger>
+  </snippet>
+</snippets>
