@@ -1,0 +1,39 @@
+<snippets>
+  <snippet>
+    <name>html stub #0</name>
+    <scope>source.html</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>html-stub-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #1</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>merge-two-lists-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #2</name>
+    <scope>source.python</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>rust-hello-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #3</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[<html><body>x</body></html>]]></content>
+    <tabTrigger>tail-a-file-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #4</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>python-loop-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #5</name>
+    <scope>source.python</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>grep-todo-5</tabTrigger>
+  </snippet>
+</snippets>

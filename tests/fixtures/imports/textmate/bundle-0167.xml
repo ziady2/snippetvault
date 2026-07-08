@@ -1,0 +1,14 @@
+<snippets>
+  <snippet>
+    <name>node fs #0</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>node-fs-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #1</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>compose-1</tabTrigger>
+  </snippet>
+</snippets>

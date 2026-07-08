@@ -1,0 +1,36 @@
+<snippets>
+  <snippet>
+    <name>tail a file #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>tail-a-file-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>node fs #1</name>
+    <scope>source.rust</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>node-fs-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>python loop #2</name>
+    <scope>source.shell</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>python-loop-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>grep TODO #3</name>
+    <scope>source.yaml</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>grep-todo-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>merge two lists #4</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[SELECT * FROM users WHERE active = TRUE;]]></content>
+    <tabTrigger>merge-two-lists-4</tabTrigger>
+  </snippet>
+</snippets>

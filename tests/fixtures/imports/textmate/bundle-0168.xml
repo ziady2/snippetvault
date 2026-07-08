@@ -1,0 +1,15 @@
+<snippets>
+  <snippet>
+    <name>compose #0</name>
+    <scope>source.python</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>compose-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #1</name>
+    <scope>source.html</scope>
+    <content><![CDATA[version: '3'
+services: {}]]></content>
+    <tabTrigger>rust-hello-1</tabTrigger>
+  </snippet>
+</snippets>

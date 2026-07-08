@@ -1,0 +1,79 @@
+<snippets>
+  <snippet>
+    <name>merge two lists #0</name>
+    <scope>source.html</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>merge-two-lists-0</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #1</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>active-users-1</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #2</name>
+    <scope>source.python</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>compose-2</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #3</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>rust-hello-3</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>active users #4</name>
+    <scope>source.python</scope>
+    <content><![CDATA[for i in range(10): print(i)]]></content>
+    <tabTrigger>active-users-4</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>compose #5</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[use std::io::Read;
+fn main() {}]]></content>
+    <tabTrigger>compose-5</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>rust hello #6</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>rust-hello-6</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #7</name>
+    <scope>source.sql</scope>
+    <content><![CDATA[package main
+import "fmt"
+func main() { fmt.Println("x") }]]></content>
+    <tabTrigger>go-hello-7</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>go hello #8</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[echo 'hello world']]></content>
+    <tabTrigger>go-hello-8</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #9</name>
+    <scope>source.python</scope>
+    <content><![CDATA[import asyncio
+async def foo(): await asyncio.sleep(0.1)]]></content>
+    <tabTrigger>html-stub-9</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>tail a file #10</name>
+    <scope>source.python</scope>
+    <content><![CDATA[function foo() { return Math.random(); }]]></content>
+    <tabTrigger>tail-a-file-10</tabTrigger>
+  </snippet>
+  <snippet>
+    <name>html stub #11</name>
+    <scope>source.javascript</scope>
+    <content><![CDATA[const fs = require('fs')]]></content>
+    <tabTrigger>html-stub-11</tabTrigger>
+  </snippet>
+</snippets>
