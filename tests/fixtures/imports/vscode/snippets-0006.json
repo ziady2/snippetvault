@@ -1,0 +1,63 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #0",
+    "scope": "shell"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #1",
+    "scope": "rust"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #2",
+    "scope": "shell"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #3",
+    "scope": "javascript"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": "echo 'hello world'",
+    "description": "python loop #4",
+    "scope": "python"
+  },
+  "html stub #5": {
+    "prefix": "html-stub-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #5",
+    "scope": "javascript"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #6",
+    "scope": "rust"
+  },
+  "active users #7": {
+    "prefix": "active-users-7",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #7",
+    "scope": "python"
+  }
+}

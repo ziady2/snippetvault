@@ -1,0 +1,47 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #0",
+    "scope": "html"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #1",
+    "scope": "yaml"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #2",
+    "scope": "python"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "node fs #3",
+    "scope": "shell"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": "const fs = require('fs')",
+    "description": "grep TODO #4",
+    "scope": "javascript"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": "for i in range(10): print(i)",
+    "description": "python loop #5",
+    "scope": "python"
+  },
+  "grep TODO #6": {
+    "prefix": "grep-todo-6",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #6",
+    "scope": "shell"
+  }
+}

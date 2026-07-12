@@ -1,0 +1,57 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #0",
+    "scope": "javascript"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #1",
+    "scope": "go"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": "echo 'hello world'",
+    "description": "rust hello #2",
+    "scope": "rust"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": "echo 'hello world'",
+    "description": "html stub #3",
+    "scope": "python"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #4",
+    "scope": "go"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": "echo 'hello world'",
+    "description": "go hello #5",
+    "scope": "javascript"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #6",
+    "scope": "rust"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #7",
+    "scope": "go"
+  }
+}

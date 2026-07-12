@@ -1,0 +1,78 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #0",
+    "scope": "python"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "active users #1",
+    "scope": "yaml"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #2",
+    "scope": "shell"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #3",
+    "scope": "yaml"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": "const fs = require('fs')",
+    "description": "go hello #4",
+    "scope": "javascript"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #5",
+    "scope": "python"
+  },
+  "rust hello #6": {
+    "prefix": "rust-hello-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #6",
+    "scope": "yaml"
+  },
+  "merge two lists #7": {
+    "prefix": "merge-two-lists-7",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #7",
+    "scope": "rust"
+  },
+  "python loop #8": {
+    "prefix": "python-loop-8",
+    "body": "echo 'hello world'",
+    "description": "python loop #8",
+    "scope": "python"
+  },
+  "node fs #9": {
+    "prefix": "node-fs-9",
+    "body": "echo 'hello world'",
+    "description": "node fs #9",
+    "scope": "javascript"
+  }
+}

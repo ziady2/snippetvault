@@ -1,0 +1,18 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #0",
+    "scope": "yaml"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #1",
+    "scope": "html"
+  }
+}

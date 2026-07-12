@@ -1,0 +1,89 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #0",
+    "scope": "sql"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #1",
+    "scope": "go"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #2",
+    "scope": "rust"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #3",
+    "scope": "javascript"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "go hello #4",
+    "scope": "yaml"
+  },
+  "grep TODO #5": {
+    "prefix": "grep-todo-5",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "grep TODO #5",
+    "scope": "javascript"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #6",
+    "scope": "rust"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #7",
+    "scope": "javascript"
+  },
+  "rust hello #8": {
+    "prefix": "rust-hello-8",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #8",
+    "scope": "rust"
+  },
+  "go hello #9": {
+    "prefix": "go-hello-9",
+    "body": "for i in range(10): print(i)",
+    "description": "go hello #9",
+    "scope": "yaml"
+  },
+  "go hello #10": {
+    "prefix": "go-hello-10",
+    "body": "echo 'hello world'",
+    "description": "go hello #10",
+    "scope": "html"
+  }
+}

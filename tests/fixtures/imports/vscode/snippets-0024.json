@@ -1,0 +1,96 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "echo 'hello world'",
+    "description": "rust hello #0",
+    "scope": "go"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "go hello #1",
+    "scope": "shell"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #2",
+    "scope": "yaml"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #3",
+    "scope": "javascript"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "active users #4",
+    "scope": "python"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #5",
+    "scope": "sql"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #6",
+    "scope": "go"
+  },
+  "grep TODO #7": {
+    "prefix": "grep-todo-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #7",
+    "scope": "javascript"
+  },
+  "rust hello #8": {
+    "prefix": "rust-hello-8",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #8",
+    "scope": "javascript"
+  },
+  "tail a file #9": {
+    "prefix": "tail-a-file-9",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #9",
+    "scope": "rust"
+  },
+  "grep TODO #10": {
+    "prefix": "grep-todo-10",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #10",
+    "scope": "shell"
+  }
+}

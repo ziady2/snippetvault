@@ -1,0 +1,20 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "<html><body>x</body></html>",
+    "description": "python loop #0",
+    "scope": "shell"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #1",
+    "scope": "go"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #2",
+    "scope": "go"
+  }
+}

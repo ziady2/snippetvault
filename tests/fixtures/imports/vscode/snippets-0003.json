@@ -1,0 +1,20 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #0",
+    "scope": "sql"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #1",
+    "scope": "javascript"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "tail a file #2",
+    "scope": "javascript"
+  }
+}

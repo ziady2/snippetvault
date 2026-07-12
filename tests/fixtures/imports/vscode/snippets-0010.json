@@ -1,0 +1,69 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #0",
+    "scope": "html"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #1",
+    "scope": "javascript"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #2",
+    "scope": "go"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #3",
+    "scope": "go"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #4",
+    "scope": "go"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #5",
+    "scope": "python"
+  },
+  "compose #6": {
+    "prefix": "compose-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #6",
+    "scope": "python"
+  },
+  "go hello #7": {
+    "prefix": "go-hello-7",
+    "body": "for i in range(10): print(i)",
+    "description": "go hello #7",
+    "scope": "shell"
+  },
+  "html stub #8": {
+    "prefix": "html-stub-8",
+    "body": "echo 'hello world'",
+    "description": "html stub #8",
+    "scope": "javascript"
+  }
+}

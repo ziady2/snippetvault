@@ -1,0 +1,66 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #0",
+    "scope": "python"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #1",
+    "scope": "python"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #2",
+    "scope": "javascript"
+  },
+  "compose #3": {
+    "prefix": "compose-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #3",
+    "scope": "rust"
+  },
+  "rust hello #4": {
+    "prefix": "rust-hello-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "rust hello #4",
+    "scope": "python"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": "echo 'hello world'",
+    "description": "active users #5",
+    "scope": "yaml"
+  },
+  "rust hello #6": {
+    "prefix": "rust-hello-6",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "rust hello #6",
+    "scope": "yaml"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #7",
+    "scope": "html"
+  },
+  "html stub #8": {
+    "prefix": "html-stub-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #8",
+    "scope": "javascript"
+  }
+}

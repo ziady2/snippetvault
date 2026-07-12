@@ -1,0 +1,66 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #0",
+    "scope": "shell"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #1",
+    "scope": "rust"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #2",
+    "scope": "rust"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "const fs = require('fs')",
+    "description": "active users #3",
+    "scope": "rust"
+  },
+  "rust hello #4": {
+    "prefix": "rust-hello-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #4",
+    "scope": "shell"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #5",
+    "scope": "go"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #6",
+    "scope": "sql"
+  },
+  "compose #7": {
+    "prefix": "compose-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #7",
+    "scope": "go"
+  }
+}

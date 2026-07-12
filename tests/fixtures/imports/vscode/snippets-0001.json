@@ -1,0 +1,66 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #0",
+    "scope": "javascript"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "for i in range(10): print(i)",
+    "description": "python loop #1",
+    "scope": "sql"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #2",
+    "scope": "javascript"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #3",
+    "scope": "python"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #4",
+    "scope": "rust"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #5",
+    "scope": "shell"
+  },
+  "tail a file #6": {
+    "prefix": "tail-a-file-6",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #6",
+    "scope": "python"
+  },
+  "tail a file #7": {
+    "prefix": "tail-a-file-7",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #7",
+    "scope": "python"
+  },
+  "merge two lists #8": {
+    "prefix": "merge-two-lists-8",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #8",
+    "scope": "python"
+  }
+}

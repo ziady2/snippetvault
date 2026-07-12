@@ -1,0 +1,89 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #0",
+    "scope": "html"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #1",
+    "scope": "html"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #2",
+    "scope": "go"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #3",
+    "scope": "yaml"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #4",
+    "scope": "javascript"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #5",
+    "scope": "python"
+  },
+  "grep TODO #6": {
+    "prefix": "grep-todo-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "grep TODO #6",
+    "scope": "javascript"
+  },
+  "grep TODO #7": {
+    "prefix": "grep-todo-7",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #7",
+    "scope": "javascript"
+  },
+  "tail a file #8": {
+    "prefix": "tail-a-file-8",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "tail a file #8",
+    "scope": "python"
+  },
+  "grep TODO #9": {
+    "prefix": "grep-todo-9",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #9",
+    "scope": "rust"
+  },
+  "active users #10": {
+    "prefix": "active-users-10",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #10",
+    "scope": "html"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #0",
+    "scope": "shell"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "for i in range(10): print(i)",
+    "description": "compose #1",
+    "scope": "go"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #0",
+    "scope": "python"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "for i in range(10): print(i)",
+    "description": "python loop #1",
+    "scope": "shell"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #2",
+    "scope": "python"
+  },
+  "go hello #3": {
+    "prefix": "go-hello-3",
+    "body": "const fs = require('fs')",
+    "description": "go hello #3",
+    "scope": "python"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #4",
+    "scope": "shell"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #5",
+    "scope": "sql"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #6",
+    "scope": "javascript"
+  },
+  "compose #7": {
+    "prefix": "compose-7",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #7",
+    "scope": "shell"
+  },
+  "python loop #8": {
+    "prefix": "python-loop-8",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #8",
+    "scope": "html"
+  },
+  "compose #9": {
+    "prefix": "compose-9",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #9",
+    "scope": "python"
+  },
+  "grep TODO #10": {
+    "prefix": "grep-todo-10",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #10",
+    "scope": "python"
+  },
+  "tail a file #11": {
+    "prefix": "tail-a-file-11",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #11",
+    "scope": "javascript"
+  }
+}

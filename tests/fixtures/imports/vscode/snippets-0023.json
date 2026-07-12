@@ -1,0 +1,35 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": "echo 'hello world'",
+    "description": "go hello #0",
+    "scope": "rust"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #1",
+    "scope": "sql"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": "const fs = require('fs')",
+    "description": "python loop #2",
+    "scope": "go"
+  },
+  "compose #3": {
+    "prefix": "compose-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #3",
+    "scope": "rust"
+  },
+  "node fs #4": {
+    "prefix": "node-fs-4",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #4",
+    "scope": "html"
+  }
+}

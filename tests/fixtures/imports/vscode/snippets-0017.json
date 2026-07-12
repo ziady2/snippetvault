@@ -1,0 +1,60 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #0",
+    "scope": "rust"
+  },
+  "grep TODO #1": {
+    "prefix": "grep-todo-1",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #1",
+    "scope": "shell"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "grep TODO #2",
+    "scope": "rust"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "const fs = require('fs')",
+    "description": "active users #3",
+    "scope": "yaml"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #4",
+    "scope": "javascript"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #5",
+    "scope": "python"
+  },
+  "rust hello #6": {
+    "prefix": "rust-hello-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #6",
+    "scope": "yaml"
+  }
+}

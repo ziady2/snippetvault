@@ -1,0 +1,84 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "const fs = require('fs')",
+    "description": "node fs #0",
+    "scope": "yaml"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "go hello #1",
+    "scope": "python"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #2",
+    "scope": "javascript"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #3",
+    "scope": "go"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #4",
+    "scope": "sql"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "active users #5",
+    "scope": "shell"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #6",
+    "scope": "javascript"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": "echo 'hello world'",
+    "description": "rust hello #7",
+    "scope": "go"
+  },
+  "html stub #8": {
+    "prefix": "html-stub-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #8",
+    "scope": "javascript"
+  },
+  "python loop #9": {
+    "prefix": "python-loop-9",
+    "body": "for i in range(10): print(i)",
+    "description": "python loop #9",
+    "scope": "python"
+  }
+}

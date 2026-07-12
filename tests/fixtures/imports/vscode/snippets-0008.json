@@ -1,0 +1,53 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "for i in range(10): print(i)",
+    "description": "merge two lists #0",
+    "scope": "shell"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #1",
+    "scope": "yaml"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #2",
+    "scope": "javascript"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #3",
+    "scope": "javascript"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #4",
+    "scope": "javascript"
+  },
+  "grep TODO #5": {
+    "prefix": "grep-todo-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #5",
+    "scope": "python"
+  },
+  "tail a file #6": {
+    "prefix": "tail-a-file-6",
+    "body": "function foo() { return Math.random(); }",
+    "description": "tail a file #6",
+    "scope": "python"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #0",
+    "scope": "python"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #1",
+    "scope": "javascript"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #2",
+    "scope": "javascript"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #3",
+    "scope": "python"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #4",
+    "scope": "javascript"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #5",
+    "scope": "go"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #6",
+    "scope": "yaml"
+  },
+  "go hello #7": {
+    "prefix": "go-hello-7",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "go hello #7",
+    "scope": "sql"
+  }
+}

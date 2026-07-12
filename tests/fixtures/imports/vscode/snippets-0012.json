@@ -1,0 +1,87 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #0",
+    "scope": "html"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #1",
+    "scope": "html"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": "<html><body>x</body></html>",
+    "description": "python loop #2",
+    "scope": "yaml"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #3",
+    "scope": "python"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #4",
+    "scope": "shell"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #5",
+    "scope": "yaml"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #6",
+    "scope": "javascript"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": "const fs = require('fs')",
+    "description": "node fs #7",
+    "scope": "python"
+  },
+  "node fs #8": {
+    "prefix": "node-fs-8",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #8",
+    "scope": "rust"
+  },
+  "grep TODO #9": {
+    "prefix": "grep-todo-9",
+    "body": "const fs = require('fs')",
+    "description": "grep TODO #9",
+    "scope": "shell"
+  },
+  "go hello #10": {
+    "prefix": "go-hello-10",
+    "body": "const fs = require('fs')",
+    "description": "go hello #10",
+    "scope": "html"
+  },
+  "node fs #11": {
+    "prefix": "node-fs-11",
+    "body": "const fs = require('fs')",
+    "description": "node fs #11",
+    "scope": "rust"
+  }
+}

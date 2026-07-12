@@ -1,0 +1,81 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "const fs = require('fs')",
+    "description": "python loop #0",
+    "scope": "sql"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "for i in range(10): print(i)",
+    "description": "compose #1",
+    "scope": "go"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #2",
+    "scope": "javascript"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #3",
+    "scope": "python"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": "const fs = require('fs')",
+    "description": "html stub #4",
+    "scope": "yaml"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #5",
+    "scope": "python"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #6",
+    "scope": "shell"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #7",
+    "scope": "go"
+  },
+  "tail a file #8": {
+    "prefix": "tail-a-file-8",
+    "body": "echo 'hello world'",
+    "description": "tail a file #8",
+    "scope": "javascript"
+  },
+  "rust hello #9": {
+    "prefix": "rust-hello-9",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #9",
+    "scope": "python"
+  },
+  "rust hello #10": {
+    "prefix": "rust-hello-10",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #10",
+    "scope": "sql"
+  }
+}

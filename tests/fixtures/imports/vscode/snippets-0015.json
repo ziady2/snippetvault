@@ -1,0 +1,50 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #0",
+    "scope": "rust"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #1",
+    "scope": "go"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #2",
+    "scope": "javascript"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #3",
+    "scope": "go"
+  },
+  "tail a file #4": {
+    "prefix": "tail-a-file-4",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #4",
+    "scope": "shell"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "go hello #5",
+    "scope": "sql"
+  },
+  "tail a file #6": {
+    "prefix": "tail-a-file-6",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #6",
+    "scope": "html"
+  }
+}
