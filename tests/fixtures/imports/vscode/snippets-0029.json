@@ -1,0 +1,62 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": "echo 'hello world'",
+    "description": "active users #0",
+    "scope": "python"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "tail a file #1",
+    "scope": "rust"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": "echo 'hello world'",
+    "description": "rust hello #2",
+    "scope": "sql"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": "const fs = require('fs')",
+    "description": "python loop #3",
+    "scope": "html"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "for i in range(10): print(i)",
+    "description": "merge two lists #4",
+    "scope": "python"
+  },
+  "grep TODO #5": {
+    "prefix": "grep-todo-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #5",
+    "scope": "yaml"
+  },
+  "grep TODO #6": {
+    "prefix": "grep-todo-6",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #6",
+    "scope": "html"
+  },
+  "compose #7": {
+    "prefix": "compose-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #7",
+    "scope": "yaml"
+  },
+  "html stub #8": {
+    "prefix": "html-stub-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #8",
+    "scope": "shell"
+  }
+}

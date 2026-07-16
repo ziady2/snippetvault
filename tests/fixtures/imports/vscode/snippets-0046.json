@@ -1,0 +1,53 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #0",
+    "scope": "javascript"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": "const fs = require('fs')",
+    "description": "active users #1",
+    "scope": "go"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #2",
+    "scope": "python"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #3",
+    "scope": "rust"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #4",
+    "scope": "javascript"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": "echo 'hello world'",
+    "description": "compose #5",
+    "scope": "yaml"
+  },
+  "tail a file #6": {
+    "prefix": "tail-a-file-6",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #6",
+    "scope": "rust"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": "const fs = require('fs')",
+    "description": "html stub #7",
+    "scope": "yaml"
+  }
+}

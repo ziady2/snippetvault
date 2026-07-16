@@ -1,0 +1,36 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "const fs = require('fs')",
+    "description": "html stub #0",
+    "scope": "yaml"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #1",
+    "scope": "rust"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #2",
+    "scope": "javascript"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "echo 'hello world'",
+    "description": "active users #3",
+    "scope": "python"
+  },
+  "node fs #4": {
+    "prefix": "node-fs-4",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #4",
+    "scope": "javascript"
+  }
+}

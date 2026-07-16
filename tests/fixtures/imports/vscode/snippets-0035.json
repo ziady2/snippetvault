@@ -1,0 +1,51 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "for i in range(10): print(i)",
+    "description": "merge two lists #0",
+    "scope": "shell"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #1",
+    "scope": "sql"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #2",
+    "scope": "shell"
+  },
+  "compose #3": {
+    "prefix": "compose-3",
+    "body": "echo 'hello world'",
+    "description": "compose #3",
+    "scope": "python"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #4",
+    "scope": "go"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "echo 'hello world'",
+    "description": "tail a file #5",
+    "scope": "shell"
+  },
+  "tail a file #6": {
+    "prefix": "tail-a-file-6",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #6",
+    "scope": "javascript"
+  }
+}

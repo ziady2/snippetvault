@@ -1,0 +1,41 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "for i in range(10): print(i)",
+    "description": "merge two lists #0",
+    "scope": "shell"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": "echo 'hello world'",
+    "description": "active users #1",
+    "scope": "go"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #2",
+    "scope": "javascript"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #3",
+    "scope": "rust"
+  },
+  "rust hello #4": {
+    "prefix": "rust-hello-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #4",
+    "scope": "rust"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #5",
+    "scope": "python"
+  }
+}

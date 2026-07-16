@@ -1,0 +1,82 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": "const fs = require('fs')",
+    "description": "go hello #0",
+    "scope": "sql"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #1",
+    "scope": "yaml"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #2",
+    "scope": "rust"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #3",
+    "scope": "shell"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #4",
+    "scope": "go"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #5",
+    "scope": "javascript"
+  },
+  "grep TODO #6": {
+    "prefix": "grep-todo-6",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #6",
+    "scope": "python"
+  },
+  "merge two lists #7": {
+    "prefix": "merge-two-lists-7",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #7",
+    "scope": "javascript"
+  },
+  "rust hello #8": {
+    "prefix": "rust-hello-8",
+    "body": "for i in range(10): print(i)",
+    "description": "rust hello #8",
+    "scope": "go"
+  },
+  "node fs #9": {
+    "prefix": "node-fs-9",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #9",
+    "scope": "javascript"
+  },
+  "tail a file #10": {
+    "prefix": "tail-a-file-10",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #10",
+    "scope": "javascript"
+  }
+}

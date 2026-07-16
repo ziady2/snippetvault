@@ -1,0 +1,57 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #0",
+    "scope": "go"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #1",
+    "scope": "javascript"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": "for i in range(10): print(i)",
+    "description": "compose #2",
+    "scope": "rust"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #3",
+    "scope": "python"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "active users #4",
+    "scope": "shell"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #5",
+    "scope": "python"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #6",
+    "scope": "python"
+  }
+}

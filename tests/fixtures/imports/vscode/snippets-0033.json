@@ -1,0 +1,78 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #0",
+    "scope": "shell"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #1",
+    "scope": "shell"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "active users #2",
+    "scope": "yaml"
+  },
+  "go hello #3": {
+    "prefix": "go-hello-3",
+    "body": "echo 'hello world'",
+    "description": "go hello #3",
+    "scope": "shell"
+  },
+  "tail a file #4": {
+    "prefix": "tail-a-file-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "tail a file #4",
+    "scope": "html"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #5",
+    "scope": "rust"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #6",
+    "scope": "python"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": "const fs = require('fs')",
+    "description": "html stub #7",
+    "scope": "yaml"
+  },
+  "tail a file #8": {
+    "prefix": "tail-a-file-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #8",
+    "scope": "html"
+  },
+  "rust hello #9": {
+    "prefix": "rust-hello-9",
+    "body": "for i in range(10): print(i)",
+    "description": "rust hello #9",
+    "scope": "javascript"
+  },
+  "active users #10": {
+    "prefix": "active-users-10",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #10",
+    "scope": "python"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #0",
+    "scope": "yaml"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #1",
+    "scope": "sql"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #2",
+    "scope": "javascript"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": "<html><body>x</body></html>",
+    "description": "html stub #3",
+    "scope": "javascript"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #4",
+    "scope": "sql"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #5",
+    "scope": "yaml"
+  }
+}

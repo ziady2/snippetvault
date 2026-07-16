@@ -1,0 +1,77 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "node fs #0",
+    "scope": "sql"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #1",
+    "scope": "html"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #2",
+    "scope": "yaml"
+  },
+  "go hello #3": {
+    "prefix": "go-hello-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #3",
+    "scope": "javascript"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #4",
+    "scope": "shell"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #5",
+    "scope": "javascript"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #6",
+    "scope": "javascript"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": "<html><body>x</body></html>",
+    "description": "html stub #7",
+    "scope": "go"
+  },
+  "active users #8": {
+    "prefix": "active-users-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #8",
+    "scope": "javascript"
+  },
+  "tail a file #9": {
+    "prefix": "tail-a-file-9",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #9",
+    "scope": "sql"
+  },
+  "rust hello #10": {
+    "prefix": "rust-hello-10",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #10",
+    "scope": "python"
+  }
+}

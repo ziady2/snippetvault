@@ -1,0 +1,38 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #0",
+    "scope": "sql"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #1",
+    "scope": "python"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #2",
+    "scope": "yaml"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "for i in range(10): print(i)",
+    "description": "merge two lists #3",
+    "scope": "python"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": "for i in range(10): print(i)",
+    "description": "compose #4",
+    "scope": "shell"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #5",
+    "scope": "rust"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "echo 'hello world'",
+    "description": "rust hello #0",
+    "scope": "javascript"
+  },
+  "grep TODO #1": {
+    "prefix": "grep-todo-1",
+    "body": "const fs = require('fs')",
+    "description": "grep TODO #1",
+    "scope": "sql"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #2",
+    "scope": "javascript"
+  },
+  "go hello #3": {
+    "prefix": "go-hello-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #3",
+    "scope": "yaml"
+  },
+  "node fs #4": {
+    "prefix": "node-fs-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "node fs #4",
+    "scope": "javascript"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #5",
+    "scope": "python"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #6",
+    "scope": "html"
+  },
+  "grep TODO #7": {
+    "prefix": "grep-todo-7",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #7",
+    "scope": "yaml"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #0",
+    "scope": "javascript"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #1",
+    "scope": "shell"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #2",
+    "scope": "javascript"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #3",
+    "scope": "rust"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "active users #4",
+    "scope": "javascript"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": "const fs = require('fs')",
+    "description": "compose #5",
+    "scope": "rust"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "html stub #6",
+    "scope": "javascript"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #7",
+    "scope": "yaml"
+  }
+}

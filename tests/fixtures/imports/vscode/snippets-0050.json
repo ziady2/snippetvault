@@ -1,0 +1,54 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #0",
+    "scope": "go"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "go hello #1",
+    "scope": "javascript"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #2",
+    "scope": "shell"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #3",
+    "scope": "rust"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #4",
+    "scope": "shell"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": "<html><body>x</body></html>",
+    "description": "go hello #5",
+    "scope": "html"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #6",
+    "scope": "javascript"
+  }
+}

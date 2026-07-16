@@ -1,0 +1,32 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #0",
+    "scope": "rust"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": "<html><body>x</body></html>",
+    "description": "html stub #1",
+    "scope": "shell"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #2",
+    "scope": "python"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #3",
+    "scope": "rust"
+  }
+}

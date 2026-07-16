@@ -1,0 +1,56 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #0",
+    "scope": "shell"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #1",
+    "scope": "go"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #2",
+    "scope": "python"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #3",
+    "scope": "rust"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "html stub #4",
+    "scope": "rust"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #5",
+    "scope": "shell"
+  }
+}

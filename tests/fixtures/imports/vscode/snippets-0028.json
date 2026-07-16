@@ -1,0 +1,35 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #0",
+    "scope": "sql"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #1",
+    "scope": "sql"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": "const fs = require('fs')",
+    "description": "html stub #2",
+    "scope": "go"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #3",
+    "scope": "python"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": "echo 'hello world'",
+    "description": "go hello #4",
+    "scope": "python"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #0",
+    "scope": "javascript"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #1",
+    "scope": "python"
+  }
+}

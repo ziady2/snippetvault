@@ -1,0 +1,53 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #0",
+    "scope": "go"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #1",
+    "scope": "python"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #2",
+    "scope": "rust"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #3",
+    "scope": "javascript"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #4",
+    "scope": "sql"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #5",
+    "scope": "go"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #6",
+    "scope": "javascript"
+  }
+}

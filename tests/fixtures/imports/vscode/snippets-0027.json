@@ -1,0 +1,83 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #0",
+    "scope": "html"
+  },
+  "grep TODO #1": {
+    "prefix": "grep-todo-1",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #1",
+    "scope": "python"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #2",
+    "scope": "html"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #3",
+    "scope": "go"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #4",
+    "scope": "shell"
+  },
+  "grep TODO #5": {
+    "prefix": "grep-todo-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #5",
+    "scope": "rust"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": "<html><body>x</body></html>",
+    "description": "html stub #6",
+    "scope": "javascript"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #7",
+    "scope": "javascript"
+  },
+  "compose #8": {
+    "prefix": "compose-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #8",
+    "scope": "javascript"
+  },
+  "compose #9": {
+    "prefix": "compose-9",
+    "body": "for i in range(10): print(i)",
+    "description": "compose #9",
+    "scope": "shell"
+  },
+  "rust hello #10": {
+    "prefix": "rust-hello-10",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #10",
+    "scope": "html"
+  }
+}

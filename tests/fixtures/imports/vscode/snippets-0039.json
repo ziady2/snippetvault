@@ -1,0 +1,94 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #0",
+    "scope": "rust"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #1",
+    "scope": "shell"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #2",
+    "scope": "sql"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #3",
+    "scope": "javascript"
+  },
+  "node fs #4": {
+    "prefix": "node-fs-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #4",
+    "scope": "go"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #5",
+    "scope": "javascript"
+  },
+  "go hello #6": {
+    "prefix": "go-hello-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #6",
+    "scope": "rust"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #7",
+    "scope": "sql"
+  },
+  "tail a file #8": {
+    "prefix": "tail-a-file-8",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #8",
+    "scope": "javascript"
+  },
+  "tail a file #9": {
+    "prefix": "tail-a-file-9",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #9",
+    "scope": "rust"
+  },
+  "go hello #10": {
+    "prefix": "go-hello-10",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #10",
+    "scope": "shell"
+  }
+}

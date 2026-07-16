@@ -1,0 +1,26 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #0",
+    "scope": "go"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #1",
+    "scope": "shell"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": "const fs = require('fs')",
+    "description": "python loop #2",
+    "scope": "html"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": "const fs = require('fs')",
+    "description": "python loop #3",
+    "scope": "sql"
+  }
+}

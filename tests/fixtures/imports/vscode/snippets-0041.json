@@ -1,0 +1,36 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": "echo 'hello world'",
+    "description": "active users #0",
+    "scope": "javascript"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "for i in range(10): print(i)",
+    "description": "go hello #1",
+    "scope": "go"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": "const fs = require('fs')",
+    "description": "node fs #2",
+    "scope": "shell"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #3",
+    "scope": "javascript"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #4",
+    "scope": "shell"
+  }
+}

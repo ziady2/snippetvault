@@ -1,0 +1,45 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #0",
+    "scope": "python"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #1",
+    "scope": "javascript"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #2",
+    "scope": "javascript"
+  },
+  "compose #3": {
+    "prefix": "compose-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #3",
+    "scope": "javascript"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": "for i in range(10): print(i)",
+    "description": "go hello #4",
+    "scope": "sql"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": "const fs = require('fs')",
+    "description": "node fs #5",
+    "scope": "html"
+  }
+}
