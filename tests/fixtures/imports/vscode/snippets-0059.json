@@ -1,0 +1,80 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "grep TODO #0",
+    "scope": "yaml"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #1",
+    "scope": "python"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #2",
+    "scope": "javascript"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #3",
+    "scope": "python"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #4",
+    "scope": "sql"
+  },
+  "html stub #5": {
+    "prefix": "html-stub-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #5",
+    "scope": "sql"
+  },
+  "compose #6": {
+    "prefix": "compose-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #6",
+    "scope": "sql"
+  },
+  "go hello #7": {
+    "prefix": "go-hello-7",
+    "body": "echo 'hello world'",
+    "description": "go hello #7",
+    "scope": "python"
+  },
+  "go hello #8": {
+    "prefix": "go-hello-8",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #8",
+    "scope": "python"
+  },
+  "node fs #9": {
+    "prefix": "node-fs-9",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #9",
+    "scope": "rust"
+  }
+}

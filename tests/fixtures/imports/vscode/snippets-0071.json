@@ -1,0 +1,32 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #0",
+    "scope": "python"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #1",
+    "scope": "rust"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #2",
+    "scope": "javascript"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #3",
+    "scope": "html"
+  }
+}

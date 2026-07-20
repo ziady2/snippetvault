@@ -1,0 +1,17 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "const fs = require('fs')",
+    "description": "node fs #0",
+    "scope": "html"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #1",
+    "scope": "shell"
+  }
+}

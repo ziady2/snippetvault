@@ -1,0 +1,41 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #0",
+    "scope": "yaml"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #1",
+    "scope": "rust"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "const fs = require('fs')",
+    "description": "grep TODO #2",
+    "scope": "javascript"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #3",
+    "scope": "shell"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #4",
+    "scope": "rust"
+  }
+}

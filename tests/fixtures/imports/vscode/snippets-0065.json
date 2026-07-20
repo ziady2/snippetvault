@@ -1,0 +1,51 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #0",
+    "scope": "javascript"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "echo 'hello world'",
+    "description": "go hello #1",
+    "scope": "yaml"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #2",
+    "scope": "yaml"
+  },
+  "compose #3": {
+    "prefix": "compose-3",
+    "body": "const fs = require('fs')",
+    "description": "compose #3",
+    "scope": "javascript"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #4",
+    "scope": "shell"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #5",
+    "scope": "javascript"
+  }
+}

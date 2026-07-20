@@ -1,0 +1,14 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "const fs = require('fs')",
+    "description": "html stub #0",
+    "scope": "shell"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #1",
+    "scope": "go"
+  }
+}

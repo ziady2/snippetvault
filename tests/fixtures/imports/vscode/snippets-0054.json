@@ -1,0 +1,85 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "grep TODO #0",
+    "scope": "yaml"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "echo 'hello world'",
+    "description": "go hello #1",
+    "scope": "yaml"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #2",
+    "scope": "shell"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #3",
+    "scope": "python"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #4",
+    "scope": "shell"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #5",
+    "scope": "rust"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #6",
+    "scope": "go"
+  },
+  "grep TODO #7": {
+    "prefix": "grep-todo-7",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #7",
+    "scope": "yaml"
+  },
+  "python loop #8": {
+    "prefix": "python-loop-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #8",
+    "scope": "html"
+  },
+  "rust hello #9": {
+    "prefix": "rust-hello-9",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #9",
+    "scope": "go"
+  },
+  "go hello #10": {
+    "prefix": "go-hello-10",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #10",
+    "scope": "sql"
+  }
+}

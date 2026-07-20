@@ -1,0 +1,95 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #0",
+    "scope": "sql"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #1",
+    "scope": "python"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #2",
+    "scope": "go"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": "const fs = require('fs')",
+    "description": "grep TODO #3",
+    "scope": "yaml"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #4",
+    "scope": "javascript"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #5",
+    "scope": "python"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #6",
+    "scope": "python"
+  },
+  "merge two lists #7": {
+    "prefix": "merge-two-lists-7",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #7",
+    "scope": "sql"
+  },
+  "compose #8": {
+    "prefix": "compose-8",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #8",
+    "scope": "yaml"
+  },
+  "go hello #9": {
+    "prefix": "go-hello-9",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #9",
+    "scope": "html"
+  },
+  "go hello #10": {
+    "prefix": "go-hello-10",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #10",
+    "scope": "sql"
+  },
+  "compose #11": {
+    "prefix": "compose-11",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #11",
+    "scope": "go"
+  }
+}

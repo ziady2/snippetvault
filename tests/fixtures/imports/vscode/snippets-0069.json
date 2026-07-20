@@ -1,0 +1,35 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "<html><body>x</body></html>",
+    "description": "html stub #0",
+    "scope": "javascript"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "<html><body>x</body></html>",
+    "description": "python loop #1",
+    "scope": "sql"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": "echo 'hello world'",
+    "description": "rust hello #2",
+    "scope": "rust"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #3",
+    "scope": "shell"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #4",
+    "scope": "yaml"
+  }
+}

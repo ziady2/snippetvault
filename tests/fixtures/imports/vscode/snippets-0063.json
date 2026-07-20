@@ -1,0 +1,29 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #0",
+    "scope": "shell"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #1",
+    "scope": "sql"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #2",
+    "scope": "shell"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #3",
+    "scope": "sql"
+  }
+}

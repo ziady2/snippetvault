@@ -1,0 +1,14 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #0",
+    "scope": "python"
+  },
+  "grep TODO #1": {
+    "prefix": "grep-todo-1",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #1",
+    "scope": "javascript"
+  }
+}

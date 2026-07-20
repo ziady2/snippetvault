@@ -1,0 +1,83 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #0",
+    "scope": "html"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #1",
+    "scope": "javascript"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #2",
+    "scope": "sql"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #3",
+    "scope": "yaml"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #4",
+    "scope": "javascript"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #5",
+    "scope": "python"
+  },
+  "compose #6": {
+    "prefix": "compose-6",
+    "body": "const fs = require('fs')",
+    "description": "compose #6",
+    "scope": "html"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #7",
+    "scope": "html"
+  },
+  "active users #8": {
+    "prefix": "active-users-8",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #8",
+    "scope": "python"
+  },
+  "merge two lists #9": {
+    "prefix": "merge-two-lists-9",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #9",
+    "scope": "python"
+  }
+}

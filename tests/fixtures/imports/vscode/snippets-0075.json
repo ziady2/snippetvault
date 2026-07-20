@@ -1,0 +1,29 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #0",
+    "scope": "rust"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #1",
+    "scope": "shell"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #2",
+    "scope": "javascript"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #3",
+    "scope": "python"
+  }
+}

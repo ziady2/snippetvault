@@ -1,0 +1,63 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #0",
+    "scope": "sql"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #1",
+    "scope": "sql"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #2",
+    "scope": "python"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #3",
+    "scope": "python"
+  },
+  "node fs #4": {
+    "prefix": "node-fs-4",
+    "body": "echo 'hello world'",
+    "description": "node fs #4",
+    "scope": "javascript"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #5",
+    "scope": "go"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #6",
+    "scope": "yaml"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "rust hello #7",
+    "scope": "javascript"
+  }
+}

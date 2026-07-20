@@ -1,0 +1,68 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #0",
+    "scope": "sql"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #1",
+    "scope": "go"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "html stub #2",
+    "scope": "go"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "node fs #3",
+    "scope": "javascript"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #4",
+    "scope": "yaml"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #5",
+    "scope": "yaml"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #6",
+    "scope": "sql"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #7",
+    "scope": "javascript"
+  }
+}

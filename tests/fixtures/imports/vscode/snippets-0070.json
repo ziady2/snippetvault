@@ -1,0 +1,85 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #0",
+    "scope": "yaml"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #1",
+    "scope": "sql"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #2",
+    "scope": "html"
+  },
+  "go hello #3": {
+    "prefix": "go-hello-3",
+    "body": "const fs = require('fs')",
+    "description": "go hello #3",
+    "scope": "python"
+  },
+  "tail a file #4": {
+    "prefix": "tail-a-file-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "tail a file #4",
+    "scope": "javascript"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #5",
+    "scope": "shell"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "html stub #6",
+    "scope": "javascript"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": "function foo() { return Math.random(); }",
+    "description": "node fs #7",
+    "scope": "yaml"
+  },
+  "grep TODO #8": {
+    "prefix": "grep-todo-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "grep TODO #8",
+    "scope": "yaml"
+  },
+  "grep TODO #9": {
+    "prefix": "grep-todo-9",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #9",
+    "scope": "javascript"
+  },
+  "merge two lists #10": {
+    "prefix": "merge-two-lists-10",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #10",
+    "scope": "go"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "grep TODO #0",
+    "scope": "go"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #1",
+    "scope": "python"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #2",
+    "scope": "javascript"
+  }
+}

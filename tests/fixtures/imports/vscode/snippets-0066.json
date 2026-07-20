@@ -1,0 +1,69 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "for i in range(10): print(i)",
+    "description": "rust hello #0",
+    "scope": "rust"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "for i in range(10): print(i)",
+    "description": "python loop #1",
+    "scope": "javascript"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #2",
+    "scope": "go"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #3",
+    "scope": "javascript"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #4",
+    "scope": "shell"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #5",
+    "scope": "html"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #6",
+    "scope": "yaml"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #7",
+    "scope": "python"
+  },
+  "rust hello #8": {
+    "prefix": "rust-hello-8",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #8",
+    "scope": "javascript"
+  }
+}

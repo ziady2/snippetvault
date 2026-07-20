@@ -1,0 +1,78 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #0",
+    "scope": "shell"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #1",
+    "scope": "rust"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #2",
+    "scope": "html"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #3",
+    "scope": "python"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #4",
+    "scope": "html"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #5",
+    "scope": "python"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #6",
+    "scope": "python"
+  },
+  "tail a file #7": {
+    "prefix": "tail-a-file-7",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #7",
+    "scope": "rust"
+  },
+  "merge two lists #8": {
+    "prefix": "merge-two-lists-8",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #8",
+    "scope": "yaml"
+  },
+  "go hello #9": {
+    "prefix": "go-hello-9",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #9",
+    "scope": "python"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #0",
+    "scope": "html"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "echo 'hello world'",
+    "description": "compose #1",
+    "scope": "rust"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #2",
+    "scope": "html"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #3",
+    "scope": "python"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "grep TODO #4",
+    "scope": "go"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #5",
+    "scope": "javascript"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #6",
+    "scope": "html"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #7",
+    "scope": "shell"
+  }
+}

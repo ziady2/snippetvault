@@ -1,0 +1,51 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #0",
+    "scope": "go"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #1",
+    "scope": "javascript"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #2",
+    "scope": "javascript"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "tail a file #3",
+    "scope": "rust"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #4",
+    "scope": "javascript"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #5",
+    "scope": "shell"
+  },
+  "rust hello #6": {
+    "prefix": "rust-hello-6",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #6",
+    "scope": "python"
+  }
+}
