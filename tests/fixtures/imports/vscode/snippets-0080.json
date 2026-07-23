@@ -1,0 +1,23 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #0",
+    "scope": "rust"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "echo 'hello world'",
+    "description": "go hello #1",
+    "scope": "go"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #2",
+    "scope": "html"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #0",
+    "scope": "shell"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": "echo 'hello world'",
+    "description": "tail a file #1",
+    "scope": "javascript"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "node fs #2",
+    "scope": "rust"
+  }
+}

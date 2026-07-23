@@ -1,0 +1,45 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #0",
+    "scope": "rust"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "tail a file #1",
+    "scope": "shell"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #2",
+    "scope": "shell"
+  },
+  "go hello #3": {
+    "prefix": "go-hello-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "go hello #3",
+    "scope": "python"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #4",
+    "scope": "sql"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #5",
+    "scope": "rust"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": "echo 'hello world'",
+    "description": "tail a file #0",
+    "scope": "html"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #1",
+    "scope": "go"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #2",
+    "scope": "sql"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #3",
+    "scope": "shell"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #4",
+    "scope": "html"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #5",
+    "scope": "yaml"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #6",
+    "scope": "shell"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #7",
+    "scope": "python"
+  },
+  "python loop #8": {
+    "prefix": "python-loop-8",
+    "body": "for i in range(10): print(i)",
+    "description": "python loop #8",
+    "scope": "python"
+  },
+  "active users #9": {
+    "prefix": "active-users-9",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #9",
+    "scope": "shell"
+  },
+  "html stub #10": {
+    "prefix": "html-stub-10",
+    "body": "<html><body>x</body></html>",
+    "description": "html stub #10",
+    "scope": "yaml"
+  },
+  "go hello #11": {
+    "prefix": "go-hello-11",
+    "body": "<html><body>x</body></html>",
+    "description": "go hello #11",
+    "scope": "javascript"
+  }
+}

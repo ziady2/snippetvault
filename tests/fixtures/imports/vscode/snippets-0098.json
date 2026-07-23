@@ -1,0 +1,94 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #0",
+    "scope": "yaml"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #1",
+    "scope": "python"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #2",
+    "scope": "python"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #3",
+    "scope": "shell"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #4",
+    "scope": "sql"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "node fs #5",
+    "scope": "javascript"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #6",
+    "scope": "javascript"
+  },
+  "tail a file #7": {
+    "prefix": "tail-a-file-7",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #7",
+    "scope": "rust"
+  },
+  "go hello #8": {
+    "prefix": "go-hello-8",
+    "body": "const fs = require('fs')",
+    "description": "go hello #8",
+    "scope": "yaml"
+  },
+  "rust hello #9": {
+    "prefix": "rust-hello-9",
+    "body": "for i in range(10): print(i)",
+    "description": "rust hello #9",
+    "scope": "sql"
+  },
+  "compose #10": {
+    "prefix": "compose-10",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #10",
+    "scope": "go"
+  },
+  "rust hello #11": {
+    "prefix": "rust-hello-11",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #11",
+    "scope": "python"
+  }
+}

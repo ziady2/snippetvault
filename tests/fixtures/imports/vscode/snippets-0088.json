@@ -1,0 +1,81 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #0",
+    "scope": "shell"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #1",
+    "scope": "javascript"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "const fs = require('fs')",
+    "description": "grep TODO #2",
+    "scope": "yaml"
+  },
+  "compose #3": {
+    "prefix": "compose-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #3",
+    "scope": "sql"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #4",
+    "scope": "shell"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "active users #5",
+    "scope": "shell"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #6",
+    "scope": "javascript"
+  },
+  "active users #7": {
+    "prefix": "active-users-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #7",
+    "scope": "javascript"
+  },
+  "active users #8": {
+    "prefix": "active-users-8",
+    "body": "echo 'hello world'",
+    "description": "active users #8",
+    "scope": "rust"
+  },
+  "tail a file #9": {
+    "prefix": "tail-a-file-9",
+    "body": "function foo() { return Math.random(); }",
+    "description": "tail a file #9",
+    "scope": "python"
+  },
+  "merge two lists #10": {
+    "prefix": "merge-two-lists-10",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #10",
+    "scope": "python"
+  }
+}

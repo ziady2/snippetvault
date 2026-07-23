@@ -1,0 +1,32 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #0",
+    "scope": "python"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #1",
+    "scope": "javascript"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #2",
+    "scope": "rust"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #3",
+    "scope": "go"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #4",
+    "scope": "sql"
+  }
+}

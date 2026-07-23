@@ -1,0 +1,14 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #0",
+    "scope": "html"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": "echo 'hello world'",
+    "description": "html stub #1",
+    "scope": "sql"
+  }
+}

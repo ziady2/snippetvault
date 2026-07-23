@@ -1,0 +1,94 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #0",
+    "scope": "rust"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #1",
+    "scope": "html"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": "const fs = require('fs')",
+    "description": "node fs #2",
+    "scope": "javascript"
+  },
+  "go hello #3": {
+    "prefix": "go-hello-3",
+    "body": "for i in range(10): print(i)",
+    "description": "go hello #3",
+    "scope": "javascript"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #4",
+    "scope": "javascript"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "active users #5",
+    "scope": "html"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #6",
+    "scope": "javascript"
+  },
+  "active users #7": {
+    "prefix": "active-users-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #7",
+    "scope": "javascript"
+  },
+  "compose #8": {
+    "prefix": "compose-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #8",
+    "scope": "shell"
+  },
+  "tail a file #9": {
+    "prefix": "tail-a-file-9",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #9",
+    "scope": "python"
+  },
+  "compose #10": {
+    "prefix": "compose-10",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #10",
+    "scope": "go"
+  },
+  "python loop #11": {
+    "prefix": "python-loop-11",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #11",
+    "scope": "go"
+  }
+}

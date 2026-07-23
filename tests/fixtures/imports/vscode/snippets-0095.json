@@ -1,0 +1,86 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #0",
+    "scope": "python"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #1",
+    "scope": "go"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #2",
+    "scope": "rust"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "grep TODO #3",
+    "scope": "javascript"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #4",
+    "scope": "javascript"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #5",
+    "scope": "rust"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": "const fs = require('fs')",
+    "description": "node fs #6",
+    "scope": "javascript"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #7",
+    "scope": "rust"
+  },
+  "compose #8": {
+    "prefix": "compose-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #8",
+    "scope": "javascript"
+  },
+  "compose #9": {
+    "prefix": "compose-9",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #9",
+    "scope": "javascript"
+  },
+  "python loop #10": {
+    "prefix": "python-loop-10",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #10",
+    "scope": "javascript"
+  }
+}

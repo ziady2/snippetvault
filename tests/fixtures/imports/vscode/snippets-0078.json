@@ -1,0 +1,92 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #0",
+    "scope": "javascript"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": "const fs = require('fs')",
+    "description": "active users #1",
+    "scope": "rust"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #2",
+    "scope": "javascript"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": "echo 'hello world'",
+    "description": "node fs #3",
+    "scope": "go"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #4",
+    "scope": "go"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "node fs #5",
+    "scope": "go"
+  },
+  "rust hello #6": {
+    "prefix": "rust-hello-6",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #6",
+    "scope": "go"
+  },
+  "tail a file #7": {
+    "prefix": "tail-a-file-7",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #7",
+    "scope": "html"
+  },
+  "grep TODO #8": {
+    "prefix": "grep-todo-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #8",
+    "scope": "rust"
+  },
+  "go hello #9": {
+    "prefix": "go-hello-9",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #9",
+    "scope": "javascript"
+  },
+  "merge two lists #10": {
+    "prefix": "merge-two-lists-10",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #10",
+    "scope": "python"
+  },
+  "compose #11": {
+    "prefix": "compose-11",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #11",
+    "scope": "javascript"
+  }
+}

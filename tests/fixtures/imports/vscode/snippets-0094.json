@@ -1,0 +1,50 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "<html><body>x</body></html>",
+    "description": "html stub #0",
+    "scope": "html"
+  },
+  "grep TODO #1": {
+    "prefix": "grep-todo-1",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #1",
+    "scope": "python"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #2",
+    "scope": "html"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #3",
+    "scope": "shell"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": "<html><body>x</body></html>",
+    "description": "go hello #4",
+    "scope": "yaml"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #5",
+    "scope": "go"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #6",
+    "scope": "javascript"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": "const fs = require('fs')",
+    "description": "python loop #7",
+    "scope": "python"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #0",
+    "scope": "go"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #1",
+    "scope": "javascript"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #2",
+    "scope": "go"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #3",
+    "scope": "javascript"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #4",
+    "scope": "python"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #5",
+    "scope": "go"
+  },
+  "grep TODO #6": {
+    "prefix": "grep-todo-6",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "grep TODO #6",
+    "scope": "go"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #7",
+    "scope": "shell"
+  },
+  "merge two lists #8": {
+    "prefix": "merge-two-lists-8",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #8",
+    "scope": "shell"
+  }
+}

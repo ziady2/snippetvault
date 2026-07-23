@@ -1,0 +1,63 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #0",
+    "scope": "javascript"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #1",
+    "scope": "rust"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #2",
+    "scope": "yaml"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #3",
+    "scope": "javascript"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #4",
+    "scope": "rust"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #5",
+    "scope": "rust"
+  },
+  "rust hello #6": {
+    "prefix": "rust-hello-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #6",
+    "scope": "python"
+  },
+  "merge two lists #7": {
+    "prefix": "merge-two-lists-7",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #7",
+    "scope": "rust"
+  }
+}

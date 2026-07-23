@@ -1,0 +1,27 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #0",
+    "scope": "rust"
+  },
+  "grep TODO #1": {
+    "prefix": "grep-todo-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #1",
+    "scope": "sql"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": "echo 'hello world'",
+    "description": "node fs #2",
+    "scope": "shell"
+  }
+}

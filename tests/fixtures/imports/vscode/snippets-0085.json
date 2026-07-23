@@ -1,0 +1,51 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #0",
+    "scope": "rust"
+  },
+  "grep TODO #1": {
+    "prefix": "grep-todo-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #1",
+    "scope": "python"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #2",
+    "scope": "javascript"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #3",
+    "scope": "go"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #4",
+    "scope": "javascript"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #5",
+    "scope": "javascript"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #6",
+    "scope": "python"
+  }
+}

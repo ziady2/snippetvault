@@ -1,0 +1,97 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "echo 'hello world'",
+    "description": "python loop #0",
+    "scope": "yaml"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #1",
+    "scope": "rust"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #2",
+    "scope": "shell"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": "const fs = require('fs')",
+    "description": "html stub #3",
+    "scope": "javascript"
+  },
+  "rust hello #4": {
+    "prefix": "rust-hello-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #4",
+    "scope": "javascript"
+  },
+  "grep TODO #5": {
+    "prefix": "grep-todo-5",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "grep TODO #5",
+    "scope": "shell"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #6",
+    "scope": "javascript"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": "const fs = require('fs')",
+    "description": "node fs #7",
+    "scope": "html"
+  },
+  "html stub #8": {
+    "prefix": "html-stub-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #8",
+    "scope": "python"
+  },
+  "html stub #9": {
+    "prefix": "html-stub-9",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #9",
+    "scope": "sql"
+  },
+  "merge two lists #10": {
+    "prefix": "merge-two-lists-10",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #10",
+    "scope": "shell"
+  },
+  "merge two lists #11": {
+    "prefix": "merge-two-lists-11",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #11",
+    "scope": "shell"
+  }
+}

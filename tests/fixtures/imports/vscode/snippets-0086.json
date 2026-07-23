@@ -1,0 +1,65 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #0",
+    "scope": "go"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #1",
+    "scope": "shell"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #2",
+    "scope": "python"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #3",
+    "scope": "javascript"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": "echo 'hello world'",
+    "description": "go hello #4",
+    "scope": "python"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": "<html><body>x</body></html>",
+    "description": "python loop #5",
+    "scope": "html"
+  },
+  "rust hello #6": {
+    "prefix": "rust-hello-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #6",
+    "scope": "rust"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #7",
+    "scope": "go"
+  },
+  "tail a file #8": {
+    "prefix": "tail-a-file-8",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "tail a file #8",
+    "scope": "python"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "grep TODO #0",
+    "scope": "shell"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "go hello #1",
+    "scope": "yaml"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #2",
+    "scope": "python"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #3",
+    "scope": "html"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #4",
+    "scope": "javascript"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #5",
+    "scope": "yaml"
+  },
+  "go hello #6": {
+    "prefix": "go-hello-6",
+    "body": "echo 'hello world'",
+    "description": "go hello #6",
+    "scope": "yaml"
+  },
+  "grep TODO #7": {
+    "prefix": "grep-todo-7",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #7",
+    "scope": "shell"
+  },
+  "rust hello #8": {
+    "prefix": "rust-hello-8",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #8",
+    "scope": "javascript"
+  },
+  "rust hello #9": {
+    "prefix": "rust-hello-9",
+    "body": "for i in range(10): print(i)",
+    "description": "rust hello #9",
+    "scope": "javascript"
+  },
+  "go hello #10": {
+    "prefix": "go-hello-10",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "go hello #10",
+    "scope": "javascript"
+  }
+}

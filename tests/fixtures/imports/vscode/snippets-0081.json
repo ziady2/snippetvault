@@ -1,0 +1,71 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "active users #0",
+    "scope": "rust"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "<html><body>x</body></html>",
+    "description": "python loop #1",
+    "scope": "javascript"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #2",
+    "scope": "go"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #3",
+    "scope": "rust"
+  },
+  "rust hello #4": {
+    "prefix": "rust-hello-4",
+    "body": "for i in range(10): print(i)",
+    "description": "rust hello #4",
+    "scope": "rust"
+  },
+  "grep TODO #5": {
+    "prefix": "grep-todo-5",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #5",
+    "scope": "sql"
+  },
+  "compose #6": {
+    "prefix": "compose-6",
+    "body": "const fs = require('fs')",
+    "description": "compose #6",
+    "scope": "python"
+  },
+  "tail a file #7": {
+    "prefix": "tail-a-file-7",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #7",
+    "scope": "html"
+  },
+  "python loop #8": {
+    "prefix": "python-loop-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #8",
+    "scope": "shell"
+  },
+  "merge two lists #9": {
+    "prefix": "merge-two-lists-9",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #9",
+    "scope": "python"
+  }
+}

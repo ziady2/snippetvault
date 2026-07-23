@@ -1,0 +1,67 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #0",
+    "scope": "javascript"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #1",
+    "scope": "rust"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #2",
+    "scope": "python"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "for i in range(10): print(i)",
+    "description": "merge two lists #3",
+    "scope": "shell"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #4",
+    "scope": "sql"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "echo 'hello world'",
+    "description": "tail a file #5",
+    "scope": "python"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": "<html><body>x</body></html>",
+    "description": "html stub #6",
+    "scope": "python"
+  },
+  "tail a file #7": {
+    "prefix": "tail-a-file-7",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #7",
+    "scope": "shell"
+  },
+  "merge two lists #8": {
+    "prefix": "merge-two-lists-8",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #8",
+    "scope": "html"
+  }
+}

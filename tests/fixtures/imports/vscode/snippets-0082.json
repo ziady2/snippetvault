@@ -1,0 +1,64 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "html stub #0",
+    "scope": "shell"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #1",
+    "scope": "python"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #2",
+    "scope": "python"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #3",
+    "scope": "html"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #4",
+    "scope": "shell"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #5",
+    "scope": "javascript"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "node fs #6",
+    "scope": "javascript"
+  },
+  "go hello #7": {
+    "prefix": "go-hello-7",
+    "body": "for i in range(10): print(i)",
+    "description": "go hello #7",
+    "scope": "shell"
+  }
+}
