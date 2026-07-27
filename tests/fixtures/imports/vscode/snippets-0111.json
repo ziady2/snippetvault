@@ -1,0 +1,65 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #0",
+    "scope": "python"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #1",
+    "scope": "python"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #2",
+    "scope": "sql"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": "echo 'hello world'",
+    "description": "node fs #3",
+    "scope": "yaml"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #4",
+    "scope": "shell"
+  },
+  "html stub #5": {
+    "prefix": "html-stub-5",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #5",
+    "scope": "rust"
+  },
+  "go hello #6": {
+    "prefix": "go-hello-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #6",
+    "scope": "rust"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #7",
+    "scope": "python"
+  },
+  "python loop #8": {
+    "prefix": "python-loop-8",
+    "body": "for i in range(10): print(i)",
+    "description": "python loop #8",
+    "scope": "javascript"
+  }
+}

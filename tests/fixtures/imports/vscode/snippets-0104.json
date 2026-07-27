@@ -1,0 +1,41 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": "const fs = require('fs')",
+    "description": "go hello #0",
+    "scope": "python"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #1",
+    "scope": "go"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #2",
+    "scope": "yaml"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #3",
+    "scope": "go"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #4",
+    "scope": "go"
+  }
+}

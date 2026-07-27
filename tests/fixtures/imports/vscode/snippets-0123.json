@@ -1,0 +1,81 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #0",
+    "scope": "javascript"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "const fs = require('fs')",
+    "description": "go hello #1",
+    "scope": "yaml"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #2",
+    "scope": "python"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #3",
+    "scope": "python"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": "echo 'hello world'",
+    "description": "compose #4",
+    "scope": "python"
+  },
+  "html stub #5": {
+    "prefix": "html-stub-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #5",
+    "scope": "javascript"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #6",
+    "scope": "sql"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": "echo 'hello world'",
+    "description": "python loop #7",
+    "scope": "go"
+  },
+  "compose #8": {
+    "prefix": "compose-8",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #8",
+    "scope": "html"
+  },
+  "grep TODO #9": {
+    "prefix": "grep-todo-9",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "grep TODO #9",
+    "scope": "sql"
+  },
+  "go hello #10": {
+    "prefix": "go-hello-10",
+    "body": "echo 'hello world'",
+    "description": "go hello #10",
+    "scope": "sql"
+  }
+}

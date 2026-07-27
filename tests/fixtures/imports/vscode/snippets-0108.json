@@ -1,0 +1,32 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": "const fs = require('fs')",
+    "description": "active users #0",
+    "scope": "sql"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #1",
+    "scope": "python"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #2",
+    "scope": "yaml"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #3",
+    "scope": "javascript"
+  }
+}

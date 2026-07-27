@@ -1,0 +1,96 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #0",
+    "scope": "yaml"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #1",
+    "scope": "shell"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "go hello #2",
+    "scope": "javascript"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #3",
+    "scope": "javascript"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": "echo 'hello world'",
+    "description": "html stub #4",
+    "scope": "javascript"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": "echo 'hello world'",
+    "description": "go hello #5",
+    "scope": "python"
+  },
+  "compose #6": {
+    "prefix": "compose-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #6",
+    "scope": "javascript"
+  },
+  "go hello #7": {
+    "prefix": "go-hello-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #7",
+    "scope": "shell"
+  },
+  "active users #8": {
+    "prefix": "active-users-8",
+    "body": "const fs = require('fs')",
+    "description": "active users #8",
+    "scope": "python"
+  },
+  "rust hello #9": {
+    "prefix": "rust-hello-9",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #9",
+    "scope": "yaml"
+  },
+  "go hello #10": {
+    "prefix": "go-hello-10",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "go hello #10",
+    "scope": "html"
+  },
+  "node fs #11": {
+    "prefix": "node-fs-11",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #11",
+    "scope": "javascript"
+  }
+}

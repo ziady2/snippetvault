@@ -1,0 +1,69 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #0",
+    "scope": "shell"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #1",
+    "scope": "javascript"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #2",
+    "scope": "python"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #3",
+    "scope": "html"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #4",
+    "scope": "shell"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #5",
+    "scope": "javascript"
+  },
+  "html stub #6": {
+    "prefix": "html-stub-6",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #6",
+    "scope": "javascript"
+  },
+  "merge two lists #7": {
+    "prefix": "merge-two-lists-7",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #7",
+    "scope": "yaml"
+  },
+  "html stub #8": {
+    "prefix": "html-stub-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #8",
+    "scope": "yaml"
+  }
+}

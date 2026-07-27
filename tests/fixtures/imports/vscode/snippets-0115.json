@@ -1,0 +1,80 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #0",
+    "scope": "html"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "tail a file #1",
+    "scope": "python"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #2",
+    "scope": "go"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "active users #3",
+    "scope": "javascript"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #4",
+    "scope": "python"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #5",
+    "scope": "python"
+  },
+  "compose #6": {
+    "prefix": "compose-6",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #6",
+    "scope": "shell"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "node fs #7",
+    "scope": "rust"
+  },
+  "active users #8": {
+    "prefix": "active-users-8",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #8",
+    "scope": "python"
+  },
+  "html stub #9": {
+    "prefix": "html-stub-9",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #9",
+    "scope": "yaml"
+  }
+}

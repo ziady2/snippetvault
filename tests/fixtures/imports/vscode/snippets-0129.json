@@ -1,0 +1,77 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "python loop #0",
+    "scope": "javascript"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "const fs = require('fs')",
+    "description": "compose #1",
+    "scope": "rust"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #2",
+    "scope": "yaml"
+  },
+  "compose #3": {
+    "prefix": "compose-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #3",
+    "scope": "javascript"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #4",
+    "scope": "rust"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": "const fs = require('fs')",
+    "description": "compose #5",
+    "scope": "python"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": "<html><body>x</body></html>",
+    "description": "python loop #6",
+    "scope": "python"
+  },
+  "go hello #7": {
+    "prefix": "go-hello-7",
+    "body": "echo 'hello world'",
+    "description": "go hello #7",
+    "scope": "python"
+  },
+  "compose #8": {
+    "prefix": "compose-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #8",
+    "scope": "rust"
+  },
+  "node fs #9": {
+    "prefix": "node-fs-9",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #9",
+    "scope": "shell"
+  },
+  "node fs #10": {
+    "prefix": "node-fs-10",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #10",
+    "scope": "javascript"
+  },
+  "rust hello #11": {
+    "prefix": "rust-hello-11",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #11",
+    "scope": "javascript"
+  }
+}

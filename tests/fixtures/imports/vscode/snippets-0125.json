@@ -1,0 +1,56 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #0",
+    "scope": "javascript"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #1",
+    "scope": "python"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "echo 'hello world'",
+    "description": "tail a file #2",
+    "scope": "rust"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #3",
+    "scope": "sql"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #4",
+    "scope": "python"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #5",
+    "scope": "go"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #6",
+    "scope": "shell"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "node fs #7",
+    "scope": "sql"
+  }
+}

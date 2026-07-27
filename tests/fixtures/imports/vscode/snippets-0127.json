@@ -1,0 +1,57 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #0",
+    "scope": "javascript"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #1",
+    "scope": "html"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": "echo 'hello world'",
+    "description": "node fs #2",
+    "scope": "go"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #3",
+    "scope": "sql"
+  },
+  "node fs #4": {
+    "prefix": "node-fs-4",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #4",
+    "scope": "go"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #5",
+    "scope": "yaml"
+  },
+  "grep TODO #6": {
+    "prefix": "grep-todo-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #6",
+    "scope": "sql"
+  }
+}

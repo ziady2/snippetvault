@@ -1,0 +1,23 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #0",
+    "scope": "rust"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #1",
+    "scope": "python"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": "const fs = require('fs')",
+    "description": "active users #2",
+    "scope": "shell"
+  }
+}

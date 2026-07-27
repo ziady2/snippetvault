@@ -1,0 +1,86 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #0",
+    "scope": "yaml"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "const fs = require('fs')",
+    "description": "python loop #1",
+    "scope": "sql"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #2",
+    "scope": "go"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #3",
+    "scope": "python"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #4",
+    "scope": "python"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #5",
+    "scope": "sql"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #6",
+    "scope": "rust"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": "echo 'hello world'",
+    "description": "python loop #7",
+    "scope": "javascript"
+  },
+  "go hello #8": {
+    "prefix": "go-hello-8",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #8",
+    "scope": "javascript"
+  },
+  "go hello #9": {
+    "prefix": "go-hello-9",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "go hello #9",
+    "scope": "python"
+  },
+  "html stub #10": {
+    "prefix": "html-stub-10",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #10",
+    "scope": "python"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #0",
+    "scope": "sql"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #1",
+    "scope": "python"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "const fs = require('fs')",
+    "description": "grep TODO #2",
+    "scope": "javascript"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #3",
+    "scope": "python"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #4",
+    "scope": "python"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "tail a file #5",
+    "scope": "sql"
+  },
+  "compose #6": {
+    "prefix": "compose-6",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #6",
+    "scope": "shell"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": "const fs = require('fs')",
+    "description": "html stub #7",
+    "scope": "rust"
+  },
+  "rust hello #8": {
+    "prefix": "rust-hello-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #8",
+    "scope": "javascript"
+  },
+  "rust hello #9": {
+    "prefix": "rust-hello-9",
+    "body": "echo 'hello world'",
+    "description": "rust hello #9",
+    "scope": "javascript"
+  },
+  "node fs #10": {
+    "prefix": "node-fs-10",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "node fs #10",
+    "scope": "yaml"
+  },
+  "rust hello #11": {
+    "prefix": "rust-hello-11",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #11",
+    "scope": "go"
+  }
+}

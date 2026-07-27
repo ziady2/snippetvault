@@ -1,0 +1,72 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": "echo 'hello world'",
+    "description": "tail a file #0",
+    "scope": "yaml"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "rust hello #1",
+    "scope": "rust"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #2",
+    "scope": "javascript"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #3",
+    "scope": "yaml"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #4",
+    "scope": "go"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": "const fs = require('fs')",
+    "description": "active users #5",
+    "scope": "yaml"
+  },
+  "rust hello #6": {
+    "prefix": "rust-hello-6",
+    "body": "echo 'hello world'",
+    "description": "rust hello #6",
+    "scope": "javascript"
+  },
+  "active users #7": {
+    "prefix": "active-users-7",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #7",
+    "scope": "html"
+  },
+  "grep TODO #8": {
+    "prefix": "grep-todo-8",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #8",
+    "scope": "shell"
+  },
+  "python loop #9": {
+    "prefix": "python-loop-9",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #9",
+    "scope": "javascript"
+  }
+}

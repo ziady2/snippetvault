@@ -1,0 +1,50 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #0",
+    "scope": "sql"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #1",
+    "scope": "javascript"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #2",
+    "scope": "python"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #3",
+    "scope": "python"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #4",
+    "scope": "javascript"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #5",
+    "scope": "javascript"
+  }
+}

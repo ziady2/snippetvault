@@ -1,0 +1,57 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "html stub #0",
+    "scope": "rust"
+  },
+  "grep TODO #1": {
+    "prefix": "grep-todo-1",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #1",
+    "scope": "rust"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": "echo 'hello world'",
+    "description": "rust hello #2",
+    "scope": "python"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #3",
+    "scope": "shell"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #4",
+    "scope": "javascript"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": "echo 'hello world'",
+    "description": "compose #5",
+    "scope": "rust"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #6",
+    "scope": "go"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": "echo 'hello world'",
+    "description": "rust hello #7",
+    "scope": "shell"
+  }
+}

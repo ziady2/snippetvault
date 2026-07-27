@@ -1,0 +1,44 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #0",
+    "scope": "javascript"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "<html><body>x</body></html>",
+    "description": "go hello #1",
+    "scope": "shell"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #2",
+    "scope": "javascript"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "tail a file #3",
+    "scope": "yaml"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #4",
+    "scope": "html"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #5",
+    "scope": "go"
+  }
+}

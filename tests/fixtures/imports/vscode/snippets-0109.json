@@ -1,0 +1,76 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #0",
+    "scope": "html"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "active users #1",
+    "scope": "python"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #2",
+    "scope": "javascript"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #3",
+    "scope": "shell"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #4",
+    "scope": "shell"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #5",
+    "scope": "python"
+  },
+  "rust hello #6": {
+    "prefix": "rust-hello-6",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #6",
+    "scope": "javascript"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": "<html><body>x</body></html>",
+    "description": "html stub #7",
+    "scope": "go"
+  },
+  "active users #8": {
+    "prefix": "active-users-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #8",
+    "scope": "html"
+  },
+  "rust hello #9": {
+    "prefix": "rust-hello-9",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #9",
+    "scope": "python"
+  }
+}

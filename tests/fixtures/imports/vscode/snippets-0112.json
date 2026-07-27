@@ -1,0 +1,14 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #0",
+    "scope": "rust"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #1",
+    "scope": "sql"
+  }
+}

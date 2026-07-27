@@ -1,0 +1,20 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": "echo 'hello world'",
+    "description": "compose #0",
+    "scope": "shell"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "for i in range(10): print(i)",
+    "description": "merge two lists #1",
+    "scope": "javascript"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #2",
+    "scope": "javascript"
+  }
+}

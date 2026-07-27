@@ -1,0 +1,73 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #0",
+    "scope": "python"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #1",
+    "scope": "python"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": "echo 'hello world'",
+    "description": "go hello #2",
+    "scope": "yaml"
+  },
+  "go hello #3": {
+    "prefix": "go-hello-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #3",
+    "scope": "html"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #4",
+    "scope": "python"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "go hello #5",
+    "scope": "shell"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #6",
+    "scope": "rust"
+  },
+  "tail a file #7": {
+    "prefix": "tail-a-file-7",
+    "body": "echo 'hello world'",
+    "description": "tail a file #7",
+    "scope": "javascript"
+  },
+  "python loop #8": {
+    "prefix": "python-loop-8",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #8",
+    "scope": "go"
+  },
+  "grep TODO #9": {
+    "prefix": "grep-todo-9",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #9",
+    "scope": "shell"
+  }
+}

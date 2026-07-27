@@ -1,0 +1,79 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "<html><body>x</body></html>",
+    "description": "python loop #0",
+    "scope": "yaml"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #1",
+    "scope": "html"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #2",
+    "scope": "shell"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #3",
+    "scope": "javascript"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #4",
+    "scope": "python"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": "echo 'hello world'",
+    "description": "rust hello #5",
+    "scope": "javascript"
+  },
+  "tail a file #6": {
+    "prefix": "tail-a-file-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #6",
+    "scope": "go"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #7",
+    "scope": "sql"
+  },
+  "grep TODO #8": {
+    "prefix": "grep-todo-8",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "grep TODO #8",
+    "scope": "rust"
+  },
+  "compose #9": {
+    "prefix": "compose-9",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #9",
+    "scope": "javascript"
+  }
+}
