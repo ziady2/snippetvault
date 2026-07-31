@@ -1,0 +1,35 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #0",
+    "scope": "rust"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #1",
+    "scope": "rust"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "echo 'hello world'",
+    "description": "tail a file #2",
+    "scope": "python"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #3",
+    "scope": "go"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #4",
+    "scope": "shell"
+  }
+}

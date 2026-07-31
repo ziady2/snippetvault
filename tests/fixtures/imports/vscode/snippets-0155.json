@@ -1,0 +1,67 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #0",
+    "scope": "rust"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #1",
+    "scope": "sql"
+  },
+  "html stub #2": {
+    "prefix": "html-stub-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "html stub #2",
+    "scope": "python"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "node fs #3",
+    "scope": "python"
+  },
+  "node fs #4": {
+    "prefix": "node-fs-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "node fs #4",
+    "scope": "javascript"
+  },
+  "grep TODO #5": {
+    "prefix": "grep-todo-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #5",
+    "scope": "shell"
+  },
+  "grep TODO #6": {
+    "prefix": "grep-todo-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #6",
+    "scope": "python"
+  },
+  "merge two lists #7": {
+    "prefix": "merge-two-lists-7",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #7",
+    "scope": "go"
+  },
+  "grep TODO #8": {
+    "prefix": "grep-todo-8",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #8",
+    "scope": "yaml"
+  }
+}

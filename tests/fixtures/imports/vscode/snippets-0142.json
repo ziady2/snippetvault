@@ -1,0 +1,76 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #0",
+    "scope": "python"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #1",
+    "scope": "yaml"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #2",
+    "scope": "javascript"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "html stub #3",
+    "scope": "shell"
+  },
+  "merge two lists #4": {
+    "prefix": "merge-two-lists-4",
+    "body": "for i in range(10): print(i)",
+    "description": "merge two lists #4",
+    "scope": "python"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #5",
+    "scope": "python"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #6",
+    "scope": "sql"
+  },
+  "node fs #7": {
+    "prefix": "node-fs-7",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "node fs #7",
+    "scope": "sql"
+  },
+  "html stub #8": {
+    "prefix": "html-stub-8",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #8",
+    "scope": "rust"
+  }
+}

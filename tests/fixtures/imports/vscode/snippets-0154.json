@@ -1,0 +1,14 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #0",
+    "scope": "html"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "rust hello #1",
+    "scope": "python"
+  }
+}

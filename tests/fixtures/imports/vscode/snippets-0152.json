@@ -1,0 +1,52 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #0",
+    "scope": "go"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #1",
+    "scope": "python"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #2",
+    "scope": "yaml"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #3",
+    "scope": "javascript"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #4",
+    "scope": "javascript"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #5",
+    "scope": "go"
+  }
+}

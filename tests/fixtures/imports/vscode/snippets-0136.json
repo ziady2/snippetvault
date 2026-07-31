@@ -1,0 +1,48 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #0",
+    "scope": "javascript"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #1",
+    "scope": "go"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #2",
+    "scope": "shell"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #3",
+    "scope": "rust"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #4",
+    "scope": "shell"
+  },
+  "grep TODO #5": {
+    "prefix": "grep-todo-5",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #5",
+    "scope": "sql"
+  }
+}

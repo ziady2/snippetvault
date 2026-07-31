@@ -1,0 +1,32 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #0",
+    "scope": "shell"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": "echo 'hello world'",
+    "description": "active users #1",
+    "scope": "html"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "tail a file #2",
+    "scope": "html"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #3",
+    "scope": "yaml"
+  }
+}

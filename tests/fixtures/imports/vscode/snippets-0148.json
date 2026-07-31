@@ -1,0 +1,21 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #0",
+    "scope": "go"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #1",
+    "scope": "javascript"
+  }
+}

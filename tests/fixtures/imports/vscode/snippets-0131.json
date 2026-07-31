@@ -1,0 +1,45 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #0",
+    "scope": "shell"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #1",
+    "scope": "yaml"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #2",
+    "scope": "python"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #3",
+    "scope": "javascript"
+  },
+  "tail a file #4": {
+    "prefix": "tail-a-file-4",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #4",
+    "scope": "javascript"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "tail a file #5",
+    "scope": "html"
+  }
+}

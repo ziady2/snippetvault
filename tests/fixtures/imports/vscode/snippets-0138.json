@@ -1,0 +1,70 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": "echo 'hello world'",
+    "description": "tail a file #0",
+    "scope": "python"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #1",
+    "scope": "html"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #2",
+    "scope": "sql"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": "echo 'hello world'",
+    "description": "rust hello #3",
+    "scope": "javascript"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "compose #4",
+    "scope": "javascript"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": "echo 'hello world'",
+    "description": "rust hello #5",
+    "scope": "yaml"
+  },
+  "tail a file #6": {
+    "prefix": "tail-a-file-6",
+    "body": "echo 'hello world'",
+    "description": "tail a file #6",
+    "scope": "html"
+  },
+  "grep TODO #7": {
+    "prefix": "grep-todo-7",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #7",
+    "scope": "rust"
+  },
+  "rust hello #8": {
+    "prefix": "rust-hello-8",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #8",
+    "scope": "python"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #0",
+    "scope": "rust"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #1",
+    "scope": "rust"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #2",
+    "scope": "javascript"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #3",
+    "scope": "html"
+  },
+  "html stub #4": {
+    "prefix": "html-stub-4",
+    "body": "echo 'hello world'",
+    "description": "html stub #4",
+    "scope": "go"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #5",
+    "scope": "python"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": "echo 'hello world'",
+    "description": "python loop #6",
+    "scope": "python"
+  },
+  "active users #7": {
+    "prefix": "active-users-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #7",
+    "scope": "rust"
+  },
+  "tail a file #8": {
+    "prefix": "tail-a-file-8",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #8",
+    "scope": "python"
+  },
+  "tail a file #9": {
+    "prefix": "tail-a-file-9",
+    "body": "for i in range(10): print(i)",
+    "description": "tail a file #9",
+    "scope": "python"
+  },
+  "grep TODO #10": {
+    "prefix": "grep-todo-10",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #10",
+    "scope": "go"
+  },
+  "python loop #11": {
+    "prefix": "python-loop-11",
+    "body": "function foo() { return Math.random(); }",
+    "description": "python loop #11",
+    "scope": "python"
+  }
+}

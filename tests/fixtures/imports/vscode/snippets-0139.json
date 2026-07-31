@@ -1,0 +1,89 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "echo 'hello world'",
+    "description": "rust hello #0",
+    "scope": "javascript"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "merge two lists #1",
+    "scope": "shell"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #2",
+    "scope": "shell"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #3",
+    "scope": "shell"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "active users #4",
+    "scope": "python"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": "const fs = require('fs')",
+    "description": "go hello #5",
+    "scope": "sql"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #6",
+    "scope": "sql"
+  },
+  "merge two lists #7": {
+    "prefix": "merge-two-lists-7",
+    "body": "for i in range(10): print(i)",
+    "description": "merge two lists #7",
+    "scope": "python"
+  },
+  "node fs #8": {
+    "prefix": "node-fs-8",
+    "body": "echo 'hello world'",
+    "description": "node fs #8",
+    "scope": "python"
+  },
+  "compose #9": {
+    "prefix": "compose-9",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #9",
+    "scope": "rust"
+  },
+  "tail a file #10": {
+    "prefix": "tail-a-file-10",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #10",
+    "scope": "rust"
+  },
+  "rust hello #11": {
+    "prefix": "rust-hello-11",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #11",
+    "scope": "rust"
+  }
+}

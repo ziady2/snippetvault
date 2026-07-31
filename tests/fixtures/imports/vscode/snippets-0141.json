@@ -1,0 +1,92 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "tail a file #0",
+    "scope": "javascript"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #1",
+    "scope": "python"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "grep TODO #2",
+    "scope": "yaml"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #3",
+    "scope": "go"
+  },
+  "rust hello #4": {
+    "prefix": "rust-hello-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #4",
+    "scope": "javascript"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": "echo 'hello world'",
+    "description": "node fs #5",
+    "scope": "javascript"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #6",
+    "scope": "python"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #7",
+    "scope": "javascript"
+  },
+  "merge two lists #8": {
+    "prefix": "merge-two-lists-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #8",
+    "scope": "sql"
+  },
+  "node fs #9": {
+    "prefix": "node-fs-9",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #9",
+    "scope": "sql"
+  },
+  "html stub #10": {
+    "prefix": "html-stub-10",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #10",
+    "scope": "html"
+  },
+  "active users #11": {
+    "prefix": "active-users-11",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #11",
+    "scope": "javascript"
+  }
+}

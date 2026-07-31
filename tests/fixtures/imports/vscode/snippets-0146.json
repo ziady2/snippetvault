@@ -1,0 +1,93 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "echo 'hello world'",
+    "description": "html stub #0",
+    "scope": "go"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "active users #1",
+    "scope": "rust"
+  },
+  "merge two lists #2": {
+    "prefix": "merge-two-lists-2",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #2",
+    "scope": "python"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": "const fs = require('fs')",
+    "description": "merge two lists #3",
+    "scope": "shell"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #4",
+    "scope": "shell"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "tail a file #5",
+    "scope": "python"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #6",
+    "scope": "python"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #7",
+    "scope": "go"
+  },
+  "node fs #8": {
+    "prefix": "node-fs-8",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "node fs #8",
+    "scope": "shell"
+  },
+  "go hello #9": {
+    "prefix": "go-hello-9",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #9",
+    "scope": "javascript"
+  },
+  "html stub #10": {
+    "prefix": "html-stub-10",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #10",
+    "scope": "javascript"
+  },
+  "rust hello #11": {
+    "prefix": "rust-hello-11",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #11",
+    "scope": "go"
+  }
+}

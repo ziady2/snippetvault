@@ -1,0 +1,48 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #0",
+    "scope": "go"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #1",
+    "scope": "shell"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "go hello #2",
+    "scope": "python"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "node fs #3",
+    "scope": "html"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #4",
+    "scope": "go"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #5",
+    "scope": "go"
+  }
+}

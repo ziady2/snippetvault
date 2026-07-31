@@ -1,0 +1,85 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #0",
+    "scope": "html"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "<html><body>x</body></html>",
+    "description": "compose #1",
+    "scope": "sql"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #2",
+    "scope": "shell"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #3",
+    "scope": "sql"
+  },
+  "tail a file #4": {
+    "prefix": "tail-a-file-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #4",
+    "scope": "rust"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #5",
+    "scope": "shell"
+  },
+  "merge two lists #6": {
+    "prefix": "merge-two-lists-6",
+    "body": "<html><body>x</body></html>",
+    "description": "merge two lists #6",
+    "scope": "javascript"
+  },
+  "go hello #7": {
+    "prefix": "go-hello-7",
+    "body": "const fs = require('fs')",
+    "description": "go hello #7",
+    "scope": "yaml"
+  },
+  "tail a file #8": {
+    "prefix": "tail-a-file-8",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #8",
+    "scope": "python"
+  },
+  "go hello #9": {
+    "prefix": "go-hello-9",
+    "body": "<html><body>x</body></html>",
+    "description": "go hello #9",
+    "scope": "yaml"
+  },
+  "rust hello #10": {
+    "prefix": "rust-hello-10",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #10",
+    "scope": "shell"
+  }
+}

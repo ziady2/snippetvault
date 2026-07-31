@@ -1,0 +1,17 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #0",
+    "scope": "python"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #1",
+    "scope": "javascript"
+  }
+}

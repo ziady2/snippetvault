@@ -1,0 +1,56 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": "echo 'hello world'",
+    "description": "html stub #0",
+    "scope": "go"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #1",
+    "scope": "javascript"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": "echo 'hello world'",
+    "description": "python loop #2",
+    "scope": "javascript"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "rust hello #3",
+    "scope": "python"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #4",
+    "scope": "javascript"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "node fs #5",
+    "scope": "shell"
+  },
+  "go hello #6": {
+    "prefix": "go-hello-6",
+    "body": "const fs = require('fs')",
+    "description": "go hello #6",
+    "scope": "javascript"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #7",
+    "scope": "javascript"
+  }
+}

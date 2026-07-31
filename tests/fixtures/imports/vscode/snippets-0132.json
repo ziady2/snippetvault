@@ -1,0 +1,27 @@
+{
+  "node fs #0": {
+    "prefix": "node-fs-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #0",
+    "scope": "python"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #1",
+    "scope": "python"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "tail a file #2",
+    "scope": "html"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #0",
+    "scope": "rust"
+  },
+  "grep TODO #1": {
+    "prefix": "grep-todo-1",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #1",
+    "scope": "go"
+  },
+  "go hello #2": {
+    "prefix": "go-hello-2",
+    "body": "const fs = require('fs')",
+    "description": "go hello #2",
+    "scope": "rust"
+  },
+  "rust hello #3": {
+    "prefix": "rust-hello-3",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #3",
+    "scope": "javascript"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #4",
+    "scope": "python"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": "<html><body>x</body></html>",
+    "description": "go hello #5",
+    "scope": "javascript"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "node fs #6",
+    "scope": "yaml"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #0",
+    "scope": "html"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #1",
+    "scope": "yaml"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #2",
+    "scope": "html"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #3",
+    "scope": "rust"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #4",
+    "scope": "shell"
+  },
+  "python loop #5": {
+    "prefix": "python-loop-5",
+    "body": "echo 'hello world'",
+    "description": "python loop #5",
+    "scope": "sql"
+  }
+}

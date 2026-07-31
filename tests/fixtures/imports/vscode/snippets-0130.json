@@ -1,0 +1,55 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": "const fs = require('fs')",
+    "description": "grep TODO #0",
+    "scope": "python"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #1",
+    "scope": "javascript"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "<html><body>x</body></html>",
+    "description": "tail a file #2",
+    "scope": "javascript"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #3",
+    "scope": "html"
+  },
+  "compose #4": {
+    "prefix": "compose-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #4",
+    "scope": "sql"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #5",
+    "scope": "shell"
+  },
+  "node fs #6": {
+    "prefix": "node-fs-6",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "node fs #6",
+    "scope": "javascript"
+  }
+}

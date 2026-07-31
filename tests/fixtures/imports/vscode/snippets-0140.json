@@ -1,0 +1,96 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #0",
+    "scope": "javascript"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "const fs = require('fs')",
+    "description": "python loop #1",
+    "scope": "shell"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #2",
+    "scope": "html"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #3",
+    "scope": "shell"
+  },
+  "grep TODO #4": {
+    "prefix": "grep-todo-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "grep TODO #4",
+    "scope": "html"
+  },
+  "html stub #5": {
+    "prefix": "html-stub-5",
+    "body": "echo 'hello world'",
+    "description": "html stub #5",
+    "scope": "python"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #6",
+    "scope": "sql"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #7",
+    "scope": "python"
+  },
+  "html stub #8": {
+    "prefix": "html-stub-8",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "html stub #8",
+    "scope": "javascript"
+  },
+  "compose #9": {
+    "prefix": "compose-9",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #9",
+    "scope": "html"
+  },
+  "html stub #10": {
+    "prefix": "html-stub-10",
+    "body": "for i in range(10): print(i)",
+    "description": "html stub #10",
+    "scope": "go"
+  },
+  "node fs #11": {
+    "prefix": "node-fs-11",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #11",
+    "scope": "html"
+  }
+}
