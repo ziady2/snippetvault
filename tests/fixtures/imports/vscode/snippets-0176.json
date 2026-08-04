@@ -1,0 +1,90 @@
+{
+  "go hello #0": {
+    "prefix": "go-hello-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #0",
+    "scope": "html"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "for i in range(10): print(i)",
+    "description": "python loop #1",
+    "scope": "javascript"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #2",
+    "scope": "html"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #3",
+    "scope": "python"
+  },
+  "tail a file #4": {
+    "prefix": "tail-a-file-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "tail a file #4",
+    "scope": "python"
+  },
+  "go hello #5": {
+    "prefix": "go-hello-5",
+    "body": "const fs = require('fs')",
+    "description": "go hello #5",
+    "scope": "javascript"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": "const fs = require('fs')",
+    "description": "active users #6",
+    "scope": "javascript"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "rust hello #7",
+    "scope": "yaml"
+  },
+  "grep TODO #8": {
+    "prefix": "grep-todo-8",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #8",
+    "scope": "python"
+  },
+  "node fs #9": {
+    "prefix": "node-fs-9",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "node fs #9",
+    "scope": "python"
+  },
+  "go hello #10": {
+    "prefix": "go-hello-10",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #10",
+    "scope": "sql"
+  },
+  "grep TODO #11": {
+    "prefix": "grep-todo-11",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #11",
+    "scope": "shell"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #0",
+    "scope": "rust"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "echo 'hello world'",
+    "description": "python loop #1",
+    "scope": "go"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "python loop #2",
+    "scope": "sql"
+  }
+}

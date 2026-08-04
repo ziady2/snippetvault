@@ -1,0 +1,69 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #0",
+    "scope": "sql"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #1",
+    "scope": "sql"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "echo 'hello world'",
+    "description": "tail a file #2",
+    "scope": "shell"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #3",
+    "scope": "yaml"
+  },
+  "node fs #4": {
+    "prefix": "node-fs-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #4",
+    "scope": "sql"
+  },
+  "rust hello #5": {
+    "prefix": "rust-hello-5",
+    "body": "echo 'hello world'",
+    "description": "rust hello #5",
+    "scope": "yaml"
+  },
+  "go hello #6": {
+    "prefix": "go-hello-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "go hello #6",
+    "scope": "python"
+  },
+  "python loop #7": {
+    "prefix": "python-loop-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "python loop #7",
+    "scope": "python"
+  },
+  "python loop #8": {
+    "prefix": "python-loop-8",
+    "body": "echo 'hello world'",
+    "description": "python loop #8",
+    "scope": "html"
+  }
+}

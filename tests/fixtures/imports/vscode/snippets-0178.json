@@ -1,0 +1,20 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "rust hello #0",
+    "scope": "yaml"
+  },
+  "active users #1": {
+    "prefix": "active-users-1",
+    "body": "echo 'hello world'",
+    "description": "active users #1",
+    "scope": "sql"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": "echo 'hello world'",
+    "description": "compose #2",
+    "scope": "sql"
+  }
+}

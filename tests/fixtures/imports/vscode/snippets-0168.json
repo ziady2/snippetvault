@@ -1,0 +1,33 @@
+{
+  "rust hello #0": {
+    "prefix": "rust-hello-0",
+    "body": "echo 'hello world'",
+    "description": "rust hello #0",
+    "scope": "python"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "const fs = require('fs')",
+    "description": "rust hello #1",
+    "scope": "sql"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #2",
+    "scope": "python"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #3",
+    "scope": "sql"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #0",
+    "scope": "shell"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "for i in range(10): print(i)",
+    "description": "rust hello #1",
+    "scope": "rust"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "rust hello #2",
+    "scope": "javascript"
+  },
+  "merge two lists #3": {
+    "prefix": "merge-two-lists-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "merge two lists #3",
+    "scope": "javascript"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": "echo 'hello world'",
+    "description": "python loop #4",
+    "scope": "yaml"
+  },
+  "node fs #5": {
+    "prefix": "node-fs-5",
+    "body": "for i in range(10): print(i)",
+    "description": "node fs #5",
+    "scope": "python"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #6",
+    "scope": "go"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": "const fs = require('fs')",
+    "description": "html stub #7",
+    "scope": "html"
+  },
+  "node fs #8": {
+    "prefix": "node-fs-8",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "node fs #8",
+    "scope": "yaml"
+  },
+  "rust hello #9": {
+    "prefix": "rust-hello-9",
+    "body": "for i in range(10): print(i)",
+    "description": "rust hello #9",
+    "scope": "go"
+  },
+  "tail a file #10": {
+    "prefix": "tail-a-file-10",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #10",
+    "scope": "javascript"
+  }
+}

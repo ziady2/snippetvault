@@ -1,0 +1,93 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "<html><body>x</body></html>",
+    "description": "python loop #0",
+    "scope": "python"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #1",
+    "scope": "rust"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "node fs #2",
+    "scope": "javascript"
+  },
+  "go hello #3": {
+    "prefix": "go-hello-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "go hello #3",
+    "scope": "shell"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #4",
+    "scope": "javascript"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #5",
+    "scope": "python"
+  },
+  "compose #6": {
+    "prefix": "compose-6",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #6",
+    "scope": "yaml"
+  },
+  "grep TODO #7": {
+    "prefix": "grep-todo-7",
+    "body": "<html><body>x</body></html>",
+    "description": "grep TODO #7",
+    "scope": "yaml"
+  },
+  "grep TODO #8": {
+    "prefix": "grep-todo-8",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #8",
+    "scope": "go"
+  },
+  "html stub #9": {
+    "prefix": "html-stub-9",
+    "body": "echo 'hello world'",
+    "description": "html stub #9",
+    "scope": "python"
+  },
+  "compose #10": {
+    "prefix": "compose-10",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #10",
+    "scope": "shell"
+  }
+}

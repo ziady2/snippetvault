@@ -1,0 +1,87 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "<html><body>x</body></html>",
+    "description": "python loop #0",
+    "scope": "javascript"
+  },
+  "html stub #1": {
+    "prefix": "html-stub-1",
+    "body": "const fs = require('fs')",
+    "description": "html stub #1",
+    "scope": "sql"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #2",
+    "scope": "python"
+  },
+  "tail a file #3": {
+    "prefix": "tail-a-file-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #3",
+    "scope": "python"
+  },
+  "go hello #4": {
+    "prefix": "go-hello-4",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "go hello #4",
+    "scope": "shell"
+  },
+  "html stub #5": {
+    "prefix": "html-stub-5",
+    "body": "echo 'hello world'",
+    "description": "html stub #5",
+    "scope": "javascript"
+  },
+  "active users #6": {
+    "prefix": "active-users-6",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #6",
+    "scope": "yaml"
+  },
+  "rust hello #7": {
+    "prefix": "rust-hello-7",
+    "body": "echo 'hello world'",
+    "description": "rust hello #7",
+    "scope": "python"
+  },
+  "grep TODO #8": {
+    "prefix": "grep-todo-8",
+    "body": "for i in range(10): print(i)",
+    "description": "grep TODO #8",
+    "scope": "rust"
+  },
+  "node fs #9": {
+    "prefix": "node-fs-9",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "node fs #9",
+    "scope": "sql"
+  },
+  "rust hello #10": {
+    "prefix": "rust-hello-10",
+    "body": "for i in range(10): print(i)",
+    "description": "rust hello #10",
+    "scope": "go"
+  },
+  "rust hello #11": {
+    "prefix": "rust-hello-11",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #11",
+    "scope": "html"
+  }
+}

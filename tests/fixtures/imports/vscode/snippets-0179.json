@@ -1,0 +1,14 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #0",
+    "scope": "rust"
+  },
+  "rust hello #1": {
+    "prefix": "rust-hello-1",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #1",
+    "scope": "html"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #0",
+    "scope": "html"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "go hello #1",
+    "scope": "go"
+  }
+}

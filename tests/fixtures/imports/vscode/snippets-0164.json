@@ -1,0 +1,88 @@
+{
+  "tail a file #0": {
+    "prefix": "tail-a-file-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "tail a file #0",
+    "scope": "go"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "merge two lists #1",
+    "scope": "javascript"
+  },
+  "rust hello #2": {
+    "prefix": "rust-hello-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "rust hello #2",
+    "scope": "shell"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #3",
+    "scope": "javascript"
+  },
+  "rust hello #4": {
+    "prefix": "rust-hello-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "rust hello #4",
+    "scope": "sql"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": "const fs = require('fs')",
+    "description": "compose #5",
+    "scope": "sql"
+  },
+  "grep TODO #6": {
+    "prefix": "grep-todo-6",
+    "body": "echo 'hello world'",
+    "description": "grep TODO #6",
+    "scope": "yaml"
+  },
+  "tail a file #7": {
+    "prefix": "tail-a-file-7",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "tail a file #7",
+    "scope": "python"
+  },
+  "active users #8": {
+    "prefix": "active-users-8",
+    "body": "echo 'hello world'",
+    "description": "active users #8",
+    "scope": "html"
+  },
+  "python loop #9": {
+    "prefix": "python-loop-9",
+    "body": "echo 'hello world'",
+    "description": "python loop #9",
+    "scope": "html"
+  },
+  "merge two lists #10": {
+    "prefix": "merge-two-lists-10",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #10",
+    "scope": "yaml"
+  }
+}

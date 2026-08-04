@@ -1,0 +1,69 @@
+{
+  "grep TODO #0": {
+    "prefix": "grep-todo-0",
+    "body": "function foo() { return Math.random(); }",
+    "description": "grep TODO #0",
+    "scope": "python"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": "const fs = require('fs')",
+    "description": "python loop #1",
+    "scope": "sql"
+  },
+  "python loop #2": {
+    "prefix": "python-loop-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #2",
+    "scope": "python"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "grep TODO #3",
+    "scope": "shell"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": "for i in range(10): print(i)",
+    "description": "active users #4",
+    "scope": "python"
+  },
+  "tail a file #5": {
+    "prefix": "tail-a-file-5",
+    "body": "echo 'hello world'",
+    "description": "tail a file #5",
+    "scope": "go"
+  },
+  "python loop #6": {
+    "prefix": "python-loop-6",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #6",
+    "scope": "sql"
+  },
+  "go hello #7": {
+    "prefix": "go-hello-7",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "go hello #7",
+    "scope": "python"
+  },
+  "rust hello #8": {
+    "prefix": "rust-hello-8",
+    "body": "<html><body>x</body></html>",
+    "description": "rust hello #8",
+    "scope": "go"
+  }
+}

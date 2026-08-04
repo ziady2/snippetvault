@@ -1,0 +1,21 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "compose #0",
+    "scope": "html"
+  },
+  "compose #1": {
+    "prefix": "compose-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "compose #1",
+    "scope": "python"
+  }
+}

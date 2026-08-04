@@ -1,0 +1,42 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "compose #0",
+    "scope": "javascript"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "echo 'hello world'",
+    "description": "go hello #1",
+    "scope": "javascript"
+  },
+  "tail a file #2": {
+    "prefix": "tail-a-file-2",
+    "body": "const fs = require('fs')",
+    "description": "tail a file #2",
+    "scope": "python"
+  },
+  "python loop #3": {
+    "prefix": "python-loop-3",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #3",
+    "scope": "sql"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "active users #4",
+    "scope": "yaml"
+  }
+}

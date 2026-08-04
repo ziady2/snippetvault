@@ -1,0 +1,60 @@
+{
+  "compose #0": {
+    "prefix": "compose-0",
+    "body": "echo 'hello world'",
+    "description": "compose #0",
+    "scope": "javascript"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "go hello #1",
+    "scope": "shell"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "grep TODO #2",
+    "scope": "javascript"
+  },
+  "node fs #3": {
+    "prefix": "node-fs-3",
+    "body": "const fs = require('fs')",
+    "description": "node fs #3",
+    "scope": "python"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "active users #4",
+    "scope": "yaml"
+  },
+  "active users #5": {
+    "prefix": "active-users-5",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "active users #5",
+    "scope": "yaml"
+  },
+  "grep TODO #6": {
+    "prefix": "grep-todo-6",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #6",
+    "scope": "go"
+  },
+  "merge two lists #7": {
+    "prefix": "merge-two-lists-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "merge two lists #7",
+    "scope": "sql"
+  }
+}

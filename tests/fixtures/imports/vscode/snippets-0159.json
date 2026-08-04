@@ -1,0 +1,17 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "const fs = require('fs')",
+    "description": "python loop #0",
+    "scope": "javascript"
+  },
+  "go hello #1": {
+    "prefix": "go-hello-1",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "go hello #1",
+    "scope": "rust"
+  }
+}

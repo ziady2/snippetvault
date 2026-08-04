@@ -1,0 +1,32 @@
+{
+  "python loop #0": {
+    "prefix": "python-loop-0",
+    "body": "echo 'hello world'",
+    "description": "python loop #0",
+    "scope": "javascript"
+  },
+  "merge two lists #1": {
+    "prefix": "merge-two-lists-1",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "merge two lists #1",
+    "scope": "html"
+  },
+  "grep TODO #2": {
+    "prefix": "grep-todo-2",
+    "body": "const fs = require('fs')",
+    "description": "grep TODO #2",
+    "scope": "javascript"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "grep TODO #3",
+    "scope": "sql"
+  }
+}

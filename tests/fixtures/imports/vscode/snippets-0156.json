@@ -1,0 +1,47 @@
+{
+  "merge two lists #0": {
+    "prefix": "merge-two-lists-0",
+    "body": "echo 'hello world'",
+    "description": "merge two lists #0",
+    "scope": "shell"
+  },
+  "tail a file #1": {
+    "prefix": "tail-a-file-1",
+    "body": "function foo() { return Math.random(); }",
+    "description": "tail a file #1",
+    "scope": "python"
+  },
+  "node fs #2": {
+    "prefix": "node-fs-2",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "node fs #2",
+    "scope": "yaml"
+  },
+  "html stub #3": {
+    "prefix": "html-stub-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "html stub #3",
+    "scope": "html"
+  },
+  "rust hello #4": {
+    "prefix": "rust-hello-4",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "rust hello #4",
+    "scope": "javascript"
+  },
+  "merge two lists #5": {
+    "prefix": "merge-two-lists-5",
+    "body": "function foo() { return Math.random(); }",
+    "description": "merge two lists #5",
+    "scope": "python"
+  }
+}

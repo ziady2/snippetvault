@@ -1,0 +1,69 @@
+{
+  "active users #0": {
+    "prefix": "active-users-0",
+    "body": "<html><body>x</body></html>",
+    "description": "active users #0",
+    "scope": "shell"
+  },
+  "python loop #1": {
+    "prefix": "python-loop-1",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "python loop #1",
+    "scope": "rust"
+  },
+  "compose #2": {
+    "prefix": "compose-2",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "compose #2",
+    "scope": "html"
+  },
+  "active users #3": {
+    "prefix": "active-users-3",
+    "body": [
+      "use std::io::Read;",
+      "fn main() {}"
+    ],
+    "description": "active users #3",
+    "scope": "javascript"
+  },
+  "python loop #4": {
+    "prefix": "python-loop-4",
+    "body": [
+      "package main",
+      "import \"fmt\"",
+      "func main() { fmt.Println(\"x\") }"
+    ],
+    "description": "python loop #4",
+    "scope": "yaml"
+  },
+  "compose #5": {
+    "prefix": "compose-5",
+    "body": [
+      "version: '3'",
+      "services: {}"
+    ],
+    "description": "compose #5",
+    "scope": "python"
+  },
+  "compose #6": {
+    "prefix": "compose-6",
+    "body": "const fs = require('fs')",
+    "description": "compose #6",
+    "scope": "shell"
+  },
+  "html stub #7": {
+    "prefix": "html-stub-7",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "html stub #7",
+    "scope": "go"
+  },
+  "active users #8": {
+    "prefix": "active-users-8",
+    "body": "const fs = require('fs')",
+    "description": "active users #8",
+    "scope": "sql"
+  }
+}

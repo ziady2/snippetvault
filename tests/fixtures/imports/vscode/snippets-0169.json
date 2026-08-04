@@ -1,0 +1,35 @@
+{
+  "html stub #0": {
+    "prefix": "html-stub-0",
+    "body": [
+      "import asyncio",
+      "async def foo(): await asyncio.sleep(0.1)"
+    ],
+    "description": "html stub #0",
+    "scope": "python"
+  },
+  "node fs #1": {
+    "prefix": "node-fs-1",
+    "body": "<html><body>x</body></html>",
+    "description": "node fs #1",
+    "scope": "shell"
+  },
+  "active users #2": {
+    "prefix": "active-users-2",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #2",
+    "scope": "javascript"
+  },
+  "grep TODO #3": {
+    "prefix": "grep-todo-3",
+    "body": "SELECT * FROM users WHERE active = TRUE;",
+    "description": "grep TODO #3",
+    "scope": "yaml"
+  },
+  "active users #4": {
+    "prefix": "active-users-4",
+    "body": "function foo() { return Math.random(); }",
+    "description": "active users #4",
+    "scope": "javascript"
+  }
+}
